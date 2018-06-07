@@ -24,13 +24,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.cf-xbtc:before {
+.cf-0xbtc:before {
   content: "\e900";
 }
-.cf-wo:before {
+.cf-1wo:before {
   content: "\e901";
 }
-.cf-bit:before {
+.cf-8bit:before {
   content: "\e902";
 }
 .cf-42:before {
