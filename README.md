@@ -1,5 +1,5 @@
 # cryptofont
-Cryptocurrency icon webfont and SVG
+Cryptocurrency icon webfont and SVG V1.0.1
 
 Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.
 
