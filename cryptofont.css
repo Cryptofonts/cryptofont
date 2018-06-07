@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'cryptofont';
-  src:  url('fonts/cryptofont.eot?7tmmxs');
-  src:  url('fonts/cryptofont.eot?7tmmxs#iefix') format('embedded-opentype'),
-    url('fonts/cryptofont.ttf?7tmmxs') format('truetype'),
-    url('fonts/cryptofont.woff?7tmmxs') format('woff'),
-    url('fonts/cryptofont.svg?7tmmxs#cryptofont') format('svg');
+  src:  url('fonts/cryptofont.eot?dbbrwx');
+  src:  url('fonts/cryptofont.eot?dbbrwx#iefix') format('embedded-opentype'),
+    url('fonts/cryptofont.ttf?dbbrwx') format('truetype'),
+    url('fonts/cryptofont.woff?dbbrwx') format('woff'),
+    url('fonts/cryptofont.svg?dbbrwx#cryptofont') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,144 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.cf-xbtc:before {
+  content: "\ecce";
+}
+.cf-apis:before {
+  content: "\eccf";
+}
+.cf-bbo:before {
+  content: "\ecd0";
+}
+.cf-bmh:before {
+  content: "\ecd1";
+}
+.cf-bnk:before {
+  content: "\ecd2";
+}
+.cf-caz:before {
+  content: "\ecd3";
+}
+.cf-cln:before {
+  content: "\ecd4";
+}
+.cf-clo:before {
+  content: "\ecd5";
+}
+.cf-cnet:before {
+  content: "\ecd6";
+}
+.cf-dasc:before {
+  content: "\ecd7";
+}
+.cf-dgtx:before {
+  content: "\ecd8";
+}
+.cf-dtrc:before {
+  content: "\ecd9";
+}
+.cf-duo:before {
+  content: "\ecda";
+}
+.cf-etz:before {
+  content: "\ecdb";
+}
+.cf-face:before {
+  content: "\ecdc";
+}
+.cf-fnd:before {
+  content: "\ecdd";
+}
+.cf-ft:before {
+  content: "\ecde";
+}
+.cf-gin:before {
+  content: "\ecdf";
+}
+.cf-her:before {
+  content: "\ece0";
+}
+.cf-hero:before {
+  content: "\ece1";
+}
+.cf-inv:before {
+  content: "\ece2";
+}
+.cf-iotx:before {
+  content: "\ece3";
+}
+.cf-ivy:before {
+  content: "\ece4";
+}
+.cf-lba:before {
+  content: "\ece5";
+}
+.cf-loki:before {
+  content: "\ece6";
+}
+.cf-lwf:before {
+  content: "\ece7";
+}
+.cf-lyl:before {
+  content: "\ece8";
+}
+.cf-morph:before {
+  content: "\ece9";
+}
+.cf-navi:before {
+  content: "\ecea";
+}
+.cf-nkn:before {
+  content: "\eceb";
+}
+.cf-open:before {
+  content: "\ecec";
+}
+.cf-pai:before {
+  content: "\eced";
+}
+.cf-pat:before {
+  content: "\ecee";
+}
+.cf-pwr:before {
+  content: "\ecef";
+}
+.cf-qkc:before {
+  content: "\ecf0";
+}
+.cf-repo:before {
+  content: "\ecf1";
+}
+.cf-seele:before {
+  content: "\ecf2";
+}
+.cf-sgn:before {
+  content: "\ecf3";
+}
+.cf-shl:before {
+  content: "\ecf4";
+}
+.cf-sntr:before {
+  content: "\ecf5";
+}
+.cf-soul:before {
+  content: "\ecf6";
+}
+.cf-spd2:before {
+  content: "\ecf7";
+}
+.cf-tka:before {
+  content: "\ecf8";
+}
+.cf-ubt:before {
+  content: "\ecf9";
+}
+.cf-xrh:before {
+  content: "\ecfa";
+}
+.cf-xyo:before {
+  content: "\ecfb";
+}
 .cf-1wo:before {
   content: "\e900";
 }
@@ -1689,7 +1827,7 @@
 .cf-nas:before {
   content: "\eb2a";
 }
-.cf-nav:before {
+.cf-nav2:before {
   content: "\eb2b";
 }
 .cf-nbai:before {
