@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ---
+## [1.1.0] - 2020-04-10
+### Added
+- ALGO, BUSD, CKB, DAI, FTT, HBAR, NRG, OKB, SNX, ZB
+### Updated
+- ABYSS, AION, ATOM, BEZ, BITG, ETC, KNC, LINK, LRC, NEO, NPXS, PART, POA, PRO, TKN, TOMO, USDT, UTK, WABI, XTZ, ZEN
+---
 ## [1.0.2] - 2018-06-19
 ### Added
 - 14 new icons.
