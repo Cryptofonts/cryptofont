@@ -10,6 +10,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 - ALGO, BUSD, CKB, DAI, FTT, HBAR, NRG, OKB, SNX, ZB
 ### Updated
 - ABYSS, AION, ATOM, BEZ, BITG, ETC, KNC, LINK, LRC, NEO, NPXS, PART, POA, PRO, TKN, TOMO, USDT, UTK, WABI, XTZ, ZEN
+### Removed
+- 0XBTX, 1WO, 8BIT
 ---
 ## [1.0.2] - 2018-06-19
 ### Added
