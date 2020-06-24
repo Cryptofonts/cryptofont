@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.2.0] - 2020-06-25
+### Added
+- BCH, AMPL, APL, BTT, CEL, CHZ, COMP, DIVI, FXC, HEDG, HIVE, HUSD, HYN, LUNA, MATIC, PAX, QNT, USDC, ABBC, BAND, ERD, FET, GRIN, GT, HC, KAVA, NEX, OCEAN, OGN, ONE, ORBS, RIF, RSR, TFUEL, VSYS, WXT, XNS, XSR
+### Updated
+- ABT, KMD, LEO, OMG, SNT, STX, VEN, XLM, ANT, CVT, DGTX, EDO, GO, MAID, PAI, POWR, CND, IOTX, OKB, XVG
 ---
 ## [1.1.0] - 2020-04-10
 ### Added
@@ -16,7 +21,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ## [1.0.2] - 2018-06-19
 ### Added
 - 14 new icons.
-### Changed
+### Updated
 - XRP
 - ANT
 
