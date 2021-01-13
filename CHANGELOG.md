@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.3.0] - 2021-01-14
+### Added
+-
+### Updated
+- 
+---
 ## [1.2.0] - 2020-06-25
 ### Added
 - BCH, AMPL, APL, BTT, CEL, CHZ, COMP, DIVI, FXC, HEDG, HIVE, HUSD, HYN, LUNA, MATIC, PAX, QNT, USDC, ABBC, BAND, ERD, FET, GRIN, GT, HC, KAVA, NEX, OCEAN, OGN, ONE, ORBS, RIF, RSR, TFUEL, VSYS, WXT, XNS, XSR
