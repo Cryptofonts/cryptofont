@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'cryptofont';
-  src:  url('fonts/cryptofont.eot?21w9ej');
-  src:  url('fonts/cryptofont.eot?21w9ej#iefix') format('embedded-opentype'),
-    url('fonts/cryptofont.ttf?21w9ej') format('truetype'),
-    url('fonts/cryptofont.woff?21w9ej') format('woff'),
-    url('fonts/cryptofont.svg?21w9ej#cryptofont') format('svg');
+  src:  url('fonts/cryptofont.eot?ea921x');
+  src:  url('fonts/cryptofont.eot?ea921x#iefix') format('embedded-opentype'),
+    url('fonts/cryptofont.ttf?ea921x') format('truetype'),
+    url('fonts/cryptofont.woff?ea921x') format('woff'),
+    url('fonts/cryptofont.svg?ea921x#cryptofont') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,3237 +25,3642 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.cf-42:before {
+.cf-0xbtc:before {
   content: "\e900";
 }
-.cf-888:before {
+.cf-1inch:before {
   content: "\e901";
 }
-.cf-1337:before {
+.cf-1st:before {
   content: "\e902";
 }
-.cf-abbc:before {
+.cf-42:before {
   content: "\e903";
 }
-.cf-abt:before {
+.cf-888:before {
   content: "\e904";
 }
-.cf-aby:before {
+.cf-1337:before {
   content: "\e905";
 }
-.cf-abyss:before {
+.cf-aave:before {
   content: "\e906";
 }
-.cf-ac3:before {
+.cf-abbc:before {
   content: "\e907";
 }
-.cf-acat:before {
+.cf-abt:before {
   content: "\e908";
 }
-.cf-acc:before {
+.cf-aby:before {
   content: "\e909";
 }
-.cf-ace:before {
+.cf-abyss:before {
   content: "\e90a";
 }
-.cf-act:before {
+.cf-ac3:before {
   content: "\e90b";
 }
-.cf-ada:before {
+.cf-acat:before {
   content: "\e90c";
 }
-.cf-adb:before {
+.cf-acc:before {
   content: "\e90d";
 }
-.cf-adc:before {
+.cf-ace:before {
   content: "\e90e";
 }
-.cf-adh:before {
+.cf-act:before {
   content: "\e90f";
 }
-.cf-adi:before {
+.cf-ada:before {
   content: "\e910";
 }
-.cf-adst:before {
+.cf-adb:before {
   content: "\e911";
 }
-.cf-adt:before {
+.cf-adc:before {
   content: "\e912";
 }
-.cf-adx:before {
+.cf-adh:before {
   content: "\e913";
 }
-.cf-ae:before {
+.cf-adi:before {
   content: "\e914";
 }
-.cf-aeon:before {
+.cf-adst:before {
   content: "\e915";
 }
-.cf-aerm:before {
+.cf-adt:before {
   content: "\e916";
 }
-.cf-agi:before {
+.cf-adx:before {
   content: "\e917";
 }
-.cf-aht:before {
+.cf-ae:before {
   content: "\e918";
 }
-.cf-ai:before {
+.cf-aeon:before {
   content: "\e919";
 }
-.cf-aib:before {
+.cf-aergo:before {
   content: "\e91a";
 }
-.cf-aid:before {
+.cf-aerm:before {
   content: "\e91b";
 }
-.cf-aidoc:before {
+.cf-agi:before {
   content: "\e91c";
 }
-.cf-aion:before {
+.cf-aht:before {
   content: "\e91d";
 }
-.cf-air:before {
+.cf-ai:before {
   content: "\e91e";
 }
-.cf-ait:before {
+.cf-aib:before {
   content: "\e91f";
 }
-.cf-aix:before {
+.cf-aid:before {
   content: "\e920";
 }
-.cf-algo:before {
+.cf-aidoc:before {
   content: "\e921";
 }
-.cf-alis:before {
+.cf-aion:before {
   content: "\e922";
 }
-.cf-alqo:before {
+.cf-air:before {
   content: "\e923";
 }
-.cf-alt:before {
+.cf-ait:before {
   content: "\e924";
 }
-.cf-amb:before {
+.cf-aix:before {
   content: "\e925";
 }
-.cf-amlt:before {
+.cf-akro:before {
   content: "\e926";
 }
-.cf-amm:before {
+.cf-aleph:before {
   content: "\e927";
 }
-.cf-amn:before {
+.cf-algo:before {
   content: "\e928";
 }
-.cf-amp:before {
+.cf-alis:before {
   content: "\e929";
 }
-.cf-ampl:before {
+.cf-alqo:before {
   content: "\e92a";
 }
-.cf-ams:before {
+.cf-alt:before {
   content: "\e92b";
 }
-.cf-anc:before {
+.cf-alx:before {
   content: "\e92c";
 }
-.cf-ant:before {
+.cf-amb:before {
   content: "\e92d";
 }
-.cf-aph:before {
+.cf-amlt:before {
   content: "\e92e";
 }
-.cf-apis:before {
+.cf-amm:before {
   content: "\e92f";
 }
-.cf-apl:before {
+.cf-amn:before {
   content: "\e930";
 }
-.cf-appc:before {
+.cf-amp:before {
   content: "\e931";
 }
-.cf-apr:before {
+.cf-ampl:before {
   content: "\e932";
 }
-.cf-arc:before {
+.cf-ams:before {
   content: "\e933";
 }
-.cf-arct:before {
+.cf-anc:before {
   content: "\e934";
 }
-.cf-ardr:before {
+.cf-anj:before {
   content: "\e935";
 }
-.cf-arg:before {
+.cf-ankr:before {
   content: "\e936";
 }
-.cf-ark:before {
+.cf-ant:before {
   content: "\e937";
 }
-.cf-arn:before {
+.cf-aph:before {
   content: "\e938";
 }
-.cf-art:before {
+.cf-apis:before {
   content: "\e939";
 }
-.cf-ary:before {
+.cf-apl:before {
   content: "\e93a";
 }
-.cf-ast:before {
+.cf-appc:before {
   content: "\e93b";
 }
-.cf-astro:before {
+.cf-apr:before {
   content: "\e93c";
 }
-.cf-atb:before {
+.cf-arc:before {
   content: "\e93d";
 }
-.cf-atc:before {
+.cf-arct:before {
   content: "\e93e";
 }
-.cf-atl:before {
+.cf-ardr:before {
   content: "\e93f";
 }
-.cf-atm:before {
+.cf-arg:before {
   content: "\e940";
 }
-.cf-atmc:before {
+.cf-ark:before {
   content: "\e941";
 }
-.cf-atn:before {
+.cf-arn:before {
   content: "\e942";
 }
-.cf-atom:before {
+.cf-aro:before {
   content: "\e943";
 }
-.cf-ats:before {
+.cf-arrr:before {
   content: "\e944";
 }
-.cf-atx:before {
+.cf-art:before {
   content: "\e945";
 }
-.cf-auc:before {
+.cf-ary:before {
   content: "\e946";
 }
-.cf-aur:before {
+.cf-ast:before {
   content: "\e947";
 }
-.cf-aura:before {
+.cf-astro:before {
   content: "\e948";
 }
-.cf-avt:before {
+.cf-atb:before {
   content: "\e949";
 }
-.cf-axp:before {
+.cf-atc:before {
   content: "\e94a";
 }
-.cf-b2b:before {
+.cf-atl:before {
   content: "\e94b";
 }
-.cf-banca:before {
+.cf-atm:before {
   content: "\e94c";
 }
-.cf-band:before {
+.cf-atmc:before {
   content: "\e94d";
 }
-.cf-bank:before {
+.cf-atmi:before {
   content: "\e94e";
 }
-.cf-bat:before {
+.cf-atn:before {
   content: "\e94f";
 }
-.cf-bax:before {
+.cf-atom:before {
   content: "\e950";
 }
-.cf-bay:before {
+.cf-ats:before {
   content: "\e951";
 }
-.cf-bbi:before {
+.cf-atx:before {
   content: "\e952";
 }
-.cf-bbn:before {
+.cf-auc:before {
   content: "\e953";
 }
-.cf-bbo:before {
+.cf-aur:before {
   content: "\e954";
 }
-.cf-bbp:before {
+.cf-aura:before {
   content: "\e955";
 }
-.cf-bbr:before {
+.cf-avax:before {
   content: "\e956";
 }
-.cf-bcc:before {
+.cf-avt:before {
   content: "\e957";
 }
-.cf-bcd:before {
+.cf-awc:before {
   content: "\e958";
 }
-.cf-bch:before {
+.cf-axp:before {
   content: "\e959";
 }
-.cf-bcn:before {
+.cf-b2b:before {
   content: "\e95a";
 }
-.cf-bco:before {
+.cf-bac:before {
   content: "\e95b";
 }
-.cf-bcpt:before {
+.cf-bal:before {
   content: "\e95c";
 }
-.cf-bdg:before {
+.cf-bam:before {
   content: "\e95d";
 }
-.cf-bdl:before {
+.cf-banca:before {
   content: "\e95e";
 }
-.cf-bee:before {
+.cf-band:before {
   content: "\e95f";
 }
-.cf-bela:before {
+.cf-bank:before {
   content: "\e960";
 }
-.cf-berry:before {
+.cf-bat:before {
   content: "\e961";
 }
-.cf-bet:before {
+.cf-bax:before {
   content: "\e962";
 }
-.cf-betr:before {
+.cf-bay:before {
   content: "\e963";
 }
-.cf-bez:before {
+.cf-bbi:before {
   content: "\e964";
 }
-.cf-bft:before {
+.cf-bbn:before {
   content: "\e965";
 }
-.cf-bigup:before {
+.cf-bbo:before {
   content: "\e966";
 }
-.cf-birds:before {
+.cf-bbp:before {
   content: "\e967";
 }
-.cf-bis:before {
+.cf-bbr:before {
   content: "\e968";
 }
-.cf-bitb:before {
+.cf-bcc:before {
   content: "\e969";
 }
-.cf-bitg:before {
+.cf-bcd:before {
   content: "\e96a";
 }
-.cf-bits:before {
+.cf-bch:before {
   content: "\e96b";
 }
-.cf-bitz:before {
+.cf-bcn:before {
   content: "\e96c";
 }
-.cf-bix:before {
+.cf-bco:before {
   content: "\e96d";
 }
-.cf-bkx:before {
+.cf-bcpt:before {
   content: "\e96e";
 }
-.cf-blc:before {
+.cf-bdg:before {
   content: "\e96f";
 }
-.cf-blitz:before {
+.cf-bdl:before {
   content: "\e970";
 }
-.cf-blk:before {
+.cf-bee:before {
   content: "\e971";
 }
-.cf-bln:before {
+.cf-bela:before {
   content: "\e972";
 }
-.cf-block:before {
+.cf-berry:before {
   content: "\e973";
 }
-.cf-blt:before {
+.cf-bet:before {
   content: "\e974";
 }
-.cf-blu:before {
+.cf-betr:before {
   content: "\e975";
 }
-.cf-blue:before {
+.cf-bez:before {
   content: "\e976";
 }
-.cf-blz:before {
+.cf-bf:before {
   content: "\e977";
 }
-.cf-blz2:before {
+.cf-bft:before {
   content: "\e978";
 }
-.cf-bmc:before {
+.cf-bigup:before {
   content: "\e979";
 }
-.cf-bmh:before {
+.cf-birds:before {
   content: "\e97a";
 }
-.cf-bnb:before {
+.cf-bis:before {
   content: "\e97b";
 }
-.cf-bnk:before {
+.cf-bitb:before {
   content: "\e97c";
 }
-.cf-bnt:before {
+.cf-bitg:before {
   content: "\e97d";
 }
-.cf-bnty:before {
+.cf-bits:before {
   content: "\e97e";
 }
-.cf-boat:before {
+.cf-bitz:before {
   content: "\e97f";
 }
-.cf-bon:before {
+.cf-bix:before {
   content: "\e980";
 }
-.cf-bos:before {
+.cf-bkx:before {
   content: "\e981";
 }
-.cf-bot:before {
+.cf-blc:before {
   content: "\e982";
 }
-.cf-bpt:before {
+.cf-blitz:before {
   content: "\e983";
 }
-.cf-bqx:before {
+.cf-blk:before {
   content: "\e984";
 }
-.cf-brat:before {
+.cf-bln:before {
   content: "\e985";
 }
-.cf-brd:before {
+.cf-block:before {
   content: "\e986";
 }
-.cf-bsd:before {
+.cf-blt:before {
   content: "\e987";
 }
-.cf-bsm:before {
+.cf-blu:before {
   content: "\e988";
 }
-.cf-bta:before {
+.cf-blue:before {
   content: "\e989";
 }
-.cf-btc:before {
+.cf-blz:before {
   content: "\e98a";
 }
-.cf-btca:before {
+.cf-blz2:before {
   content: "\e98b";
 }
-.cf-btcd:before {
+.cf-bmc:before {
   content: "\e98c";
 }
-.cf-btcp:before {
+.cf-bmh:before {
   content: "\e98d";
 }
-.cf-btdx:before {
+.cf-bnb:before {
   content: "\e98e";
 }
-.cf-bte:before {
+.cf-bnk:before {
   content: "\e98f";
 }
-.cf-btg:before {
+.cf-bnt:before {
   content: "\e990";
 }
-.cf-btm:before {
+.cf-bnty:before {
   content: "\e991";
 }
-.cf-btm2:before {
+.cf-boat:before {
   content: "\e992";
 }
-.cf-bto:before {
+.cf-bon:before {
   content: "\e993";
 }
-.cf-btrn:before {
+.cf-bos:before {
   content: "\e994";
 }
-.cf-bts:before {
+.cf-bot:before {
   content: "\e995";
 }
-.cf-btt:before {
+.cf-box:before {
   content: "\e996";
 }
-.cf-btx:before {
+.cf-bpt:before {
   content: "\e997";
 }
-.cf-burst:before {
+.cf-bqx:before {
   content: "\e998";
 }
-.cf-busd:before {
+.cf-brat:before {
   content: "\e999";
 }
-.cf-buzz:before {
+.cf-brd:before {
   content: "\e99a";
 }
-.cf-bwk:before {
+.cf-bsd:before {
   content: "\e99b";
 }
-.cf-byc:before {
+.cf-bsm:before {
   content: "\e99c";
 }
-.cf-c20:before {
+.cf-bta:before {
   content: "\e99d";
 }
-.cf-can:before {
+.cf-btc:before {
   content: "\e99e";
 }
-.cf-candy:before {
+.cf-btc1:before {
   content: "\e99f";
 }
-.cf-cann:before {
+.cf-btca:before {
   content: "\e9a0";
 }
-.cf-capp:before {
+.cf-btcd:before {
   content: "\e9a1";
 }
-.cf-carbon:before {
+.cf-btcp:before {
   content: "\e9a2";
 }
-.cf-cas:before {
+.cf-btdx:before {
   content: "\e9a3";
 }
-.cf-cat:before {
+.cf-bte:before {
   content: "\e9a4";
 }
-.cf-cat2:before {
+.cf-btg:before {
   content: "\e9a5";
 }
-.cf-caz:before {
+.cf-btm:before {
   content: "\e9a6";
 }
-.cf-cbc:before {
+.cf-btm2:before {
   content: "\e9a7";
 }
-.cf-cbt:before {
+.cf-btmx:before {
   content: "\e9a8";
 }
-.cf-cbx:before {
+.cf-bto:before {
   content: "\e9a9";
 }
-.cf-ccrb:before {
+.cf-btrn:before {
   content: "\e9aa";
 }
-.cf-cdn:before {
+.cf-bts:before {
   content: "\e9ab";
 }
-.cf-cdt:before {
+.cf-btt:before {
   content: "\e9ac";
 }
-.cf-ceek:before {
+.cf-btu:before {
   content: "\e9ad";
 }
-.cf-cel:before {
+.cf-btx:before {
   content: "\e9ae";
 }
-.cf-cennz:before {
+.cf-bu:before {
   content: "\e9af";
 }
-.cf-cfi:before {
+.cf-burst:before {
   content: "\e9b0";
 }
-.cf-chc:before {
+.cf-busd:before {
   content: "\e9b1";
 }
-.cf-chp:before {
+.cf-buzz:before {
   content: "\e9b2";
 }
-.cf-chsb:before {
+.cf-bwk:before {
   content: "\e9b3";
 }
-.cf-chx:before {
+.cf-bwt:before {
   content: "\e9b4";
 }
-.cf-chz:before {
+.cf-byc:before {
   content: "\e9b5";
 }
-.cf-cjt:before {
+.cf-bz:before {
   content: "\e9b6";
 }
-.cf-ckb:before {
+.cf-bznt:before {
   content: "\e9b7";
 }
-.cf-cl:before {
+.cf-bzrx:before {
   content: "\e9b8";
 }
-.cf-clam:before {
+.cf-c20:before {
   content: "\e9b9";
 }
-.cf-cln:before {
+.cf-cake:before {
   content: "\e9ba";
 }
-.cf-clo:before {
+.cf-can:before {
   content: "\e9bb";
 }
-.cf-cloak:before {
+.cf-candy:before {
   content: "\e9bc";
 }
-.cf-clr:before {
+.cf-cann:before {
   content: "\e9bd";
 }
-.cf-cmpco:before {
+.cf-capp:before {
   content: "\e9be";
 }
-.cf-cms:before {
+.cf-car:before {
   content: "\e9bf";
 }
-.cf-cmt:before {
+.cf-carbon:before {
   content: "\e9c0";
 }
-.cf-cnd:before {
+.cf-card:before {
   content: "\e9c1";
 }
-.cf-cnet:before {
+.cf-cas:before {
   content: "\e9c2";
 }
-.cf-cnn:before {
+.cf-cat:before {
   content: "\e9c3";
 }
-.cf-cnx:before {
+.cf-cat2:before {
   content: "\e9c4";
 }
-.cf-coal:before {
+.cf-caz:before {
   content: "\e9c5";
 }
-.cf-cob:before {
+.cf-cbc:before {
   content: "\e9c6";
 }
-.cf-colx:before {
+.cf-cbt:before {
   content: "\e9c7";
 }
-.cf-comp:before {
+.cf-cbx:before {
   content: "\e9c8";
 }
-.cf-con:before {
+.cf-cccx:before {
   content: "\e9c9";
 }
-.cf-coss:before {
+.cf-ccrb:before {
   content: "\e9ca";
 }
-.cf-cov:before {
+.cf-cdn:before {
   content: "\e9cb";
 }
-.cf-coval:before {
+.cf-cdt:before {
   content: "\e9cc";
 }
-.cf-cpc:before {
+.cf-ceek:before {
   content: "\e9cd";
 }
-.cf-cpc2:before {
+.cf-cel:before {
   content: "\e9ce";
 }
-.cf-cpn:before {
+.cf-celr:before {
   content: "\e9cf";
 }
-.cf-cpx:before {
+.cf-cennz:before {
   content: "\e9d0";
 }
-.cf-cpy:before {
+.cf-cfi:before {
   content: "\e9d1";
 }
-.cf-crave:before {
+.cf-chai:before {
   content: "\e9d2";
 }
-.cf-crb:before {
+.cf-chat:before {
   content: "\e9d3";
 }
-.cf-crc:before {
+.cf-chc:before {
   content: "\e9d4";
 }
-.cf-cre:before {
+.cf-chp:before {
   content: "\e9d5";
 }
-.cf-crea:before {
+.cf-chsb:before {
   content: "\e9d6";
 }
-.cf-cred:before {
+.cf-chx:before {
   content: "\e9d7";
 }
-.cf-credo:before {
+.cf-chz:before {
   content: "\e9d8";
 }
-.cf-crm:before {
+.cf-cjt:before {
   content: "\e9d9";
 }
-.cf-crop:before {
+.cf-ckb:before {
   content: "\e9da";
 }
-.cf-crpt:before {
+.cf-cl:before {
   content: "\e9db";
 }
-.cf-crw:before {
+.cf-clam:before {
   content: "\e9dc";
 }
-.cf-cs:before {
+.cf-cln:before {
   content: "\e9dd";
 }
-.cf-csc:before {
+.cf-clo:before {
   content: "\e9de";
 }
-.cf-csno:before {
+.cf-cloak:before {
   content: "\e9df";
 }
-.cf-ctr:before {
+.cf-clr:before {
   content: "\e9e0";
 }
-.cf-ctxc:before {
+.cf-cmpco:before {
   content: "\e9e1";
 }
-.cf-cure:before {
+.cf-cms:before {
   content: "\e9e2";
 }
-.cf-cv:before {
+.cf-cmt:before {
   content: "\e9e3";
 }
-.cf-cvc:before {
+.cf-cnd:before {
   content: "\e9e4";
 }
-.cf-cvcoin:before {
+.cf-cnet:before {
   content: "\e9e5";
 }
-.cf-cvt:before {
+.cf-cnn:before {
   content: "\e9e6";
 }
-.cf-cxo:before {
+.cf-cnx:before {
   content: "\e9e7";
 }
-.cf-dadi:before {
+.cf-coal:before {
   content: "\e9e8";
 }
-.cf-dai:before {
+.cf-cob:before {
   content: "\e9e9";
 }
-.cf-dan:before {
+.cf-colx:before {
   content: "\e9ea";
 }
-.cf-dasc:before {
+.cf-comp:before {
   content: "\e9eb";
 }
-.cf-dash:before {
+.cf-con:before {
   content: "\e9ec";
 }
-.cf-dat:before {
+.cf-coni:before {
   content: "\e9ed";
 }
-.cf-data:before {
+.cf-cosm:before {
   content: "\e9ee";
 }
-.cf-datx:before {
+.cf-coss:before {
   content: "\e9ef";
 }
-.cf-dax:before {
+.cf-coti:before {
   content: "\e9f0";
 }
-.cf-daxx:before {
+.cf-cov:before {
   content: "\e9f1";
 }
-.cf-day:before {
+.cf-cova:before {
   content: "\e9f2";
 }
-.cf-dbc:before {
+.cf-coval:before {
   content: "\e9f3";
 }
-.cf-dbet:before {
+.cf-cpc:before {
   content: "\e9f4";
 }
-.cf-dcn:before {
+.cf-cpc2:before {
   content: "\e9f5";
 }
-.cf-dcr:before {
+.cf-cpn:before {
   content: "\e9f6";
 }
-.cf-dct:before {
+.cf-cpx:before {
   content: "\e9f7";
 }
-.cf-dcy:before {
+.cf-cpy:before {
   content: "\e9f8";
 }
-.cf-ddd:before {
+.cf-crave:before {
   content: "\e9f9";
 }
-.cf-ddf:before {
+.cf-crb:before {
   content: "\e9fa";
 }
-.cf-deb:before {
+.cf-crc:before {
   content: "\e9fb";
 }
-.cf-dent:before {
+.cf-cre:before {
   content: "\e9fc";
 }
-.cf-dero:before {
+.cf-crea:before {
   content: "\e9fd";
 }
-.cf-deus:before {
+.cf-cream:before {
   content: "\e9fe";
 }
-.cf-dev:before {
+.cf-cred:before {
   content: "\e9ff";
 }
-.cf-dew:before {
+.cf-credo:before {
   content: "\ea00";
 }
-.cf-dft:before {
+.cf-crm:before {
   content: "\ea01";
 }
-.cf-dgb:before {
+.cf-cro:before {
   content: "\ea02";
 }
-.cf-dgd:before {
+.cf-crop:before {
   content: "\ea03";
 }
-.cf-dgpt:before {
+.cf-crpt:before {
   content: "\ea04";
 }
-.cf-dgtx:before {
+.cf-crw:before {
   content: "\ea05";
 }
-.cf-dice:before {
+.cf-cs:before {
   content: "\ea06";
 }
-.cf-dim:before {
+.cf-csc:before {
   content: "\ea07";
 }
-.cf-dime:before {
+.cf-csno:before {
   content: "\ea08";
 }
-.cf-divi:before {
+.cf-ctr:before {
   content: "\ea09";
 }
-.cf-divx:before {
+.cf-ctxc:before {
   content: "\ea0a";
 }
-.cf-dix:before {
+.cf-cube:before {
   content: "\ea0b";
 }
-.cf-dlisk:before {
+.cf-cure:before {
   content: "\ea0c";
 }
-.cf-dlt:before {
+.cf-cv:before {
   content: "\ea0d";
 }
-.cf-dmb:before {
+.cf-cvc:before {
   content: "\ea0e";
 }
-.cf-dmd:before {
+.cf-cvcoin:before {
   content: "\ea0f";
 }
-.cf-dml:before {
+.cf-cvt:before {
   content: "\ea10";
 }
-.cf-dmt:before {
+.cf-cxo:before {
   content: "\ea11";
 }
-.cf-dna:before {
+.cf-dadi:before {
   content: "\ea12";
 }
-.cf-dnr:before {
+.cf-dag:before {
   content: "\ea13";
 }
-.cf-dnt:before {
+.cf-dai:before {
   content: "\ea14";
 }
-.cf-dock:before {
+.cf-dan:before {
   content: "\ea15";
 }
-.cf-doge:before {
+.cf-dasc:before {
   content: "\ea16";
 }
-.cf-dp:before {
+.cf-dash:before {
   content: "\ea17";
 }
-.cf-dpy:before {
+.cf-dat:before {
   content: "\ea18";
 }
-.cf-drgn:before {
+.cf-data:before {
   content: "\ea19";
 }
-.cf-drop:before {
+.cf-datx:before {
   content: "\ea1a";
 }
-.cf-drpu:before {
+.cf-dax:before {
   content: "\ea1b";
 }
-.cf-drt:before {
+.cf-daxx:before {
   content: "\ea1c";
 }
-.cf-drxne:before {
+.cf-day:before {
   content: "\ea1d";
 }
-.cf-dsh:before {
+.cf-dbc:before {
   content: "\ea1e";
 }
-.cf-dsr:before {
+.cf-dbet:before {
   content: "\ea1f";
 }
-.cf-dta:before {
+.cf-dcc:before {
   content: "\ea20";
 }
-.cf-dtb:before {
+.cf-dcn:before {
   content: "\ea21";
 }
-.cf-dth:before {
+.cf-dcr:before {
   content: "\ea22";
 }
-.cf-dtr:before {
+.cf-dct:before {
   content: "\ea23";
 }
-.cf-dtrc:before {
+.cf-dcy:before {
   content: "\ea24";
 }
-.cf-duo:before {
+.cf-ddd:before {
   content: "\ea25";
 }
-.cf-dxt:before {
+.cf-ddf:before {
   content: "\ea26";
 }
-.cf-earth:before {
+.cf-deb:before {
   content: "\ea27";
 }
-.cf-ebtc:before {
+.cf-dent:before {
   content: "\ea28";
 }
-.cf-eca:before {
+.cf-dero:before {
   content: "\ea29";
 }
-.cf-ecash:before {
+.cf-deus:before {
   content: "\ea2a";
 }
-.cf-ecc:before {
+.cf-dev:before {
   content: "\ea2b";
 }
-.cf-ecob:before {
+.cf-dew:before {
   content: "\ea2c";
 }
-.cf-edg:before {
+.cf-dft:before {
   content: "\ea2d";
 }
-.cf-edo:before {
+.cf-dgb:before {
   content: "\ea2e";
 }
-.cf-edr:before {
+.cf-dgd:before {
+  content: "\ea2f";
+}
+.cf-dgpt:before {
+  content: "\ea30";
+}
+.cf-dgtx:before {
+  content: "\ea31";
+}
+.cf-dice:before {
+  content: "\ea32";
+}
+.cf-dim:before {
+  content: "\ea33";
+}
+.cf-dime:before {
+  content: "\ea34";
+}
+.cf-divi:before {
   content: "\ea35";
 }
-.cf-edt:before {
+.cf-divx:before {
   content: "\ea36";
 }
-.cf-edu:before {
+.cf-dix:before {
   content: "\ea37";
 }
-.cf-efl:before {
+.cf-dlisk:before {
   content: "\ea38";
 }
-.cf-efx:before {
+.cf-dlt:before {
   content: "\ea39";
 }
-.cf-efyt:before {
+.cf-dmb:before {
   content: "\ea3a";
 }
-.cf-egc:before {
+.cf-dmd:before {
   content: "\ea3b";
 }
-.cf-egcc:before {
+.cf-dml:before {
   content: "\ea3c";
 }
-.cf-eko:before {
+.cf-dmt:before {
   content: "\ea3d";
 }
-.cf-ekt:before {
+.cf-dna:before {
   content: "\ea3e";
 }
-.cf-el:before {
+.cf-dnr:before {
   content: "\ea3f";
 }
-.cf-ela:before {
+.cf-dnt:before {
   content: "\ea40";
 }
-.cf-elec:before {
+.cf-dock:before {
   content: "\ea41";
 }
-.cf-elf:before {
+.cf-doge:before {
   content: "\ea42";
 }
-.cf-elix:before {
+.cf-dor:before {
   content: "\ea43";
 }
-.cf-ella:before {
+.cf-dot:before {
   content: "\ea44";
 }
-.cf-eltcoin:before {
+.cf-dp:before {
   content: "\ea45";
 }
-.cf-emb:before {
+.cf-dpy:before {
   content: "\ea46";
 }
-.cf-emc:before {
+.cf-drgn:before {
   content: "\ea47";
 }
-.cf-emc2:before {
+.cf-drop:before {
   content: "\ea48";
 }
-.cf-eng:before {
+.cf-drpu:before {
   content: "\ea49";
 }
-.cf-enj:before {
+.cf-drt:before {
   content: "\ea4a";
 }
-.cf-enrg:before {
+.cf-drxne:before {
   content: "\ea4b";
 }
-.cf-ent:before {
+.cf-dsh:before {
   content: "\ea4c";
 }
-.cf-eos:before {
+.cf-dsr:before {
   content: "\ea4d";
 }
-.cf-eosdac:before {
+.cf-dta:before {
   content: "\ea4e";
 }
-.cf-epc:before {
+.cf-dtb:before {
   content: "\ea4f";
 }
-.cf-eql:before {
+.cf-dth:before {
   content: "\ea50";
 }
-.cf-eqt:before {
+.cf-dtr:before {
   content: "\ea51";
 }
-.cf-erc:before {
+.cf-dtrc:before {
   content: "\ea52";
 }
-.cf-erc20:before {
+.cf-dtx:before {
   content: "\ea53";
 }
-.cf-erd:before {
+.cf-duo:before {
   content: "\ea54";
 }
-.cf-ero:before {
+.cf-dxt:before {
   content: "\ea55";
 }
-.cf-esp:before {
+.cf-earth:before {
   content: "\ea56";
 }
-.cf-esz:before {
+.cf-ebtc:before {
   content: "\ea57";
 }
-.cf-etbs:before {
+.cf-eca:before {
   content: "\ea58";
 }
-.cf-etc:before {
+.cf-ecash:before {
   content: "\ea59";
 }
-.cf-eth:before {
+.cf-ecc:before {
   content: "\ea5a";
 }
-.cf-etn:before {
+.cf-ecob:before {
   content: "\ea5b";
 }
-.cf-etp:before {
+.cf-edg:before {
   content: "\ea5c";
 }
-.cf-ett:before {
+.cf-edo:before {
   content: "\ea5d";
 }
-.cf-etz:before {
+.cf-edr:before {
   content: "\ea5e";
 }
-.cf-euc:before {
+.cf-edt:before {
   content: "\ea5f";
 }
-.cf-evc:before {
+.cf-edu:before {
   content: "\ea60";
 }
-.cf-eve:before {
+.cf-efl:before {
   content: "\ea61";
 }
-.cf-evn:before {
+.cf-efx:before {
   content: "\ea62";
 }
-.cf-evr:before {
+.cf-efyt:before {
   content: "\ea63";
 }
-.cf-evx:before {
+.cf-egc:before {
   content: "\ea64";
 }
-.cf-excl:before {
+.cf-egcc:before {
   content: "\ea65";
 }
-.cf-exy:before {
+.cf-egld:before {
   content: "\ea66";
 }
-.cf-face:before {
+.cf-egt:before {
   content: "\ea67";
 }
-.cf-fair:before {
+.cf-ekg:before {
   content: "\ea68";
 }
-.cf-fct:before {
+.cf-eko:before {
   content: "\ea69";
 }
-.cf-fdx:before {
+.cf-ekt:before {
   content: "\ea6a";
 }
-.cf-fdz:before {
+.cf-el:before {
   content: "\ea6b";
 }
-.cf-fet:before {
+.cf-ela:before {
   content: "\ea6c";
 }
-.cf-fil:before {
+.cf-elec:before {
   content: "\ea6d";
 }
-.cf-fjc:before {
+.cf-elf:before {
   content: "\ea6e";
 }
-.cf-flash:before {
+.cf-elix:before {
   content: "\ea6f";
 }
-.cf-flixx:before {
+.cf-ella:before {
   content: "\ea70";
 }
-.cf-flo:before {
+.cf-eltcoin:before {
   content: "\ea71";
 }
-.cf-fluz:before {
+.cf-emb:before {
   content: "\ea72";
 }
-.cf-fnd:before {
+.cf-emc:before {
   content: "\ea73";
 }
-.cf-for:before {
+.cf-emc2:before {
   content: "\ea74";
 }
-.cf-fota:before {
+.cf-eng:before {
   content: "\ea75";
 }
-.cf-frec:before {
+.cf-enj:before {
   content: "\ea76";
 }
-.cf-frst:before {
+.cf-enrg:before {
   content: "\ea77";
 }
-.cf-fsn:before {
+.cf-ent:before {
   content: "\ea78";
 }
-.cf-fst:before {
+.cf-eos:before {
   content: "\ea79";
 }
-.cf-ft:before {
+.cf-eosdac:before {
   content: "\ea7a";
 }
-.cf-ftc:before {
+.cf-epc:before {
   content: "\ea7b";
 }
-.cf-ftt:before {
+.cf-eql:before {
   content: "\ea7c";
 }
-.cf-ftx:before {
+.cf-eqt:before {
   content: "\ea7d";
 }
-.cf-fuel:before {
+.cf-erc:before {
   content: "\ea7e";
 }
-.cf-fun:before {
+.cf-erc20:before {
   content: "\ea7f";
 }
-.cf-func:before {
+.cf-erd:before {
   content: "\ea80";
 }
-.cf-fxc:before {
+.cf-ero:before {
   content: "\ea81";
 }
-.cf-fxt:before {
+.cf-esd:before {
   content: "\ea82";
 }
-.cf-fyn:before {
+.cf-esp:before {
   content: "\ea83";
 }
-.cf-game:before {
+.cf-ess:before {
   content: "\ea84";
 }
-.cf-gat:before {
+.cf-esz:before {
   content: "\ea85";
 }
-.cf-gb:before {
+.cf-etbs:before {
   content: "\ea86";
 }
-.cf-gbx:before {
+.cf-etc:before {
   content: "\ea87";
 }
-.cf-gbyte:before {
+.cf-eth:before {
   content: "\ea88";
 }
-.cf-gcc:before {
+.cf-etn:before {
   content: "\ea89";
 }
-.cf-gcs:before {
+.cf-etp:before {
   content: "\ea8a";
 }
-.cf-gen:before {
+.cf-ett:before {
   content: "\ea8b";
 }
-.cf-gene:before {
+.cf-etz:before {
   content: "\ea8c";
 }
-.cf-get:before {
+.cf-euc:before {
   content: "\ea8d";
 }
-.cf-getx:before {
+.cf-evc:before {
   content: "\ea8e";
 }
-.cf-gin:before {
+.cf-eve:before {
   content: "\ea8f";
 }
-.cf-gla:before {
+.cf-evn:before {
   content: "\ea90";
 }
-.cf-gno:before {
+.cf-evr:before {
   content: "\ea91";
 }
-.cf-gnt:before {
+.cf-evx:before {
   content: "\ea92";
 }
-.cf-gnx:before {
+.cf-excl:before {
   content: "\ea93";
 }
-.cf-go:before {
+.cf-exy:before {
   content: "\ea94";
 }
-.cf-god:before {
+.cf-face:before {
   content: "\ea95";
 }
-.cf-golf:before {
+.cf-fair:before {
   content: "\ea96";
 }
-.cf-golos:before {
+.cf-fct:before {
   content: "\ea97";
 }
-.cf-good:before {
+.cf-fdx:before {
   content: "\ea98";
 }
-.cf-grc:before {
+.cf-fdz:before {
   content: "\ea99";
 }
-.cf-grft:before {
+.cf-fet:before {
   content: "\ea9a";
 }
-.cf-grid:before {
+.cf-fil:before {
   content: "\ea9b";
 }
-.cf-grin:before {
+.cf-fjc:before {
   content: "\ea9c";
 }
-.cf-grlc:before {
+.cf-flash:before {
   content: "\ea9d";
 }
-.cf-grmd:before {
+.cf-flixx:before {
   content: "\ea9e";
 }
-.cf-grn:before {
+.cf-flo:before {
   content: "\ea9f";
 }
-.cf-grs:before {
+.cf-fluz:before {
   content: "\eaa0";
 }
-.cf-gsc:before {
+.cf-fnd:before {
   content: "\eaa1";
 }
-.cf-gt:before {
+.cf-for:before {
   content: "\eaa2";
 }
-.cf-gtc:before {
+.cf-fota:before {
   content: "\eaa3";
 }
-.cf-gto:before {
+.cf-frec:before {
   content: "\eaa4";
 }
-.cf-guess:before {
+.cf-frm:before {
   content: "\eaa5";
 }
-.cf-gup:before {
+.cf-frst:before {
   content: "\eaa6";
 }
-.cf-gvt:before {
+.cf-fsn:before {
   content: "\eaa7";
 }
-.cf-gxs:before {
+.cf-fst:before {
   content: "\eaa8";
 }
-.cf-hac:before {
+.cf-ft:before {
   content: "\eaa9";
 }
-.cf-hade:before {
+.cf-ftc:before {
   content: "\eaaa";
 }
-.cf-hat:before {
+.cf-ftm:before {
   content: "\eaab";
 }
-.cf-hav:before {
+.cf-ftt:before {
   content: "\eaac";
 }
-.cf-hbar:before {
+.cf-ftx:before {
   content: "\eaad";
 }
-.cf-hbc:before {
+.cf-fuel:before {
   content: "\eaae";
 }
-.cf-hc:before {
+.cf-fun:before {
   content: "\eaaf";
 }
-.cf-heat:before {
+.cf-func:before {
   content: "\eab0";
 }
-.cf-hedg:before {
+.cf-fxc:before {
   content: "\eab1";
 }
-.cf-her:before {
+.cf-fxt:before {
   content: "\eab2";
 }
-.cf-hero:before {
+.cf-fyn:before {
   content: "\eab3";
 }
-.cf-hgt:before {
+.cf-game:before {
   content: "\eab4";
 }
-.cf-hire:before {
+.cf-gat:before {
   content: "\eab5";
 }
-.cf-hive:before {
+.cf-gb:before {
   content: "\eab6";
 }
-.cf-hkn:before {
+.cf-gbx:before {
   content: "\eab7";
 }
-.cf-hlc:before {
+.cf-gbyte:before {
   content: "\eab8";
 }
-.cf-hmc:before {
+.cf-gcc:before {
   content: "\eab9";
 }
-.cf-hmq:before {
+.cf-gcs:before {
   content: "\eaba";
 }
-.cf-hot:before {
+.cf-gdc:before {
   content: "\eabb";
 }
-.cf-hot2:before {
+.cf-gem:before {
   content: "\eabc";
 }
-.cf-hpb:before {
+.cf-gen:before {
   content: "\eabd";
 }
-.cf-hpc:before {
+.cf-gene:before {
   content: "\eabe";
 }
-.cf-hqx:before {
+.cf-get:before {
   content: "\eabf";
 }
-.cf-hsr:before {
+.cf-getx:before {
   content: "\eac0";
 }
-.cf-hst:before {
+.cf-gin:before {
   content: "\eac1";
 }
-.cf-ht:before {
+.cf-gla:before {
   content: "\eac2";
 }
-.cf-huc:before {
+.cf-gno:before {
   content: "\eac3";
 }
-.cf-hur:before {
+.cf-gnt:before {
   content: "\eac4";
 }
-.cf-husd:before {
+.cf-gnx:before {
   content: "\eac5";
 }
-.cf-hush:before {
+.cf-go:before {
   content: "\eac6";
 }
-.cf-hvn:before {
+.cf-god:before {
   content: "\eac7";
 }
-.cf-hxx:before {
+.cf-golf:before {
   content: "\eac8";
 }
-.cf-hydro:before {
+.cf-golos:before {
   content: "\eac9";
 }
-.cf-hyn:before {
+.cf-good:before {
   content: "\eaca";
 }
-.cf-ic:before {
+.cf-got:before {
   content: "\eacb";
 }
-.cf-icn:before {
+.cf-grc:before {
   content: "\eacc";
 }
-.cf-icon:before {
+.cf-grft:before {
   content: "\eacd";
 }
-.cf-icx:before {
+.cf-grid:before {
   content: "\eace";
 }
-.cf-idh:before {
+.cf-grin:before {
   content: "\eacf";
 }
-.cf-idt:before {
+.cf-grlc:before {
   content: "\ead0";
 }
-.cf-idxm:before {
+.cf-grmd:before {
   content: "\ead1";
 }
-.cf-ieth:before {
+.cf-grn:before {
   content: "\ead2";
 }
-.cf-ift:before {
+.cf-grs:before {
   content: "\ead3";
 }
-.cf-ignis:before {
+.cf-grt:before {
   content: "\ead4";
 }
-.cf-iht:before {
+.cf-gsc:before {
   content: "\ead5";
 }
-.cf-iic:before {
+.cf-gt:before {
   content: "\ead6";
 }
-.cf-inc:before {
+.cf-gtc:before {
   content: "\ead7";
 }
-.cf-incnt:before {
+.cf-gto:before {
   content: "\ead8";
 }
-.cf-ind:before {
+.cf-guess:before {
   content: "\ead9";
 }
-.cf-infx:before {
+.cf-gup:before {
   content: "\eada";
 }
-.cf-ing:before {
+.cf-gusd:before {
   content: "\eadb";
 }
-.cf-ink:before {
+.cf-gvt:before {
   content: "\eadc";
 }
-.cf-inn:before {
+.cf-gxs:before {
   content: "\eadd";
 }
-.cf-inpay:before {
+.cf-hac:before {
   content: "\eade";
 }
-.cf-ins:before {
+.cf-hade:before {
   content: "\eadf";
 }
-.cf-insn:before {
+.cf-hat:before {
   content: "\eae0";
 }
-.cf-instar:before {
+.cf-hav:before {
   content: "\eae1";
 }
-.cf-insur:before {
+.cf-hbar:before {
   content: "\eae2";
 }
-.cf-int:before {
+.cf-hbc:before {
   content: "\eae3";
 }
-.cf-inv:before {
+.cf-hc:before {
   content: "\eae4";
 }
-.cf-inxt:before {
+.cf-heat:before {
   content: "\eae5";
 }
-.cf-ioc:before {
+.cf-hedg:before {
   content: "\eae6";
 }
-.cf-ion:before {
+.cf-her:before {
   content: "\eae7";
 }
-.cf-iop:before {
+.cf-hero:before {
   content: "\eae8";
 }
-.cf-iost:before {
+.cf-hex:before {
   content: "\eae9";
 }
-.cf-iota:before {
+.cf-hgt:before {
   content: "\eaea";
 }
-.cf-iotx:before {
+.cf-hire:before {
   content: "\eaeb";
 }
-.cf-ipl:before {
+.cf-hive:before {
+  content: "\eaec";
+}
+.cf-hkn:before {
+  content: "\eaed";
+}
+.cf-hlc:before {
+  content: "\eaee";
+}
+.cf-hmc:before {
+  content: "\eaef";
+}
+.cf-hmq:before {
+  content: "\eaf0";
+}
+.cf-hot:before {
+  content: "\eaf1";
+}
+.cf-hot2:before {
+  content: "\eaf2";
+}
+.cf-hpb:before {
+  content: "\eaf3";
+}
+.cf-hpc:before {
+  content: "\eaf4";
+}
+.cf-hqx:before {
+  content: "\eaf5";
+}
+.cf-hsr:before {
   content: "\eaf6";
 }
-.cf-iqt:before {
+.cf-hst:before {
   content: "\eaf7";
 }
-.cf-isl:before {
+.cf-ht:before {
   content: "\eaf8";
 }
-.cf-itc:before {
+.cf-huc:before {
   content: "\eaf9";
 }
-.cf-itns:before {
+.cf-hum:before {
   content: "\eafa";
 }
-.cf-itt:before {
+.cf-hur:before {
   content: "\eafb";
 }
-.cf-ivy:before {
+.cf-husd:before {
   content: "\eafc";
 }
-.cf-ixc:before {
+.cf-hush:before {
   content: "\eafd";
 }
-.cf-ixt:before {
+.cf-hvn:before {
   content: "\eafe";
 }
-.cf-j8t:before {
+.cf-hxx:before {
   content: "\eaff";
 }
-.cf-jc:before {
+.cf-hydro:before {
   content: "\eb00";
 }
-.cf-jet:before {
+.cf-hyn:before {
   content: "\eb01";
 }
-.cf-jew:before {
+.cf-ic:before {
   content: "\eb02";
 }
-.cf-jnt:before {
+.cf-icn:before {
   content: "\eb03";
 }
-.cf-karma:before {
+.cf-icon:before {
   content: "\eb04";
 }
-.cf-kava:before {
+.cf-icx:before {
   content: "\eb05";
 }
-.cf-kb3:before {
+.cf-idex:before {
   content: "\eb06";
 }
-.cf-kbr:before {
+.cf-idh:before {
   content: "\eb07";
 }
-.cf-kcs:before {
+.cf-idt:before {
   content: "\eb08";
 }
-.cf-key:before {
+.cf-idxm:before {
   content: "\eb09";
 }
-.cf-key2:before {
+.cf-ieth:before {
   content: "\eb0a";
 }
-.cf-kick:before {
+.cf-ift:before {
   content: "\eb0b";
 }
-.cf-kin:before {
+.cf-ignis:before {
   content: "\eb0c";
 }
-.cf-kln:before {
+.cf-iht:before {
   content: "\eb0d";
 }
-.cf-kmd:before {
+.cf-iic:before {
   content: "\eb0e";
 }
-.cf-knc:before {
+.cf-inb:before {
   content: "\eb0f";
 }
-.cf-kobo:before {
+.cf-inc:before {
   content: "\eb10";
 }
-.cf-kore:before {
+.cf-incnt:before {
   content: "\eb11";
 }
-.cf-krb:before {
+.cf-ind:before {
   content: "\eb12";
 }
-.cf-krm:before {
+.cf-infx:before {
   content: "\eb13";
 }
-.cf-krone:before {
+.cf-ing:before {
   content: "\eb14";
 }
-.cf-kurt:before {
+.cf-ink:before {
   content: "\eb15";
 }
-.cf-la:before {
+.cf-inn:before {
   content: "\eb16";
 }
-.cf-lala:before {
+.cf-inpay:before {
   content: "\eb17";
 }
-.cf-latx:before {
+.cf-ins:before {
   content: "\eb18";
 }
-.cf-lba:before {
+.cf-insn:before {
   content: "\eb19";
 }
-.cf-lbc:before {
+.cf-instar:before {
   content: "\eb1a";
 }
-.cf-lbtc:before {
+.cf-insur:before {
   content: "\eb1b";
 }
-.cf-lcc:before {
+.cf-int:before {
   content: "\eb1c";
 }
-.cf-ldc:before {
+.cf-inv:before {
   content: "\eb1d";
 }
-.cf-lend:before {
+.cf-inxt:before {
   content: "\eb1e";
 }
-.cf-leo:before {
+.cf-ioc:before {
   content: "\eb1f";
 }
-.cf-let:before {
+.cf-ion:before {
   content: "\eb20";
 }
-.cf-lev:before {
+.cf-iop:before {
   content: "\eb21";
 }
-.cf-lgd:before {
+.cf-iost:before {
   content: "\eb22";
 }
-.cf-lgo:before {
+.cf-iota:before {
   content: "\eb23";
 }
-.cf-linda:before {
+.cf-iotx:before {
   content: "\eb24";
 }
-.cf-link:before {
+.cf-ipl:before {
   content: "\eb25";
 }
-.cf-linx:before {
+.cf-iq:before {
   content: "\eb26";
 }
-.cf-live:before {
+.cf-iqt:before {
   content: "\eb27";
 }
-.cf-lkk:before {
+.cf-iris:before {
   content: "\eb28";
 }
-.cf-lmc:before {
+.cf-isl:before {
   content: "\eb29";
 }
-.cf-lnc:before {
+.cf-itc:before {
   content: "\eb2a";
 }
-.cf-lnd:before {
+.cf-itns:before {
   content: "\eb2b";
 }
-.cf-loc:before {
+.cf-itt:before {
   content: "\eb2c";
 }
-.cf-loci:before {
+.cf-ivy:before {
   content: "\eb2d";
 }
-.cf-log:before {
+.cf-ixc:before {
   content: "\eb2e";
 }
-.cf-loki:before {
+.cf-ixt:before {
   content: "\eb2f";
 }
-.cf-loom:before {
+.cf-j8t:before {
   content: "\eb30";
 }
-.cf-lrc:before {
+.cf-jc:before {
   content: "\eb31";
 }
-.cf-lsk:before {
+.cf-jet:before {
   content: "\eb32";
 }
-.cf-ltc:before {
+.cf-jew:before {
   content: "\eb33";
 }
-.cf-lun:before {
+.cf-jnt:before {
   content: "\eb34";
 }
-.cf-luna:before {
+.cf-jrt:before {
   content: "\eb35";
 }
-.cf-lux:before {
+.cf-jst:before {
+  content: "\eb36";
+}
+.cf-karma:before {
+  content: "\eb37";
+}
+.cf-kava:before {
+  content: "\eb38";
+}
+.cf-kb3:before {
+  content: "\eb39";
+}
+.cf-kbr:before {
+  content: "\eb3a";
+}
+.cf-kcs:before {
   content: "\eb3b";
 }
-.cf-lwf:before {
+.cf-key:before {
   content: "\eb3c";
 }
-.cf-lyl:before {
+.cf-key2:before {
   content: "\eb3d";
 }
-.cf-lym:before {
+.cf-kick:before {
   content: "\eb3e";
 }
-.cf-mag:before {
+.cf-kin:before {
   content: "\eb3f";
 }
-.cf-maid:before {
+.cf-kln:before {
   content: "\eb40";
 }
-.cf-man:before {
+.cf-kmd:before {
+  content: "\eb41";
+}
+.cf-knc:before {
+  content: "\eb42";
+}
+.cf-kobo:before {
   content: "\eb43";
 }
-.cf-mana:before {
+.cf-kore:before {
   content: "\eb44";
 }
-.cf-matic:before {
+.cf-krb:before {
   content: "\eb45";
 }
-.cf-max:before {
+.cf-krm:before {
+  content: "\eb46";
+}
+.cf-krone:before {
+  content: "\eb47";
+}
+.cf-ksm:before {
+  content: "\eb48";
+}
+.cf-kurt:before {
+  content: "\eb49";
+}
+.cf-la:before {
   content: "\eb4a";
 }
-.cf-mbrs:before {
+.cf-lala:before {
   content: "\eb4b";
 }
-.cf-mcap:before {
+.cf-lamb:before {
   content: "\eb4c";
 }
-.cf-mco:before {
+.cf-latx:before {
   content: "\eb4d";
 }
-.cf-mda:before {
+.cf-lba:before {
   content: "\eb4e";
 }
-.cf-mdc:before {
+.cf-lbc:before {
   content: "\eb4f";
 }
-.cf-mds:before {
+.cf-lbtc:before {
   content: "\eb50";
 }
-.cf-mdt:before {
+.cf-lcc:before {
   content: "\eb51";
 }
-.cf-mec:before {
+.cf-ldc:before {
   content: "\eb52";
 }
-.cf-med:before {
+.cf-lend:before {
   content: "\eb53";
 }
-.cf-medic:before {
+.cf-leo:before {
   content: "\eb54";
 }
-.cf-meet:before {
+.cf-let:before {
   content: "\eb55";
 }
-.cf-mer:before {
+.cf-lev:before {
   content: "\eb56";
 }
-.cf-mfg:before {
+.cf-lgd:before {
   content: "\eb57";
 }
-.cf-mgo:before {
+.cf-lgo:before {
   content: "\eb58";
 }
-.cf-minex:before {
+.cf-linda:before {
   content: "\eb59";
 }
-.cf-mint:before {
+.cf-link:before {
   content: "\eb5a";
 }
-.cf-mith:before {
+.cf-linx:before {
   content: "\eb5b";
 }
-.cf-mitx:before {
+.cf-live:before {
   content: "\eb5c";
 }
-.cf-mkr:before {
+.cf-lkk:before {
   content: "\eb5d";
 }
-.cf-mln:before {
+.cf-lky:before {
   content: "\eb5e";
 }
-.cf-mne:before {
+.cf-lmc:before {
   content: "\eb5f";
 }
-.cf-mntp:before {
+.cf-lnc:before {
   content: "\eb60";
 }
-.cf-mnx:before {
+.cf-lnd:before {
   content: "\eb61";
 }
-.cf-mnx2:before {
+.cf-loc:before {
   content: "\eb62";
 }
-.cf-moac:before {
+.cf-loci:before {
   content: "\eb63";
 }
-.cf-mobi:before {
+.cf-log:before {
   content: "\eb64";
 }
-.cf-mod:before {
+.cf-loki:before {
   content: "\eb65";
 }
-.cf-mof:before {
+.cf-loom:before {
   content: "\eb66";
 }
-.cf-moin:before {
+.cf-lpt:before {
   content: "\eb67";
 }
-.cf-mojo:before {
+.cf-lqd:before {
   content: "\eb68";
 }
-.cf-mona:before {
+.cf-lrc:before {
   content: "\eb69";
 }
-.cf-moon:before {
+.cf-lsk:before {
   content: "\eb6a";
 }
-.cf-morph:before {
+.cf-ltc:before {
   content: "\eb6b";
 }
-.cf-mot:before {
+.cf-lto:before {
   content: "\eb6c";
 }
-.cf-mrk:before {
+.cf-lun:before {
   content: "\eb6d";
 }
-.cf-mrq:before {
+.cf-luna:before {
   content: "\eb6e";
 }
-.cf-mscn:before {
+.cf-lux:before {
   content: "\eb6f";
 }
-.cf-msp:before {
+.cf-lwf:before {
   content: "\eb70";
 }
-.cf-msr:before {
+.cf-lxt:before {
   content: "\eb71";
 }
-.cf-mtc:before {
+.cf-lyl:before {
   content: "\eb72";
 }
-.cf-mth:before {
+.cf-lym:before {
   content: "\eb73";
 }
-.cf-mtl:before {
+.cf-mag:before {
   content: "\eb74";
 }
-.cf-mtn:before {
+.cf-maid:before {
   content: "\eb75";
 }
-.cf-mtx:before {
+.cf-man:before {
   content: "\eb76";
 }
-.cf-mue:before {
+.cf-mana-old:before {
   content: "\eb77";
 }
-.cf-muse:before {
+.cf-mana:before {
   content: "\eb78";
 }
-.cf-music:before {
+.cf-matic:before {
   content: "\eb79";
 }
-.cf-mvc:before {
+.cf-max:before {
   content: "\eb7a";
 }
-.cf-mwat:before {
+.cf-mbc:before {
   content: "\eb7b";
 }
-.cf-myb:before {
+.cf-mbrs:before {
   content: "\eb7c";
 }
-.cf-myst:before {
+.cf-mcap:before {
   content: "\eb7d";
 }
-.cf-nanj:before {
+.cf-mco:before {
   content: "\eb7e";
 }
-.cf-nano:before {
+.cf-mcx:before {
   content: "\eb7f";
 }
-.cf-nanox:before {
+.cf-mda:before {
   content: "\eb80";
 }
-.cf-nas:before {
+.cf-mdc:before {
   content: "\eb81";
 }
-.cf-nav:before {
+.cf-mds:before {
   content: "\eb82";
 }
-.cf-navi:before {
+.cf-mdt:before {
   content: "\eb83";
 }
-.cf-nbai:before {
+.cf-mec:before {
   content: "\eb84";
 }
-.cf-ncash:before {
+.cf-med:before {
   content: "\eb85";
 }
-.cf-nct:before {
+.cf-medic:before {
   content: "\eb86";
 }
-.cf-nebl:before {
+.cf-medx:before {
   content: "\eb87";
 }
-.cf-neo:before {
+.cf-meet:before {
   content: "\eb88";
 }
-.cf-neos:before {
+.cf-mer:before {
   content: "\eb89";
 }
-.cf-net:before {
+.cf-met:before {
   content: "\eb8a";
 }
-.cf-neu:before {
+.cf-mfg:before {
   content: "\eb8b";
 }
-.cf-newb:before {
+.cf-mft:before {
   content: "\eb8c";
 }
-.cf-nex:before {
+.cf-mgo:before {
   content: "\eb8d";
 }
-.cf-nexo:before {
+.cf-minex:before {
   content: "\eb8e";
 }
-.cf-ngc:before {
+.cf-mint:before {
   content: "\eb8f";
 }
-.cf-nio:before {
+.cf-mith:before {
   content: "\eb90";
 }
-.cf-nkn:before {
+.cf-mitx:before {
   content: "\eb91";
 }
-.cf-nlc2:before {
+.cf-mkr:before {
   content: "\eb92";
 }
-.cf-nlg:before {
+.cf-mln:before {
   content: "\eb93";
 }
-.cf-nlx:before {
+.cf-mne:before {
   content: "\eb94";
 }
-.cf-nmc:before {
+.cf-mntp:before {
   content: "\eb95";
 }
-.cf-nmr:before {
+.cf-mnx:before {
   content: "\eb96";
 }
-.cf-nms:before {
+.cf-mnx2:before {
   content: "\eb97";
 }
-.cf-nobl:before {
+.cf-moac:before {
   content: "\eb98";
 }
-.cf-nper:before {
+.cf-mobi:before {
   content: "\eb99";
 }
-.cf-npxs:before {
+.cf-mod:before {
   content: "\eb9a";
 }
-.cf-nrg:before {
+.cf-mof:before {
   content: "\eb9b";
 }
-.cf-nsr:before {
+.cf-moin:before {
   content: "\eb9c";
 }
-.cf-ntk:before {
+.cf-mojo:before {
   content: "\eb9d";
 }
-.cf-ntrn:before {
+.cf-mona:before {
   content: "\eb9e";
 }
-.cf-nuko:before {
+.cf-moon:before {
   content: "\eb9f";
 }
-.cf-nuls:before {
+.cf-morph:before {
   content: "\eba0";
 }
-.cf-nvst:before {
+.cf-mot:before {
   content: "\eba1";
 }
-.cf-nxs:before {
+.cf-mrk:before {
   content: "\eba2";
 }
-.cf-nxt:before {
+.cf-mrq:before {
   content: "\eba3";
 }
-.cf-nyan:before {
+.cf-mscn:before {
   content: "\eba4";
 }
-.cf-oax:before {
+.cf-msp:before {
   content: "\eba5";
 }
-.cf-obits:before {
+.cf-msr:before {
   content: "\eba6";
 }
-.cf-oc:before {
+.cf-mta:before {
   content: "\eba7";
 }
-.cf-occ:before {
+.cf-mtc:before {
   content: "\eba8";
 }
-.cf-ocean:before {
+.cf-mth:before {
   content: "\eba9";
 }
-.cf-ocn:before {
+.cf-mtl:before {
   content: "\ebaa";
 }
-.cf-oct:before {
+.cf-mtn:before {
   content: "\ebab";
 }
-.cf-ode:before {
+.cf-mtx:before {
   content: "\ebac";
 }
-.cf-odn:before {
+.cf-mue:before {
   content: "\ebad";
 }
-.cf-ogn:before {
+.cf-muse:before {
   content: "\ebae";
 }
-.cf-ok:before {
+.cf-music:before {
   content: "\ebaf";
 }
-.cf-okb:before {
+.cf-mvc:before {
   content: "\ebb0";
 }
-.cf-omg:before {
+.cf-mvp:before {
+  content: "\ebb1";
+}
+.cf-mwat:before {
+  content: "\ebb2";
+}
+.cf-mwc:before {
+  content: "\ebb3";
+}
+.cf-mxm:before {
+  content: "\ebb4";
+}
+.cf-myb:before {
+  content: "\ebb5";
+}
+.cf-myst:before {
+  content: "\ebb6";
+}
+.cf-nanj:before {
+  content: "\ebb7";
+}
+.cf-nano:before {
   content: "\ebb8";
 }
-.cf-omni:before {
+.cf-nanox:before {
   content: "\ebb9";
 }
-.cf-omx:before {
+.cf-nas:before {
   content: "\ebba";
 }
-.cf-one:before {
+.cf-nav:before {
   content: "\ebbb";
 }
-.cf-onion:before {
+.cf-navi:before {
   content: "\ebbc";
 }
-.cf-ont:before {
+.cf-nbai:before {
   content: "\ebbd";
 }
-.cf-onx:before {
+.cf-ncash:before {
   content: "\ebbe";
 }
-.cf-oot:before {
+.cf-nct:before {
   content: "\ebbf";
 }
-.cf-opc:before {
+.cf-near:before {
   content: "\ebc0";
 }
-.cf-open:before {
+.cf-nebl:before {
   content: "\ebc1";
 }
-.cf-opt:before {
+.cf-nec:before {
   content: "\ebc2";
 }
-.cf-orbs:before {
+.cf-neo:before {
   content: "\ebc3";
 }
-.cf-ore:before {
+.cf-neos:before {
+  content: "\ebc4";
+}
+.cf-net:before {
+  content: "\ebc5";
+}
+.cf-neu:before {
+  content: "\ebc6";
+}
+.cf-new:before {
+  content: "\ebc7";
+}
+.cf-newb:before {
+  content: "\ebc8";
+}
+.cf-nex:before {
+  content: "\ebc9";
+}
+.cf-nexo:before {
+  content: "\ebca";
+}
+.cf-nexxo:before {
+  content: "\ebcb";
+}
+.cf-ngc:before {
+  content: "\ebcc";
+}
+.cf-nio:before {
+  content: "\ebcd";
+}
+.cf-nkn:before {
+  content: "\ebce";
+}
+.cf-nlc2:before {
+  content: "\ebcf";
+}
+.cf-nlg:before {
+  content: "\ebd0";
+}
+.cf-nlx:before {
+  content: "\ebd1";
+}
+.cf-nmc:before {
+  content: "\ebd2";
+}
+.cf-nmr:before {
+  content: "\ebd3";
+}
+.cf-nms:before {
+  content: "\ebd4";
+}
+.cf-nobl:before {
+  content: "\ebd5";
+}
+.cf-nper:before {
+  content: "\ebd6";
+}
+.cf-npxs:before {
+  content: "\ebd7";
+}
+.cf-nrg:before {
+  content: "\ebd8";
+}
+.cf-nrve:before {
+  content: "\ebd9";
+}
+.cf-nsr:before {
+  content: "\ebda";
+}
+.cf-ntk:before {
+  content: "\ebdb";
+}
+.cf-ntrn:before {
+  content: "\ebdc";
+}
+.cf-nuko:before {
+  content: "\ebdd";
+}
+.cf-nuls:before {
+  content: "\ebde";
+}
+.cf-nvst:before {
+  content: "\ebdf";
+}
+.cf-nxs:before {
+  content: "\ebe0";
+}
+.cf-nxt:before {
+  content: "\ebe1";
+}
+.cf-nyan:before {
+  content: "\ebe2";
+}
+.cf-oag:before {
+  content: "\ebe3";
+}
+.cf-oax:before {
+  content: "\ebe4";
+}
+.cf-obits:before {
   content: "\ebe5";
 }
-.cf-ori:before {
+.cf-oc:before {
   content: "\ebe6";
 }
-.cf-orme:before {
+.cf-occ:before {
   content: "\ebe7";
 }
-.cf-ost:before {
+.cf-ocean:before {
   content: "\ebe8";
 }
-.cf-otn:before {
+.cf-ocn:before {
   content: "\ebe9";
 }
-.cf-otx:before {
+.cf-oct:before {
   content: "\ebea";
 }
-.cf-oxy:before {
+.cf-ode:before {
   content: "\ebeb";
 }
-.cf-pac:before {
+.cf-odn:before {
   content: "\ebec";
 }
-.cf-pai:before {
+.cf-ogn:before {
   content: "\ebed";
 }
-.cf-pak:before {
+.cf-ok:before {
   content: "\ebee";
 }
-.cf-pal:before {
+.cf-okb:before {
   content: "\ebef";
 }
-.cf-pareto:before {
+.cf-olt:before {
   content: "\ebf0";
 }
-.cf-part:before {
+.cf-omg:before {
   content: "\ebf1";
 }
-.cf-pasc:before {
+.cf-omni:before {
   content: "\ebf2";
 }
-.cf-pasl:before {
+.cf-omx:before {
   content: "\ebf3";
 }
-.cf-pat:before {
+.cf-one:before {
   content: "\ebf4";
 }
-.cf-pax:before {
+.cf-onion:before {
   content: "\ebf5";
 }
-.cf-pay:before {
+.cf-ont:before {
+  content: "\ebf6";
+}
+.cf-onx:before {
+  content: "\ebf7";
+}
+.cf-oot:before {
+  content: "\ebf8";
+}
+.cf-opc:before {
+  content: "\ebf9";
+}
+.cf-open:before {
+  content: "\ebfa";
+}
+.cf-opt:before {
   content: "\ebfb";
 }
-.cf-payx:before {
+.cf-orbs:before {
   content: "\ebfc";
 }
-.cf-pbl:before {
+.cf-ore:before {
   content: "\ebfd";
 }
-.cf-pbt:before {
+.cf-ori:before {
   content: "\ebfe";
 }
-.cf-pcl:before {
+.cf-orme:before {
   content: "\ebff";
 }
-.cf-pcn:before {
+.cf-ost:before {
   content: "\ec00";
 }
-.cf-pfr:before {
+.cf-otn:before {
   content: "\ec01";
 }
-.cf-pho:before {
+.cf-otx:before {
   content: "\ec02";
 }
-.cf-phr:before {
+.cf-ovc:before {
   content: "\ec03";
 }
-.cf-phs:before {
+.cf-oxt:before {
   content: "\ec04";
 }
-.cf-ping:before {
+.cf-oxy:before {
   content: "\ec05";
 }
-.cf-pink:before {
+.cf-pac:before {
   content: "\ec06";
 }
-.cf-pirl:before {
+.cf-pai:before {
   content: "\ec07";
 }
-.cf-pivx:before {
+.cf-pak:before {
   content: "\ec08";
 }
-.cf-pix:before {
+.cf-pal:before {
   content: "\ec09";
 }
-.cf-pkc:before {
+.cf-pareto:before {
   content: "\ec0a";
 }
-.cf-pkt:before {
+.cf-part:before {
   content: "\ec0b";
 }
-.cf-plan:before {
+.cf-pasc:before {
   content: "\ec0c";
 }
-.cf-play:before {
+.cf-pasl:before {
   content: "\ec0d";
 }
-.cf-plbt:before {
+.cf-pat:before {
   content: "\ec0e";
 }
-.cf-plc:before {
+.cf-pax:before {
   content: "\ec0f";
 }
-.cf-plr:before {
+.cf-pay:before {
   content: "\ec10";
 }
-.cf-plu:before {
+.cf-payx:before {
   content: "\ec11";
 }
-.cf-plx:before {
+.cf-pbl:before {
   content: "\ec12";
 }
-.cf-pmnt:before {
+.cf-pbt:before {
   content: "\ec13";
 }
-.cf-pnt:before {
+.cf-pcl:before {
   content: "\ec14";
 }
-.cf-poa:before {
+.cf-pcn:before {
   content: "\ec15";
 }
-.cf-poe:before {
+.cf-perl:before {
   content: "\ec16";
 }
-.cf-polis:before {
+.cf-pfr:before {
   content: "\ec17";
 }
-.cf-poll:before {
+.cf-pho:before {
   content: "\ec18";
 }
-.cf-poly:before {
+.cf-phr:before {
   content: "\ec19";
 }
-.cf-pos:before {
+.cf-phs:before {
   content: "\ec1a";
 }
-.cf-post:before {
+.cf-ping:before {
   content: "\ec1b";
 }
-.cf-posw:before {
+.cf-pink:before {
   content: "\ec1c";
 }
-.cf-pot:before {
+.cf-pirl:before {
   content: "\ec1d";
 }
-.cf-powr:before {
+.cf-pivx:before {
   content: "\ec1e";
 }
-.cf-ppc:before {
+.cf-pix:before {
+  content: "\ec1f";
+}
+.cf-pkc:before {
+  content: "\ec20";
+}
+.cf-pkt:before {
+  content: "\ec21";
+}
+.cf-plan:before {
+  content: "\ec22";
+}
+.cf-play:before {
+  content: "\ec23";
+}
+.cf-plbt:before {
+  content: "\ec24";
+}
+.cf-plc:before {
+  content: "\ec25";
+}
+.cf-plr:before {
+  content: "\ec26";
+}
+.cf-plu:before {
+  content: "\ec27";
+}
+.cf-plx:before {
+  content: "\ec28";
+}
+.cf-pmnt:before {
+  content: "\ec29";
+}
+.cf-pnt:before {
   content: "\ec2a";
 }
-.cf-ppp:before {
+.cf-poa:before {
   content: "\ec2b";
 }
-.cf-ppt:before {
+.cf-poe:before {
   content: "\ec2c";
 }
-.cf-ppy:before {
+.cf-polis:before {
   content: "\ec2d";
 }
-.cf-pra:before {
+.cf-poll:before {
   content: "\ec2e";
 }
-.cf-pre:before {
+.cf-poly:before {
   content: "\ec2f";
 }
-.cf-prg:before {
+.cf-pos:before {
   content: "\ec30";
 }
-.cf-prl:before {
+.cf-post:before {
   content: "\ec31";
 }
-.cf-pro:before {
+.cf-posw:before {
   content: "\ec32";
 }
-.cf-proc:before {
+.cf-pot:before {
   content: "\ec33";
 }
-.cf-prs:before {
+.cf-powr:before {
   content: "\ec34";
 }
-.cf-pst:before {
+.cf-ppc:before {
   content: "\ec35";
 }
-.cf-ptc:before {
+.cf-ppp:before {
   content: "\ec36";
 }
-.cf-ptoy:before {
+.cf-ppt:before {
   content: "\ec37";
 }
-.cf-pura:before {
+.cf-ppy:before {
   content: "\ec38";
 }
-.cf-pure:before {
+.cf-pra:before {
   content: "\ec39";
 }
-.cf-pwr:before {
+.cf-pre:before {
   content: "\ec3a";
 }
-.cf-pylnt:before {
+.cf-prg:before {
   content: "\ec3b";
 }
-.cf-pzm:before {
+.cf-prl:before {
   content: "\ec3c";
 }
-.cf-qash:before {
+.cf-pro:before {
   content: "\ec3d";
 }
-.cf-qau:before {
+.cf-proc:before {
   content: "\ec3e";
 }
-.cf-qbic:before {
+.cf-prq:before {
   content: "\ec3f";
 }
-.cf-qbt:before {
+.cf-prs:before {
   content: "\ec40";
 }
-.cf-qkc:before {
+.cf-pst:before {
   content: "\ec41";
 }
-.cf-qlc:before {
+.cf-ptc:before {
   content: "\ec42";
 }
-.cf-qlr:before {
+.cf-ptoy:before {
   content: "\ec43";
 }
-.cf-qnt:before {
+.cf-pura:before {
   content: "\ec44";
 }
-.cf-qora:before {
+.cf-pure:before {
+  content: "\ec45";
+}
+.cf-pwr:before {
+  content: "\ec46";
+}
+.cf-pylnt:before {
+  content: "\ec47";
+}
+.cf-pzm:before {
+  content: "\ec48";
+}
+.cf-qash:before {
+  content: "\ec49";
+}
+.cf-qau:before {
+  content: "\ec4a";
+}
+.cf-qbic:before {
   content: "\ec4b";
 }
-.cf-qrk:before {
+.cf-qbit:before {
   content: "\ec4c";
 }
-.cf-qsp:before {
+.cf-qbt:before {
   content: "\ec4d";
 }
-.cf-qtum:before {
+.cf-qkc:before {
   content: "\ec4e";
 }
-.cf-qun:before {
+.cf-qlc:before {
   content: "\ec4f";
 }
-.cf-qvt:before {
+.cf-qlr:before {
   content: "\ec50";
 }
-.cf-qwark:before {
+.cf-qnt:before {
   content: "\ec51";
 }
-.cf-r:before {
+.cf-qora:before {
   content: "\ec52";
 }
-.cf-rads:before {
+.cf-qrk:before {
   content: "\ec53";
 }
-.cf-rain:before {
+.cf-qsp:before {
   content: "\ec54";
 }
-.cf-rbt:before {
+.cf-qtum:before {
   content: "\ec55";
 }
-.cf-rby:before {
+.cf-qun:before {
   content: "\ec56";
 }
-.cf-rcn:before {
+.cf-qvt:before {
   content: "\ec57";
 }
-.cf-rdd:before {
+.cf-qwark:before {
   content: "\ec58";
 }
-.cf-rdn:before {
+.cf-r:before {
   content: "\ec59";
 }
-.cf-real:before {
+.cf-rads:before {
   content: "\ec5a";
 }
-.cf-rebl:before {
+.cf-rae:before {
   content: "\ec5b";
 }
-.cf-red:before {
+.cf-rain:before {
   content: "\ec5c";
 }
-.cf-ree:before {
+.cf-rbt:before {
   content: "\ec5d";
 }
-.cf-ref:before {
+.cf-rby:before {
   content: "\ec5e";
 }
-.cf-rem:before {
+.cf-rcn:before {
   content: "\ec5f";
 }
-.cf-ren:before {
+.cf-rdd:before {
   content: "\ec60";
 }
-.cf-rep:before {
+.cf-rdn:before {
   content: "\ec61";
 }
-.cf-repo:before {
+.cf-real:before {
   content: "\ec62";
 }
-.cf-req:before {
+.cf-rebl:before {
   content: "\ec63";
 }
-.cf-rex:before {
+.cf-red:before {
   content: "\ec64";
 }
-.cf-rfr:before {
+.cf-ree:before {
   content: "\ec65";
 }
-.cf-rhoc:before {
+.cf-ref:before {
   content: "\ec66";
 }
-.cf-ric:before {
+.cf-rem:before {
   content: "\ec67";
 }
-.cf-rif:before {
+.cf-ren:before {
   content: "\ec68";
 }
-.cf-rise:before {
+.cf-rep:before {
   content: "\ec69";
 }
-.cf-rkt:before {
+.cf-repo:before {
   content: "\ec6a";
 }
-.cf-rlc:before {
+.cf-req:before {
   content: "\ec6b";
 }
-.cf-rmt:before {
+.cf-rex:before {
   content: "\ec6c";
 }
-.cf-rnt:before {
+.cf-rfox:before {
   content: "\ec6d";
 }
-.cf-rntb:before {
+.cf-rfr:before {
   content: "\ec6e";
 }
-.cf-rpx:before {
+.cf-rhoc:before {
   content: "\ec6f";
 }
-.cf-rsr:before {
+.cf-ric:before {
   content: "\ec70";
 }
-.cf-ruff:before {
+.cf-rif:before {
   content: "\ec71";
 }
-.cf-rup:before {
+.cf-rise:before {
   content: "\ec72";
 }
-.cf-rvn:before {
+.cf-rkt:before {
   content: "\ec73";
 }
-.cf-rvt:before {
+.cf-rlc:before {
   content: "\ec74";
 }
-.cf-safex:before {
+.cf-rmt:before {
   content: "\ec75";
 }
-.cf-saga:before {
+.cf-rnt:before {
   content: "\ec76";
 }
-.cf-sai:before {
+.cf-rntb:before {
   content: "\ec77";
 }
-.cf-sal:before {
+.cf-rpx:before {
   content: "\ec78";
 }
-.cf-salt:before {
+.cf-rsr:before {
   content: "\ec79";
 }
-.cf-san:before {
+.cf-ruff:before {
   content: "\ec7a";
 }
-.cf-sbtc:before {
+.cf-rune:before {
   content: "\ec7b";
 }
-.cf-scl:before {
+.cf-rup:before {
   content: "\ec7c";
 }
-.cf-scs:before {
+.cf-rvn:before {
   content: "\ec7d";
 }
-.cf-sct:before {
+.cf-rvt:before {
   content: "\ec7e";
 }
-.cf-sdc:before {
+.cf-s:before {
   content: "\ec7f";
 }
-.cf-sdrn:before {
+.cf-safex:before {
   content: "\ec80";
 }
-.cf-seele:before {
+.cf-saga:before {
   content: "\ec81";
 }
-.cf-sen:before {
+.cf-sai:before {
   content: "\ec82";
 }
-.cf-senc:before {
+.cf-sal:before {
   content: "\ec83";
 }
-.cf-send:before {
+.cf-salt:before {
   content: "\ec84";
 }
-.cf-sense:before {
+.cf-san:before {
   content: "\ec85";
 }
-.cf-sent:before {
+.cf-sbtc:before {
   content: "\ec86";
 }
-.cf-seq:before {
+.cf-scl:before {
   content: "\ec87";
 }
-.cf-seth:before {
+.cf-scrl:before {
   content: "\ec88";
 }
-.cf-sexc:before {
+.cf-scs:before {
   content: "\ec89";
 }
-.cf-sfc:before {
+.cf-sct:before {
   content: "\ec8a";
 }
-.cf-sgcc:before {
+.cf-sdc:before {
   content: "\ec8b";
 }
-.cf-sgn:before {
+.cf-sdrn:before {
   content: "\ec8c";
 }
-.cf-sgr:before {
+.cf-seele:before {
   content: "\ec8d";
 }
-.cf-shift:before {
+.cf-sem:before {
   content: "\ec8e";
 }
-.cf-ship:before {
+.cf-sen:before {
   content: "\ec8f";
 }
-.cf-shl:before {
+.cf-senc:before {
   content: "\ec90";
 }
-.cf-shorty:before {
+.cf-send:before {
   content: "\ec91";
 }
-.cf-shp:before {
+.cf-sense:before {
   content: "\ec92";
 }
-.cf-sia:before {
+.cf-sent:before {
   content: "\ec93";
 }
-.cf-sib:before {
+.cf-seq:before {
   content: "\ec94";
 }
-.cf-sigt:before {
+.cf-seth:before {
   content: "\ec95";
 }
-.cf-skb:before {
+.cf-sexc:before {
   content: "\ec96";
 }
-.cf-skin:before {
+.cf-sfc:before {
   content: "\ec97";
 }
-.cf-skm:before {
+.cf-sgcc:before {
   content: "\ec98";
 }
-.cf-sky:before {
+.cf-sgn:before {
   content: "\ec99";
 }
-.cf-slg:before {
+.cf-sgr:before {
   content: "\ec9a";
 }
-.cf-slr:before {
+.cf-shift:before {
   content: "\ec9b";
 }
-.cf-sls:before {
+.cf-ship:before {
   content: "\ec9c";
 }
-.cf-slt:before {
+.cf-shl:before {
   content: "\ec9d";
 }
-.cf-smart:before {
+.cf-shorty:before {
   content: "\ec9e";
 }
-.cf-smc:before {
+.cf-shp:before {
   content: "\ec9f";
 }
-.cf-sms:before {
+.cf-shuf:before {
   content: "\eca0";
 }
-.cf-smt:before {
+.cf-sia:before {
   content: "\eca1";
 }
-.cf-snc:before {
+.cf-sib:before {
   content: "\eca2";
 }
-.cf-sngls:before {
+.cf-sigt:before {
   content: "\eca3";
 }
-.cf-snm:before {
+.cf-skb:before {
   content: "\eca4";
 }
-.cf-snt:before {
+.cf-skin:before {
   content: "\eca5";
 }
-.cf-sntr:before {
+.cf-skl:before {
   content: "\eca6";
 }
-.cf-snx:before {
+.cf-skm:before {
   content: "\eca7";
 }
-.cf-soar:before {
+.cf-sky:before {
+  content: "\eca8";
+}
+.cf-slg:before {
+  content: "\eca9";
+}
+.cf-slr:before {
   content: "\ecaa";
 }
-.cf-soc:before {
+.cf-sls:before {
   content: "\ecab";
 }
-.cf-soil:before {
+.cf-slt:before {
   content: "\ecac";
 }
-.cf-soul:before {
+.cf-smart:before {
   content: "\ecad";
 }
-.cf-spank:before {
+.cf-smc:before {
   content: "\ecae";
 }
-.cf-spd:before {
+.cf-sms:before {
   content: "\ecaf";
 }
-.cf-spd2:before {
+.cf-smt:before {
   content: "\ecb0";
 }
-.cf-spf:before {
+.cf-snc:before {
   content: "\ecb1";
 }
-.cf-sphtx:before {
+.cf-sngls:before {
   content: "\ecb2";
 }
-.cf-spk:before {
+.cf-snm:before {
   content: "\ecb3";
 }
-.cf-spr:before {
+.cf-snt:before {
   content: "\ecb4";
 }
-.cf-sprts:before {
+.cf-sntr:before {
   content: "\ecb5";
 }
-.cf-src:before {
+.cf-snx:before {
   content: "\ecb6";
 }
-.cf-srcoin:before {
+.cf-soar:before {
   content: "\ecb7";
 }
-.cf-srn:before {
+.cf-soc:before {
   content: "\ecb8";
 }
-.cf-ss:before {
+.cf-soil:before {
   content: "\ecb9";
 }
-.cf-ssp:before {
+.cf-sol:before {
   content: "\ecba";
 }
-.cf-sss:before {
+.cf-soul:before {
   content: "\ecbb";
 }
-.cf-sta:before {
+.cf-spank:before {
   content: "\ecbc";
 }
-.cf-stac:before {
+.cf-spd:before {
   content: "\ecbd";
 }
-.cf-stak:before {
+.cf-spd2:before {
   content: "\ecbe";
 }
-.cf-start:before {
+.cf-spf:before {
   content: "\ecbf";
 }
-.cf-stc:before {
+.cf-sphtx:before {
   content: "\ecc0";
 }
-.cf-steem:before {
+.cf-spk:before {
   content: "\ecc1";
 }
-.cf-stn2:before {
+.cf-spn:before {
   content: "\ecc2";
 }
-.cf-storj:before {
+.cf-spr:before {
   content: "\ecc3";
 }
-.cf-storm:before {
+.cf-sprts:before {
   content: "\ecc4";
 }
-.cf-stq:before {
+.cf-src:before {
   content: "\ecc5";
 }
-.cf-strat:before {
+.cf-srcoin:before {
   content: "\ecc6";
 }
-.cf-strc:before {
+.cf-srm:before {
   content: "\ecc7";
 }
-.cf-stv:before {
+.cf-srn:before {
   content: "\ecc8";
 }
-.cf-stx:before {
+.cf-ss:before {
   content: "\ecc9";
 }
-.cf-sub:before {
+.cf-ssp:before {
   content: "\ecca";
 }
-.cf-sumo:before {
+.cf-sss:before {
   content: "\eccb";
 }
-.cf-super:before {
+.cf-sta:before {
   content: "\eccc";
 }
-.cf-sur:before {
+.cf-stac:before {
   content: "\eccd";
 }
-.cf-svh:before {
+.cf-stak:before {
   content: "\ecce";
 }
-.cf-swftc:before {
+.cf-stake:before {
   content: "\eccf";
 }
-.cf-swift:before {
+.cf-start:before {
   content: "\ecd0";
 }
-.cf-swm:before {
+.cf-stc:before {
   content: "\ecd1";
 }
-.cf-swt:before {
+.cf-steem:before {
   content: "\ecd2";
 }
-.cf-swtc:before {
+.cf-stn2:before {
   content: "\ecd3";
 }
-.cf-sxdt:before {
+.cf-storj:before {
   content: "\ecd4";
 }
-.cf-sys:before {
+.cf-storm:before {
   content: "\ecd5";
 }
-.cf-taas:before {
+.cf-stq:before {
   content: "\ecd6";
 }
-.cf-tau:before {
+.cf-strat:before {
   content: "\ecd7";
 }
-.cf-tbar:before {
+.cf-strc:before {
   content: "\ecd8";
 }
-.cf-tbx:before {
+.cf-stv:before {
   content: "\ecd9";
 }
-.cf-tct:before {
+.cf-stx:before {
   content: "\ecda";
 }
-.cf-tdx:before {
+.cf-sub:before {
   content: "\ecdb";
 }
-.cf-tel:before {
+.cf-sumo:before {
   content: "\ecdc";
 }
-.cf-ten:before {
+.cf-super:before {
   content: "\ecdd";
 }
-.cf-tes:before {
+.cf-suqa:before {
   content: "\ecde";
 }
-.cf-tfd:before {
+.cf-sur:before {
   content: "\ecdf";
 }
-.cf-tfuel:before {
+.cf-svh:before {
   content: "\ece0";
 }
-.cf-thc:before {
+.cf-swftc:before {
   content: "\ece1";
 }
-.cf-theta:before {
+.cf-swift:before {
   content: "\ece2";
 }
-.cf-tie:before {
+.cf-swm:before {
   content: "\ece3";
 }
-.cf-tig:before {
+.cf-swt:before {
   content: "\ece4";
 }
-.cf-time:before {
+.cf-swtc:before {
   content: "\ece5";
 }
-.cf-tio:before {
+.cf-swth:before {
   content: "\ece6";
 }
-.cf-tips:before {
+.cf-sxdt:before {
   content: "\ece7";
 }
-.cf-tit:before {
+.cf-sxp:before {
   content: "\ece8";
 }
-.cf-tix:before {
+.cf-sys:before {
   content: "\ece9";
 }
-.cf-tka:before {
+.cf-taas:before {
   content: "\ecea";
 }
-.cf-tkn:before {
+.cf-tau:before {
   content: "\eceb";
 }
-.cf-tkr:before {
+.cf-tbar:before {
   content: "\ecec";
 }
-.cf-tks:before {
+.cf-tbx:before {
   content: "\eced";
 }
-.cf-tky:before {
+.cf-tct:before {
   content: "\ecee";
 }
-.cf-tmt:before {
+.cf-tdx:before {
   content: "\ecef";
 }
-.cf-tnb:before {
+.cf-tel:before {
   content: "\ecf0";
 }
-.cf-tnc:before {
+.cf-ten:before {
   content: "\ecf1";
 }
-.cf-tns:before {
+.cf-tes:before {
   content: "\ecf2";
 }
-.cf-tnt:before {
+.cf-tfd:before {
   content: "\ecf3";
 }
-.cf-tok:before {
+.cf-tfuel:before {
   content: "\ecf4";
 }
-.cf-tokc:before {
+.cf-thc:before {
   content: "\ecf5";
 }
-.cf-tomo:before {
+.cf-theta:before {
   content: "\ecf6";
 }
-.cf-tpay:before {
+.cf-thr:before {
   content: "\ecf7";
 }
-.cf-trac:before {
+.cf-tie:before {
   content: "\ecf8";
 }
-.cf-trak:before {
+.cf-tig:before {
   content: "\ecf9";
 }
-.cf-trc:before {
+.cf-time:before {
   content: "\ecfa";
 }
-.cf-trct:before {
+.cf-tio:before {
   content: "\ecfb";
 }
-.cf-trig:before {
+.cf-tips:before {
   content: "\ecfc";
 }
-.cf-trst:before {
+.cf-tit:before {
   content: "\ecfd";
 }
-.cf-true:before {
+.cf-tix:before {
   content: "\ecfe";
 }
-.cf-trump:before {
+.cf-tka:before {
   content: "\ecff";
 }
-.cf-trust:before {
+.cf-tkn:before {
   content: "\ed00";
 }
-.cf-trx:before {
+.cf-tkr:before {
   content: "\ed01";
 }
-.cf-tsl:before {
+.cf-tks:before {
   content: "\ed02";
 }
-.cf-ttt:before {
+.cf-tky:before {
   content: "\ed03";
 }
-.cf-turbo:before {
+.cf-tmt:before {
   content: "\ed04";
 }
-.cf-tusd:before {
+.cf-tnb:before {
   content: "\ed05";
 }
-.cf-tx:before {
+.cf-tnc:before {
   content: "\ed06";
 }
-.cf-tzc:before {
+.cf-tns:before {
   content: "\ed07";
 }
-.cf-ubq:before {
+.cf-tnt:before {
   content: "\ed08";
 }
-.cf-ubt:before {
+.cf-tok:before {
   content: "\ed09";
 }
-.cf-ubtc:before {
+.cf-tokc:before {
   content: "\ed0a";
 }
-.cf-ucash:before {
+.cf-tomo:before {
   content: "\ed0b";
 }
-.cf-ufo:before {
+.cf-tpay:before {
   content: "\ed0c";
 }
-.cf-ufr:before {
+.cf-trac:before {
   content: "\ed0d";
 }
-.cf-ugc:before {
+.cf-trak:before {
   content: "\ed0e";
 }
-.cf-uip:before {
+.cf-trb:before {
   content: "\ed0f";
 }
-.cf-uis:before {
+.cf-trc:before {
   content: "\ed10";
 }
-.cf-ukg:before {
+.cf-trct:before {
   content: "\ed11";
 }
-.cf-unb:before {
+.cf-trig:before {
   content: "\ed12";
 }
-.cf-uni:before {
+.cf-trst:before {
   content: "\ed13";
 }
-.cf-unify:before {
+.cf-trtl:before {
   content: "\ed14";
 }
-.cf-unit:before {
+.cf-true:before {
   content: "\ed15";
 }
-.cf-unity:before {
+.cf-trump:before {
   content: "\ed16";
 }
-.cf-uno:before {
+.cf-trust:before {
   content: "\ed17";
 }
-.cf-up:before {
+.cf-trx:before {
   content: "\ed18";
 }
-.cf-uqc:before {
+.cf-tryb:before {
   content: "\ed19";
 }
-.cf-usdc:before {
+.cf-tsl:before {
   content: "\ed1a";
 }
-.cf-usdt:before {
+.cf-ttc:before {
   content: "\ed1b";
 }
-.cf-usnbt:before {
+.cf-ttt:before {
   content: "\ed1c";
 }
-.cf-utc:before {
+.cf-tube:before {
   content: "\ed1d";
 }
-.cf-utk:before {
+.cf-turbo:before {
   content: "\ed1e";
 }
-.cf-utnp:before {
+.cf-tusd:before {
   content: "\ed1f";
 }
-.cf-uuu:before {
+.cf-tx:before {
   content: "\ed20";
 }
-.cf-v:before {
+.cf-tzc:before {
   content: "\ed21";
 }
-.cf-vee:before {
+.cf-ubq:before {
   content: "\ed22";
 }
-.cf-veri:before {
+.cf-ubt:before {
   content: "\ed23";
 }
-.cf-vet:before {
+.cf-ubtc:before {
   content: "\ed24";
 }
-.cf-via:before {
+.cf-ucash:before {
   content: "\ed25";
 }
-.cf-vib:before {
+.cf-ufo:before {
   content: "\ed26";
 }
-.cf-vibe:before {
+.cf-ufr:before {
   content: "\ed27";
 }
-.cf-vit:before {
+.cf-ugc:before {
   content: "\ed28";
 }
-.cf-viu:before {
+.cf-uip:before {
   content: "\ed29";
 }
-.cf-vivo:before {
+.cf-uis:before {
   content: "\ed2a";
 }
-.cf-vme:before {
+.cf-ukg:before {
   content: "\ed2b";
 }
-.cf-voise:before {
+.cf-ult:before {
   content: "\ed2c";
 }
-.cf-vrc:before {
+.cf-uma:before {
   content: "\ed2d";
 }
-.cf-vrm:before {
+.cf-unb:before {
   content: "\ed2e";
 }
-.cf-vrs:before {
+.cf-uni:before {
   content: "\ed2f";
 }
-.cf-vsl:before {
+.cf-unify:before {
   content: "\ed30";
 }
-.cf-vsx:before {
+.cf-unit:before {
   content: "\ed31";
 }
-.cf-vsys:before {
+.cf-unity:before {
   content: "\ed32";
 }
-.cf-vtc:before {
+.cf-uno:before {
   content: "\ed33";
 }
-.cf-vtr:before {
+.cf-uos:before {
   content: "\ed34";
 }
-.cf-vzt:before {
+.cf-up:before {
   content: "\ed35";
 }
-.cf-wabi:before {
+.cf-upp:before {
   content: "\ed36";
 }
-.cf-wan:before {
+.cf-uqc:before {
   content: "\ed37";
 }
-.cf-wand:before {
+.cf-usdc:before {
   content: "\ed38";
 }
-.cf-warp:before {
+.cf-usds:before {
   content: "\ed39";
 }
-.cf-waves:before {
+.cf-usdt:before {
   content: "\ed3a";
 }
-.cf-wax:before {
+.cf-usnbt:before {
   content: "\ed3b";
 }
-.cf-wct:before {
+.cf-utc:before {
   content: "\ed3c";
 }
-.cf-wdc:before {
+.cf-utk:before {
   content: "\ed3d";
 }
-.cf-wgr:before {
+.cf-utnp:before {
   content: "\ed3e";
 }
-.cf-whl:before {
+.cf-uuu:before {
   content: "\ed3f";
 }
-.cf-wild:before {
+.cf-v:before {
   content: "\ed40";
 }
-.cf-wings:before {
+.cf-vee:before {
   content: "\ed41";
 }
-.cf-wish:before {
+.cf-veri:before {
   content: "\ed42";
 }
-.cf-wpr:before {
+.cf-vest:before {
   content: "\ed43";
 }
-.cf-wrc:before {
+.cf-vet:before {
   content: "\ed44";
 }
-.cf-wtc:before {
+.cf-via:before {
   content: "\ed45";
 }
-.cf-wxt:before {
+.cf-vib:before {
   content: "\ed46";
 }
-.cf-xas:before {
+.cf-vibe:before {
   content: "\ed47";
 }
-.cf-xaur:before {
+.cf-vidt:before {
   content: "\ed48";
 }
-.cf-xbl:before {
+.cf-vikky:before {
   content: "\ed49";
 }
-.cf-xbp:before {
+.cf-vin:before {
   content: "\ed4a";
 }
-.cf-xbts:before {
+.cf-vit:before {
   content: "\ed4b";
 }
-.cf-xby:before {
+.cf-vite:before {
   content: "\ed4c";
 }
-.cf-xcp:before {
+.cf-viu:before {
   content: "\ed4d";
 }
-.cf-xcpo:before {
+.cf-vivo:before {
   content: "\ed4e";
 }
-.cf-xct:before {
+.cf-vme:before {
   content: "\ed4f";
 }
-.cf-xcxt:before {
+.cf-voise:before {
   content: "\ed50";
 }
-.cf-xdce:before {
+.cf-vrc:before {
   content: "\ed51";
 }
-.cf-xdn:before {
+.cf-vrm:before {
   content: "\ed52";
 }
-.cf-xel:before {
+.cf-vrs:before {
   content: "\ed53";
 }
-.cf-xem:before {
+.cf-vsl:before {
   content: "\ed54";
 }
-.cf-xes:before {
+.cf-vsx:before {
   content: "\ed55";
 }
-.cf-xgox:before {
+.cf-vsys:before {
   content: "\ed56";
 }
-.cf-xhv:before {
+.cf-vtc:before {
   content: "\ed57";
 }
-.cf-xin:before {
+.cf-vtr:before {
   content: "\ed58";
 }
-.cf-xios:before {
+.cf-vzt:before {
   content: "\ed59";
 }
-.cf-xjo:before {
+.cf-wabi:before {
   content: "\ed5a";
 }
-.cf-xlm:before {
+.cf-wan:before {
   content: "\ed5b";
 }
-.cf-xlr:before {
+.cf-wand:before {
   content: "\ed5c";
 }
-.cf-xmcc:before {
+.cf-warp:before {
   content: "\ed5d";
 }
-.cf-xmg:before {
+.cf-waves:before {
   content: "\ed5e";
 }
-.cf-xmo:before {
+.cf-wax:before {
   content: "\ed5f";
 }
-.cf-xmr:before {
+.cf-wbtc:before {
   content: "\ed60";
 }
-.cf-xmx:before {
+.cf-wct:before {
   content: "\ed61";
 }
-.cf-xmy:before {
+.cf-wdc:before {
   content: "\ed62";
 }
-.cf-xnk:before {
+.cf-wgr:before {
   content: "\ed63";
 }
-.cf-xnn:before {
+.cf-whl:before {
   content: "\ed64";
 }
-.cf-xns:before {
+.cf-wib:before {
   content: "\ed65";
 }
-.cf-xp:before {
+.cf-wild:before {
   content: "\ed66";
 }
-.cf-xpa:before {
+.cf-wings:before {
   content: "\ed67";
 }
-.cf-xpd:before {
+.cf-wish:before {
   content: "\ed68";
 }
-.cf-xpm:before {
+.cf-wpr:before {
   content: "\ed69";
 }
-.cf-xptx:before {
+.cf-wrc:before {
   content: "\ed6a";
 }
-.cf-xrh:before {
+.cf-wrx:before {
   content: "\ed6b";
 }
-.cf-xrl:before {
+.cf-wtc:before {
   content: "\ed6c";
 }
-.cf-xrp:before {
+.cf-wxt:before {
   content: "\ed6d";
 }
-.cf-xsh:before {
+.cf-xas:before {
   content: "\ed6e";
 }
-.cf-xsn:before {
+.cf-xaur:before {
   content: "\ed6f";
 }
-.cf-xspec:before {
+.cf-xbl:before {
   content: "\ed70";
 }
-.cf-xsr:before {
+.cf-xbp:before {
   content: "\ed71";
 }
-.cf-xst:before {
+.cf-xbts:before {
   content: "\ed72";
 }
-.cf-xstc:before {
+.cf-xby:before {
   content: "\ed73";
 }
-.cf-xtl:before {
+.cf-xchf:before {
   content: "\ed74";
 }
-.cf-xto:before {
+.cf-xcp:before {
   content: "\ed75";
 }
-.cf-xtz:before {
+.cf-xcpo:before {
   content: "\ed76";
 }
-.cf-xvg:before {
+.cf-xct:before {
   content: "\ed77";
 }
-.cf-xyo:before {
+.cf-xcxt:before {
   content: "\ed78";
 }
-.cf-xzc:before {
+.cf-xdce:before {
   content: "\ed79";
 }
-.cf-yee:before {
+.cf-xdn:before {
   content: "\ed7a";
 }
-.cf-yoc:before {
+.cf-xel:before {
   content: "\ed7b";
 }
-.cf-yoyow:before {
+.cf-xem:before {
   content: "\ed7c";
 }
-.cf-ytn:before {
+.cf-xes:before {
   content: "\ed7d";
 }
-.cf-zap:before {
+.cf-xgox:before {
   content: "\ed7e";
 }
-.cf-zb:before {
+.cf-xhv:before {
   content: "\ed7f";
 }
-.cf-zcl:before {
+.cf-xin:before {
   content: "\ed80";
 }
-.cf-zco:before {
+.cf-xios:before {
   content: "\ed81";
 }
-.cf-zec:before {
+.cf-xjo:before {
   content: "\ed82";
 }
-.cf-zen:before {
+.cf-xlm:before {
   content: "\ed83";
 }
-.cf-zeni:before {
+.cf-xlq:before {
   content: "\ed84";
 }
-.cf-zeph:before {
+.cf-xlr:before {
   content: "\ed85";
 }
-.cf-zer:before {
+.cf-xmcc:before {
   content: "\ed86";
 }
-.cf-zet:before {
+.cf-xmg:before {
   content: "\ed87";
 }
-.cf-zil:before {
+.cf-xmo:before {
   content: "\ed88";
 }
-.cf-zipt:before {
+.cf-xmr:before {
   content: "\ed89";
 }
-.cf-zla:before {
+.cf-xmx:before {
   content: "\ed8a";
 }
-.cf-zny:before {
+.cf-xmy:before {
   content: "\ed8b";
 }
-.cf-zoi:before {
+.cf-xnk:before {
   content: "\ed8c";
 }
-.cf-zpt:before {
+.cf-xnn:before {
   content: "\ed8d";
 }
-.cf-zrx:before {
+.cf-xns:before {
   content: "\ed8e";
 }
-.cf-zsc:before {
+.cf-xp:before {
   content: "\ed8f";
 }
-.cf-zzc:before {
+.cf-xpa:before {
   content: "\ed90";
+}
+.cf-xpd:before {
+  content: "\ed91";
+}
+.cf-xpm:before {
+  content: "\ed92";
+}
+.cf-xptx:before {
+  content: "\ed93";
+}
+.cf-xrh:before {
+  content: "\ed94";
+}
+.cf-xrl:before {
+  content: "\ed95";
+}
+.cf-xrp:before {
+  content: "\ed96";
+}
+.cf-xsh:before {
+  content: "\ed97";
+}
+.cf-xsn:before {
+  content: "\ed98";
+}
+.cf-xspec:before {
+  content: "\ed99";
+}
+.cf-xsr:before {
+  content: "\ed9a";
+}
+.cf-xst:before {
+  content: "\ed9b";
+}
+.cf-xstc:before {
+  content: "\ed9c";
+}
+.cf-xtl:before {
+  content: "\ed9d";
+}
+.cf-xto:before {
+  content: "\ed9e";
+}
+.cf-xtz:before {
+  content: "\ed9f";
+}
+.cf-xvg:before {
+  content: "\eda0";
+}
+.cf-xyo:before {
+  content: "\eda1";
+}
+.cf-xzc:before {
+  content: "\eda2";
+}
+.cf-yee:before {
+  content: "\eda3";
+}
+.cf-yfi:before {
+  content: "\eda4";
+}
+.cf-yoc:before {
+  content: "\eda5";
+}
+.cf-yoyo:before {
+  content: "\eda6";
+}
+.cf-ytn:before {
+  content: "\eda7";
+}
+.cf-zai:before {
+  content: "\eda8";
+}
+.cf-zap:before {
+  content: "\eda9";
+}
+.cf-zb:before {
+  content: "\edaa";
+}
+.cf-zcl:before {
+  content: "\edab";
+}
+.cf-zco:before {
+  content: "\edac";
+}
+.cf-zec:before {
+  content: "\edad";
+}
+.cf-zel:before {
+  content: "\edae";
+}
+.cf-zen:before {
+  content: "\edaf";
+}
+.cf-zeni:before {
+  content: "\edb0";
+}
+.cf-zeph:before {
+  content: "\edb1";
+}
+.cf-zer:before {
+  content: "\edb2";
+}
+.cf-zet:before {
+  content: "\edb3";
+}
+.cf-zil:before {
+  content: "\edb4";
+}
+.cf-zipt:before {
+  content: "\edb5";
+}
+.cf-zla:before {
+  content: "\edb6";
+}
+.cf-zny:before {
+  content: "\edb7";
+}
+.cf-zoi:before {
+  content: "\edb8";
+}
+.cf-zpt:before {
+  content: "\edb9";
+}
+.cf-zrx:before {
+  content: "\edba";
+}
+.cf-zsc:before {
+  content: "\edbb";
+}
+.cf-zzc:before {
+  content: "\edbc";
 }
