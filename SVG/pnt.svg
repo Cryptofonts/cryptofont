@@ -3,10 +3,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.6;enable-background:new    ;}
+	.st0{enable-background:new    ;}
 </style>
-<path class="st0" d="M422.7,423.2c-44.3,44.1-105.4,71.4-172.9,71.4s-128.6-27.3-172.9-71.4c44.3-44.1,105.4-71.4,172.9-71.4
-	S378.3,379,422.7,423.2z"/>
+<path class="st0" d="M413.6,429.9c-42,41.8-99.9,67.7-163.8,67.7S127.9,471.7,86,429.9c42-41.8,99.9-67.7,163.8-67.7
+	S371.6,388.1,413.6,429.9z"/>
 <circle cx="250" cy="119.6" r="30.7"/>
 <g>
 	<path d="M177.1,483.6c-7.7-2.4-15.1-5.1-22.5-8.2C162,478.5,169.5,481.3,177.1,483.6z"/>

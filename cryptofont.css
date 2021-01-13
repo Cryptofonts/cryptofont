@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'cryptofont';
-  src:  url('fonts/cryptofont.eot?85l6ud');
-  src:  url('fonts/cryptofont.eot?85l6ud#iefix') format('embedded-opentype'),
-    url('fonts/cryptofont.ttf?85l6ud') format('truetype'),
-    url('fonts/cryptofont.woff?85l6ud') format('woff'),
-    url('fonts/cryptofont.svg?85l6ud#cryptofont') format('svg');
+  src:  url('fonts/cryptofont.eot?ea921x');
+  src:  url('fonts/cryptofont.eot?ea921x#iefix') format('embedded-opentype'),
+    url('fonts/cryptofont.ttf?ea921x') format('truetype'),
+    url('fonts/cryptofont.woff?ea921x') format('woff'),
+    url('fonts/cryptofont.svg?ea921x#cryptofont') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -529,3719 +529,3138 @@ i {
 .cf-btm2:before {
   content: "\e9a7";
 }
-.cf-btmx .path1:before {
+.cf-btmx:before {
   content: "\e9a8";
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
-}
-.cf-btmx .path2:before {
-  content: "\e9a9";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
 .cf-bto:before {
-  content: "\e9aa";
+  content: "\e9a9";
 }
 .cf-btrn:before {
-  content: "\e9ab";
+  content: "\e9aa";
 }
 .cf-bts:before {
-  content: "\e9ac";
+  content: "\e9ab";
 }
 .cf-btt:before {
-  content: "\e9ad";
+  content: "\e9ac";
 }
 .cf-btu:before {
-  content: "\e9ae";
+  content: "\e9ad";
 }
 .cf-btx:before {
-  content: "\e9af";
+  content: "\e9ae";
 }
 .cf-bu:before {
-  content: "\e9b0";
+  content: "\e9af";
 }
 .cf-burst:before {
-  content: "\e9b1";
+  content: "\e9b0";
 }
 .cf-busd:before {
-  content: "\e9b2";
+  content: "\e9b1";
 }
 .cf-buzz:before {
-  content: "\e9b3";
+  content: "\e9b2";
 }
 .cf-bwk:before {
-  content: "\e9b4";
+  content: "\e9b3";
 }
 .cf-bwt:before {
-  content: "\e9b5";
+  content: "\e9b4";
 }
 .cf-byc:before {
-  content: "\e9b6";
+  content: "\e9b5";
 }
 .cf-bz:before {
-  content: "\e9b7";
+  content: "\e9b6";
 }
 .cf-bznt:before {
-  content: "\e9b8";
+  content: "\e9b7";
 }
 .cf-bzrx:before {
-  content: "\e9b9";
+  content: "\e9b8";
 }
 .cf-c20:before {
-  content: "\e9ba";
+  content: "\e9b9";
 }
 .cf-cake:before {
-  content: "\e9bb";
+  content: "\e9ba";
 }
 .cf-can:before {
-  content: "\e9bc";
+  content: "\e9bb";
 }
 .cf-candy:before {
-  content: "\e9bd";
+  content: "\e9bc";
 }
 .cf-cann:before {
-  content: "\e9be";
+  content: "\e9bd";
 }
 .cf-capp:before {
-  content: "\e9bf";
+  content: "\e9be";
 }
 .cf-car:before {
-  content: "\e9c0";
+  content: "\e9bf";
 }
 .cf-carbon:before {
-  content: "\e9c1";
+  content: "\e9c0";
 }
 .cf-card:before {
-  content: "\e9c2";
+  content: "\e9c1";
 }
 .cf-cas:before {
-  content: "\e9c3";
+  content: "\e9c2";
 }
 .cf-cat:before {
-  content: "\e9c4";
+  content: "\e9c3";
 }
 .cf-cat2:before {
-  content: "\e9c5";
+  content: "\e9c4";
 }
 .cf-caz:before {
-  content: "\e9c6";
+  content: "\e9c5";
 }
 .cf-cbc:before {
-  content: "\e9c7";
+  content: "\e9c6";
 }
 .cf-cbt:before {
-  content: "\e9c8";
+  content: "\e9c7";
 }
 .cf-cbx:before {
-  content: "\e9c9";
+  content: "\e9c8";
 }
 .cf-cccx:before {
-  content: "\e9ca";
+  content: "\e9c9";
 }
 .cf-ccrb:before {
-  content: "\e9cb";
+  content: "\e9ca";
 }
 .cf-cdn:before {
-  content: "\e9cc";
+  content: "\e9cb";
 }
 .cf-cdt:before {
-  content: "\e9cd";
+  content: "\e9cc";
 }
 .cf-ceek:before {
-  content: "\e9ce";
+  content: "\e9cd";
 }
 .cf-cel:before {
-  content: "\e9cf";
+  content: "\e9ce";
 }
 .cf-celr:before {
-  content: "\e9d0";
+  content: "\e9cf";
 }
 .cf-cennz:before {
-  content: "\e9d1";
+  content: "\e9d0";
 }
 .cf-cfi:before {
-  content: "\e9d2";
+  content: "\e9d1";
 }
 .cf-chai:before {
-  content: "\e9d3";
+  content: "\e9d2";
 }
 .cf-chat:before {
-  content: "\e9d4";
+  content: "\e9d3";
 }
 .cf-chc:before {
-  content: "\e9d5";
+  content: "\e9d4";
 }
 .cf-chp:before {
-  content: "\e9d6";
+  content: "\e9d5";
 }
 .cf-chsb:before {
-  content: "\e9d7";
+  content: "\e9d6";
 }
 .cf-chx:before {
-  content: "\e9d8";
+  content: "\e9d7";
 }
 .cf-chz:before {
-  content: "\e9d9";
+  content: "\e9d8";
 }
 .cf-cjt:before {
-  content: "\e9da";
+  content: "\e9d9";
 }
 .cf-ckb:before {
-  content: "\e9db";
+  content: "\e9da";
 }
 .cf-cl:before {
-  content: "\e9dc";
+  content: "\e9db";
 }
 .cf-clam:before {
-  content: "\e9dd";
+  content: "\e9dc";
 }
 .cf-cln:before {
-  content: "\e9de";
+  content: "\e9dd";
 }
 .cf-clo:before {
-  content: "\e9df";
+  content: "\e9de";
 }
 .cf-cloak:before {
-  content: "\e9e0";
+  content: "\e9df";
 }
 .cf-clr:before {
-  content: "\e9e1";
+  content: "\e9e0";
 }
 .cf-cmpco:before {
-  content: "\e9e2";
+  content: "\e9e1";
 }
 .cf-cms:before {
-  content: "\e9e3";
+  content: "\e9e2";
 }
 .cf-cmt:before {
-  content: "\e9e4";
+  content: "\e9e3";
 }
 .cf-cnd:before {
-  content: "\e9e5";
+  content: "\e9e4";
 }
 .cf-cnet:before {
-  content: "\e9e6";
+  content: "\e9e5";
 }
 .cf-cnn:before {
-  content: "\e9e7";
+  content: "\e9e6";
 }
 .cf-cnx:before {
-  content: "\e9e8";
+  content: "\e9e7";
 }
 .cf-coal:before {
-  content: "\e9e9";
+  content: "\e9e8";
 }
 .cf-cob:before {
-  content: "\e9ea";
+  content: "\e9e9";
 }
 .cf-colx:before {
-  content: "\e9eb";
+  content: "\e9ea";
 }
 .cf-comp:before {
-  content: "\e9ec";
+  content: "\e9eb";
 }
 .cf-con:before {
-  content: "\e9ed";
+  content: "\e9ec";
 }
 .cf-coni:before {
-  content: "\e9ee";
+  content: "\e9ed";
 }
 .cf-cosm:before {
-  content: "\e9ef";
+  content: "\e9ee";
 }
 .cf-coss:before {
+  content: "\e9ef";
+}
+.cf-coti:before {
   content: "\e9f0";
 }
-.cf-coti .path1:before {
-  content: "\e9f1";
-  color: rgb(0, 0, 0);
-}
-.cf-coti .path2:before {
-  content: "\e9f2";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.5;
-}
 .cf-cov:before {
-  content: "\e9f3";
+  content: "\e9f1";
 }
 .cf-cova:before {
-  content: "\e9f4";
+  content: "\e9f2";
 }
 .cf-coval:before {
-  content: "\e9f5";
+  content: "\e9f3";
 }
 .cf-cpc:before {
-  content: "\e9f6";
+  content: "\e9f4";
 }
 .cf-cpc2:before {
-  content: "\e9f7";
+  content: "\e9f5";
 }
 .cf-cpn:before {
-  content: "\e9f8";
+  content: "\e9f6";
 }
 .cf-cpx:before {
-  content: "\e9f9";
+  content: "\e9f7";
 }
 .cf-cpy:before {
-  content: "\e9fa";
+  content: "\e9f8";
 }
 .cf-crave:before {
-  content: "\e9fb";
+  content: "\e9f9";
 }
 .cf-crb:before {
-  content: "\e9fc";
+  content: "\e9fa";
 }
 .cf-crc:before {
-  content: "\e9fd";
+  content: "\e9fb";
 }
 .cf-cre:before {
-  content: "\e9fe";
+  content: "\e9fc";
 }
 .cf-crea:before {
-  content: "\e9ff";
+  content: "\e9fd";
 }
 .cf-cream:before {
-  content: "\ea00";
+  content: "\e9fe";
 }
 .cf-cred:before {
-  content: "\ea01";
+  content: "\e9ff";
 }
 .cf-credo:before {
-  content: "\ea02";
+  content: "\ea00";
 }
 .cf-crm:before {
-  content: "\ea03";
+  content: "\ea01";
 }
 .cf-cro:before {
-  content: "\ea04";
+  content: "\ea02";
 }
 .cf-crop:before {
-  content: "\ea05";
+  content: "\ea03";
 }
 .cf-crpt:before {
-  content: "\ea06";
+  content: "\ea04";
 }
 .cf-crw:before {
-  content: "\ea07";
+  content: "\ea05";
 }
 .cf-cs:before {
-  content: "\ea08";
+  content: "\ea06";
 }
 .cf-csc:before {
-  content: "\ea09";
+  content: "\ea07";
 }
 .cf-csno:before {
-  content: "\ea0a";
+  content: "\ea08";
 }
 .cf-ctr:before {
-  content: "\ea0b";
+  content: "\ea09";
 }
 .cf-ctxc:before {
-  content: "\ea0c";
+  content: "\ea0a";
 }
 .cf-cube:before {
-  content: "\ea0d";
+  content: "\ea0b";
 }
 .cf-cure:before {
-  content: "\ea0e";
+  content: "\ea0c";
 }
 .cf-cv:before {
-  content: "\ea0f";
+  content: "\ea0d";
 }
 .cf-cvc:before {
-  content: "\ea10";
+  content: "\ea0e";
 }
 .cf-cvcoin:before {
-  content: "\ea11";
+  content: "\ea0f";
 }
 .cf-cvt:before {
-  content: "\ea12";
+  content: "\ea10";
 }
 .cf-cxo:before {
-  content: "\ea13";
+  content: "\ea11";
 }
 .cf-dadi:before {
-  content: "\ea14";
+  content: "\ea12";
 }
 .cf-dag:before {
-  content: "\ea15";
+  content: "\ea13";
 }
 .cf-dai:before {
-  content: "\ea16";
+  content: "\ea14";
 }
 .cf-dan:before {
-  content: "\ea17";
+  content: "\ea15";
 }
 .cf-dasc:before {
-  content: "\ea18";
+  content: "\ea16";
 }
 .cf-dash:before {
-  content: "\ea19";
+  content: "\ea17";
 }
 .cf-dat:before {
-  content: "\ea1a";
+  content: "\ea18";
 }
 .cf-data:before {
-  content: "\ea1b";
+  content: "\ea19";
 }
 .cf-datx:before {
-  content: "\ea1c";
+  content: "\ea1a";
 }
 .cf-dax:before {
-  content: "\ea1d";
+  content: "\ea1b";
 }
 .cf-daxx:before {
-  content: "\ea1e";
+  content: "\ea1c";
 }
 .cf-day:before {
-  content: "\ea1f";
+  content: "\ea1d";
 }
 .cf-dbc:before {
-  content: "\ea20";
+  content: "\ea1e";
 }
 .cf-dbet:before {
-  content: "\ea21";
+  content: "\ea1f";
 }
 .cf-dcc:before {
-  content: "\ea22";
+  content: "\ea20";
 }
 .cf-dcn:before {
-  content: "\ea23";
+  content: "\ea21";
 }
 .cf-dcr:before {
-  content: "\ea24";
+  content: "\ea22";
 }
 .cf-dct:before {
-  content: "\ea25";
+  content: "\ea23";
 }
 .cf-dcy:before {
-  content: "\ea26";
+  content: "\ea24";
 }
 .cf-ddd:before {
-  content: "\ea27";
+  content: "\ea25";
 }
 .cf-ddf:before {
-  content: "\ea28";
+  content: "\ea26";
 }
 .cf-deb:before {
-  content: "\ea29";
+  content: "\ea27";
 }
 .cf-dent:before {
-  content: "\ea2a";
+  content: "\ea28";
 }
 .cf-dero:before {
-  content: "\ea2b";
+  content: "\ea29";
 }
 .cf-deus:before {
-  content: "\ea2c";
+  content: "\ea2a";
 }
 .cf-dev:before {
-  content: "\ea2d";
+  content: "\ea2b";
 }
 .cf-dew:before {
-  content: "\ea2e";
+  content: "\ea2c";
 }
 .cf-dft:before {
-  content: "\ea2f";
+  content: "\ea2d";
 }
 .cf-dgb:before {
-  content: "\ea30";
+  content: "\ea2e";
 }
 .cf-dgd:before {
-  content: "\ea31";
+  content: "\ea2f";
 }
 .cf-dgpt:before {
-  content: "\ea32";
+  content: "\ea30";
 }
 .cf-dgtx:before {
-  content: "\ea33";
+  content: "\ea31";
 }
 .cf-dice:before {
-  content: "\ea34";
+  content: "\ea32";
 }
 .cf-dim:before {
-  content: "\ea35";
+  content: "\ea33";
 }
 .cf-dime:before {
-  content: "\ea36";
+  content: "\ea34";
 }
 .cf-divi:before {
-  content: "\ea37";
+  content: "\ea35";
 }
 .cf-divx:before {
-  content: "\ea38";
+  content: "\ea36";
 }
 .cf-dix:before {
-  content: "\ea39";
+  content: "\ea37";
 }
 .cf-dlisk:before {
-  content: "\ea3a";
+  content: "\ea38";
 }
 .cf-dlt:before {
-  content: "\ea3b";
+  content: "\ea39";
 }
 .cf-dmb:before {
-  content: "\ea3c";
+  content: "\ea3a";
 }
 .cf-dmd:before {
-  content: "\ea3d";
+  content: "\ea3b";
 }
 .cf-dml:before {
-  content: "\ea3e";
+  content: "\ea3c";
 }
 .cf-dmt:before {
-  content: "\ea3f";
+  content: "\ea3d";
 }
 .cf-dna:before {
-  content: "\ea40";
+  content: "\ea3e";
 }
 .cf-dnr:before {
-  content: "\ea41";
+  content: "\ea3f";
 }
 .cf-dnt:before {
-  content: "\ea42";
+  content: "\ea40";
 }
 .cf-dock:before {
-  content: "\ea43";
+  content: "\ea41";
 }
 .cf-doge:before {
-  content: "\ea44";
+  content: "\ea42";
 }
 .cf-dor:before {
-  content: "\ea45";
+  content: "\ea43";
 }
 .cf-dot:before {
-  content: "\ea46";
+  content: "\ea44";
 }
 .cf-dp:before {
-  content: "\ea47";
+  content: "\ea45";
 }
 .cf-dpy:before {
-  content: "\ea48";
+  content: "\ea46";
 }
 .cf-drgn:before {
-  content: "\ea49";
+  content: "\ea47";
 }
 .cf-drop:before {
-  content: "\ea4a";
+  content: "\ea48";
 }
 .cf-drpu:before {
-  content: "\ea4b";
+  content: "\ea49";
 }
 .cf-drt:before {
-  content: "\ea4c";
+  content: "\ea4a";
 }
 .cf-drxne:before {
-  content: "\ea4d";
+  content: "\ea4b";
 }
 .cf-dsh:before {
-  content: "\ea4e";
+  content: "\ea4c";
 }
 .cf-dsr:before {
-  content: "\ea4f";
+  content: "\ea4d";
 }
 .cf-dta:before {
-  content: "\ea50";
+  content: "\ea4e";
 }
 .cf-dtb:before {
-  content: "\ea51";
+  content: "\ea4f";
 }
 .cf-dth:before {
-  content: "\ea52";
+  content: "\ea50";
 }
 .cf-dtr:before {
-  content: "\ea53";
+  content: "\ea51";
 }
 .cf-dtrc:before {
-  content: "\ea54";
+  content: "\ea52";
 }
 .cf-dtx:before {
-  content: "\ea55";
+  content: "\ea53";
 }
 .cf-duo:before {
-  content: "\ea56";
+  content: "\ea54";
 }
 .cf-dxt:before {
-  content: "\ea57";
+  content: "\ea55";
 }
 .cf-earth:before {
-  content: "\ea58";
+  content: "\ea56";
 }
 .cf-ebtc:before {
-  content: "\ea59";
+  content: "\ea57";
 }
 .cf-eca:before {
-  content: "\ea5a";
+  content: "\ea58";
 }
 .cf-ecash:before {
-  content: "\ea5b";
+  content: "\ea59";
 }
 .cf-ecc:before {
-  content: "\ea5c";
+  content: "\ea5a";
 }
 .cf-ecob:before {
-  content: "\ea5d";
+  content: "\ea5b";
 }
 .cf-edg:before {
-  content: "\ea5e";
+  content: "\ea5c";
 }
-.cf-edo .path1:before {
-  content: "\ea5f";
-  color: rgb(0, 0, 0);
-}
-.cf-edo .path2:before {
-  content: "\ea60";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
-}
-.cf-edo .path3:before {
-  content: "\ea61";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-edo .path4:before {
-  content: "\ea62";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
-}
-.cf-edo .path5:before {
-  content: "\ea63";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-edo .path6:before {
-  content: "\ea64";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
-}
-.cf-edo .path7:before {
-  content: "\ea65";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
+.cf-edo:before {
+  content: "\ea5d";
 }
 .cf-edr:before {
-  content: "\ea66";
+  content: "\ea5e";
 }
 .cf-edt:before {
-  content: "\ea67";
+  content: "\ea5f";
 }
 .cf-edu:before {
-  content: "\ea68";
+  content: "\ea60";
 }
 .cf-efl:before {
-  content: "\ea69";
+  content: "\ea61";
 }
 .cf-efx:before {
-  content: "\ea6a";
+  content: "\ea62";
 }
 .cf-efyt:before {
-  content: "\ea6b";
+  content: "\ea63";
 }
 .cf-egc:before {
-  content: "\ea6c";
+  content: "\ea64";
 }
 .cf-egcc:before {
-  content: "\ea6d";
+  content: "\ea65";
 }
 .cf-egld:before {
-  content: "\ea6e";
+  content: "\ea66";
 }
 .cf-egt:before {
-  content: "\ea6f";
+  content: "\ea67";
 }
 .cf-ekg:before {
-  content: "\ea70";
+  content: "\ea68";
 }
 .cf-eko:before {
-  content: "\ea71";
+  content: "\ea69";
 }
 .cf-ekt:before {
-  content: "\ea72";
+  content: "\ea6a";
 }
 .cf-el:before {
-  content: "\ea73";
+  content: "\ea6b";
 }
 .cf-ela:before {
-  content: "\ea74";
+  content: "\ea6c";
 }
 .cf-elec:before {
-  content: "\ea75";
+  content: "\ea6d";
 }
 .cf-elf:before {
-  content: "\ea76";
+  content: "\ea6e";
 }
 .cf-elix:before {
-  content: "\ea77";
+  content: "\ea6f";
 }
 .cf-ella:before {
-  content: "\ea78";
+  content: "\ea70";
 }
 .cf-eltcoin:before {
-  content: "\ea79";
+  content: "\ea71";
 }
 .cf-emb:before {
-  content: "\ea7a";
+  content: "\ea72";
 }
 .cf-emc:before {
-  content: "\ea7b";
+  content: "\ea73";
 }
 .cf-emc2:before {
-  content: "\ea7c";
+  content: "\ea74";
 }
 .cf-eng:before {
-  content: "\ea7d";
+  content: "\ea75";
 }
 .cf-enj:before {
-  content: "\ea7e";
+  content: "\ea76";
 }
 .cf-enrg:before {
-  content: "\ea7f";
+  content: "\ea77";
 }
 .cf-ent:before {
-  content: "\ea80";
+  content: "\ea78";
 }
 .cf-eos:before {
-  content: "\ea81";
+  content: "\ea79";
 }
 .cf-eosdac:before {
-  content: "\ea82";
+  content: "\ea7a";
 }
 .cf-epc:before {
-  content: "\ea83";
+  content: "\ea7b";
 }
 .cf-eql:before {
-  content: "\ea84";
+  content: "\ea7c";
 }
 .cf-eqt:before {
-  content: "\ea85";
+  content: "\ea7d";
 }
 .cf-erc:before {
-  content: "\ea86";
+  content: "\ea7e";
 }
 .cf-erc20:before {
-  content: "\ea87";
+  content: "\ea7f";
 }
 .cf-erd:before {
-  content: "\ea88";
+  content: "\ea80";
 }
 .cf-ero:before {
-  content: "\ea89";
+  content: "\ea81";
 }
 .cf-esd:before {
-  content: "\ea8a";
+  content: "\ea82";
 }
 .cf-esp:before {
-  content: "\ea8b";
+  content: "\ea83";
 }
 .cf-ess:before {
-  content: "\ea8c";
+  content: "\ea84";
 }
 .cf-esz:before {
-  content: "\ea8d";
+  content: "\ea85";
 }
 .cf-etbs:before {
-  content: "\ea8e";
+  content: "\ea86";
 }
 .cf-etc:before {
-  content: "\ea8f";
+  content: "\ea87";
 }
-.cf-eth .path1:before {
-  content: "\ea90";
-  color: rgb(0, 0, 0);
-  opacity: 0.8;
-}
-.cf-eth .path2:before {
-  content: "\ea91";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
-}
-.cf-eth .path3:before {
-  content: "\ea92";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.8;
-}
-.cf-eth .path4:before {
-  content: "\ea93";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-eth .path5:before {
-  content: "\ea94";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.8;
-}
-.cf-eth .path6:before {
-  content: "\ea95";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
+.cf-eth:before {
+  content: "\ea88";
 }
 .cf-etn:before {
-  content: "\ea96";
+  content: "\ea89";
 }
 .cf-etp:before {
-  content: "\ea97";
+  content: "\ea8a";
 }
 .cf-ett:before {
-  content: "\ea98";
+  content: "\ea8b";
 }
 .cf-etz:before {
-  content: "\ea99";
+  content: "\ea8c";
 }
 .cf-euc:before {
-  content: "\ea9a";
+  content: "\ea8d";
 }
 .cf-evc:before {
-  content: "\ea9b";
+  content: "\ea8e";
 }
 .cf-eve:before {
-  content: "\ea9c";
+  content: "\ea8f";
 }
 .cf-evn:before {
-  content: "\ea9d";
+  content: "\ea90";
 }
 .cf-evr:before {
-  content: "\ea9e";
+  content: "\ea91";
 }
 .cf-evx:before {
-  content: "\ea9f";
+  content: "\ea92";
 }
 .cf-excl:before {
-  content: "\eaa0";
+  content: "\ea93";
 }
 .cf-exy:before {
-  content: "\eaa1";
+  content: "\ea94";
 }
 .cf-face:before {
-  content: "\eaa2";
+  content: "\ea95";
 }
 .cf-fair:before {
-  content: "\eaa3";
+  content: "\ea96";
 }
 .cf-fct:before {
-  content: "\eaa4";
+  content: "\ea97";
 }
 .cf-fdx:before {
-  content: "\eaa5";
+  content: "\ea98";
 }
 .cf-fdz:before {
-  content: "\eaa6";
+  content: "\ea99";
 }
 .cf-fet:before {
-  content: "\eaa7";
+  content: "\ea9a";
 }
 .cf-fil:before {
-  content: "\eaa8";
+  content: "\ea9b";
 }
 .cf-fjc:before {
-  content: "\eaa9";
+  content: "\ea9c";
 }
 .cf-flash:before {
-  content: "\eaaa";
+  content: "\ea9d";
 }
 .cf-flixx:before {
-  content: "\eaab";
+  content: "\ea9e";
 }
 .cf-flo:before {
-  content: "\eaac";
+  content: "\ea9f";
 }
 .cf-fluz:before {
-  content: "\eaad";
+  content: "\eaa0";
 }
 .cf-fnd:before {
-  content: "\eaae";
+  content: "\eaa1";
 }
 .cf-for:before {
-  content: "\eaaf";
+  content: "\eaa2";
 }
 .cf-fota:before {
-  content: "\eab0";
+  content: "\eaa3";
 }
 .cf-frec:before {
-  content: "\eab1";
+  content: "\eaa4";
 }
 .cf-frm:before {
-  content: "\eab2";
+  content: "\eaa5";
 }
 .cf-frst:before {
-  content: "\eab3";
+  content: "\eaa6";
 }
 .cf-fsn:before {
-  content: "\eab4";
+  content: "\eaa7";
 }
 .cf-fst:before {
-  content: "\eab5";
+  content: "\eaa8";
 }
 .cf-ft:before {
-  content: "\eab6";
+  content: "\eaa9";
 }
 .cf-ftc:before {
-  content: "\eab7";
+  content: "\eaaa";
 }
 .cf-ftm:before {
-  content: "\eab8";
+  content: "\eaab";
 }
 .cf-ftt:before {
-  content: "\eab9";
+  content: "\eaac";
 }
 .cf-ftx:before {
-  content: "\eaba";
+  content: "\eaad";
 }
 .cf-fuel:before {
-  content: "\eabb";
+  content: "\eaae";
 }
 .cf-fun:before {
-  content: "\eabc";
+  content: "\eaaf";
 }
 .cf-func:before {
-  content: "\eabd";
+  content: "\eab0";
 }
 .cf-fxc:before {
-  content: "\eabe";
+  content: "\eab1";
 }
 .cf-fxt:before {
-  content: "\eabf";
+  content: "\eab2";
 }
 .cf-fyn:before {
-  content: "\eac0";
+  content: "\eab3";
 }
 .cf-game:before {
-  content: "\eac1";
+  content: "\eab4";
 }
 .cf-gat:before {
-  content: "\eac2";
+  content: "\eab5";
 }
 .cf-gb:before {
-  content: "\eac3";
+  content: "\eab6";
 }
 .cf-gbx:before {
-  content: "\eac4";
+  content: "\eab7";
 }
 .cf-gbyte:before {
-  content: "\eac5";
+  content: "\eab8";
 }
 .cf-gcc:before {
-  content: "\eac6";
+  content: "\eab9";
 }
 .cf-gcs:before {
-  content: "\eac7";
+  content: "\eaba";
 }
 .cf-gdc:before {
-  content: "\eac8";
+  content: "\eabb";
 }
 .cf-gem:before {
-  content: "\eac9";
+  content: "\eabc";
 }
 .cf-gen:before {
-  content: "\eaca";
+  content: "\eabd";
 }
 .cf-gene:before {
-  content: "\eacb";
+  content: "\eabe";
 }
 .cf-get:before {
-  content: "\eacc";
+  content: "\eabf";
 }
 .cf-getx:before {
-  content: "\eacd";
+  content: "\eac0";
 }
 .cf-gin:before {
-  content: "\eace";
+  content: "\eac1";
 }
 .cf-gla:before {
-  content: "\eacf";
+  content: "\eac2";
 }
 .cf-gno:before {
-  content: "\ead0";
+  content: "\eac3";
 }
 .cf-gnt:before {
-  content: "\ead1";
+  content: "\eac4";
 }
 .cf-gnx:before {
-  content: "\ead2";
+  content: "\eac5";
 }
 .cf-go:before {
-  content: "\ead3";
+  content: "\eac6";
 }
 .cf-god:before {
-  content: "\ead4";
+  content: "\eac7";
 }
 .cf-golf:before {
-  content: "\ead5";
+  content: "\eac8";
 }
 .cf-golos:before {
-  content: "\ead6";
+  content: "\eac9";
 }
 .cf-good:before {
-  content: "\ead7";
+  content: "\eaca";
 }
 .cf-got:before {
-  content: "\ead8";
+  content: "\eacb";
 }
 .cf-grc:before {
-  content: "\ead9";
+  content: "\eacc";
 }
 .cf-grft:before {
-  content: "\eada";
+  content: "\eacd";
 }
 .cf-grid:before {
-  content: "\eadb";
+  content: "\eace";
 }
 .cf-grin:before {
-  content: "\eadc";
+  content: "\eacf";
 }
 .cf-grlc:before {
-  content: "\eadd";
+  content: "\ead0";
 }
 .cf-grmd:before {
-  content: "\eade";
+  content: "\ead1";
 }
 .cf-grn:before {
-  content: "\eadf";
+  content: "\ead2";
 }
 .cf-grs:before {
-  content: "\eae0";
+  content: "\ead3";
 }
 .cf-grt:before {
-  content: "\eae1";
+  content: "\ead4";
 }
 .cf-gsc:before {
-  content: "\eae2";
+  content: "\ead5";
 }
 .cf-gt:before {
-  content: "\eae3";
+  content: "\ead6";
 }
 .cf-gtc:before {
-  content: "\eae4";
+  content: "\ead7";
 }
 .cf-gto:before {
-  content: "\eae5";
+  content: "\ead8";
 }
 .cf-guess:before {
-  content: "\eae6";
+  content: "\ead9";
 }
 .cf-gup:before {
-  content: "\eae7";
+  content: "\eada";
 }
 .cf-gusd:before {
-  content: "\eae8";
+  content: "\eadb";
 }
 .cf-gvt:before {
-  content: "\eae9";
+  content: "\eadc";
 }
 .cf-gxs:before {
-  content: "\eaea";
+  content: "\eadd";
 }
 .cf-hac:before {
-  content: "\eaeb";
+  content: "\eade";
 }
 .cf-hade:before {
-  content: "\eaec";
+  content: "\eadf";
 }
 .cf-hat:before {
-  content: "\eaed";
+  content: "\eae0";
 }
 .cf-hav:before {
-  content: "\eaee";
+  content: "\eae1";
 }
 .cf-hbar:before {
-  content: "\eaef";
+  content: "\eae2";
 }
 .cf-hbc:before {
-  content: "\eaf0";
+  content: "\eae3";
 }
 .cf-hc:before {
-  content: "\eaf1";
+  content: "\eae4";
 }
 .cf-heat:before {
-  content: "\eaf2";
+  content: "\eae5";
 }
 .cf-hedg:before {
-  content: "\eaf3";
+  content: "\eae6";
 }
 .cf-her:before {
-  content: "\eaf4";
+  content: "\eae7";
 }
 .cf-hero:before {
-  content: "\eaf5";
+  content: "\eae8";
 }
 .cf-hex:before {
-  content: "\eaf6";
+  content: "\eae9";
 }
 .cf-hgt:before {
-  content: "\eaf7";
+  content: "\eaea";
 }
 .cf-hire:before {
-  content: "\eaf8";
+  content: "\eaeb";
 }
 .cf-hive:before {
-  content: "\eaf9";
+  content: "\eaec";
 }
 .cf-hkn:before {
-  content: "\eafa";
+  content: "\eaed";
 }
 .cf-hlc:before {
-  content: "\eafb";
+  content: "\eaee";
 }
 .cf-hmc:before {
-  content: "\eafc";
+  content: "\eaef";
 }
 .cf-hmq:before {
-  content: "\eafd";
+  content: "\eaf0";
 }
 .cf-hot:before {
-  content: "\eafe";
+  content: "\eaf1";
 }
 .cf-hot2:before {
-  content: "\eaff";
+  content: "\eaf2";
 }
 .cf-hpb:before {
-  content: "\eb00";
+  content: "\eaf3";
 }
 .cf-hpc:before {
-  content: "\eb01";
+  content: "\eaf4";
 }
 .cf-hqx:before {
-  content: "\eb02";
+  content: "\eaf5";
 }
 .cf-hsr:before {
-  content: "\eb03";
+  content: "\eaf6";
 }
 .cf-hst:before {
-  content: "\eb04";
+  content: "\eaf7";
 }
 .cf-ht:before {
-  content: "\eb05";
+  content: "\eaf8";
 }
 .cf-huc:before {
-  content: "\eb06";
+  content: "\eaf9";
 }
 .cf-hum:before {
-  content: "\eb07";
+  content: "\eafa";
 }
 .cf-hur:before {
-  content: "\eb08";
+  content: "\eafb";
 }
 .cf-husd:before {
-  content: "\eb09";
+  content: "\eafc";
 }
 .cf-hush:before {
-  content: "\eb0a";
+  content: "\eafd";
 }
 .cf-hvn:before {
-  content: "\eb0b";
+  content: "\eafe";
 }
 .cf-hxx:before {
-  content: "\eb0c";
+  content: "\eaff";
 }
 .cf-hydro:before {
-  content: "\eb0d";
+  content: "\eb00";
 }
 .cf-hyn:before {
-  content: "\eb0e";
+  content: "\eb01";
 }
 .cf-ic:before {
-  content: "\eb0f";
+  content: "\eb02";
 }
 .cf-icn:before {
-  content: "\eb10";
+  content: "\eb03";
 }
 .cf-icon:before {
-  content: "\eb11";
+  content: "\eb04";
 }
 .cf-icx:before {
-  content: "\eb12";
+  content: "\eb05";
 }
 .cf-idex:before {
-  content: "\eb13";
+  content: "\eb06";
 }
 .cf-idh:before {
-  content: "\eb14";
+  content: "\eb07";
 }
 .cf-idt:before {
-  content: "\eb15";
+  content: "\eb08";
 }
 .cf-idxm:before {
-  content: "\eb16";
+  content: "\eb09";
+}
+.cf-ieth:before {
+  content: "\eb0a";
 }
 .cf-ift:before {
-  content: "\eb17";
+  content: "\eb0b";
 }
 .cf-ignis:before {
-  content: "\eb18";
+  content: "\eb0c";
 }
 .cf-iht:before {
-  content: "\eb19";
+  content: "\eb0d";
 }
 .cf-iic:before {
-  content: "\eb1a";
+  content: "\eb0e";
 }
 .cf-inb:before {
-  content: "\eb1b";
+  content: "\eb0f";
 }
 .cf-inc:before {
-  content: "\eb1c";
+  content: "\eb10";
 }
 .cf-incnt:before {
-  content: "\eb1d";
+  content: "\eb11";
 }
 .cf-ind:before {
-  content: "\eb1e";
+  content: "\eb12";
 }
 .cf-infx:before {
-  content: "\eb1f";
+  content: "\eb13";
 }
 .cf-ing:before {
-  content: "\eb20";
+  content: "\eb14";
 }
 .cf-ink:before {
-  content: "\eb21";
+  content: "\eb15";
 }
 .cf-inn:before {
-  content: "\eb22";
+  content: "\eb16";
 }
 .cf-inpay:before {
-  content: "\eb23";
+  content: "\eb17";
 }
 .cf-ins:before {
-  content: "\eb24";
+  content: "\eb18";
 }
 .cf-insn:before {
-  content: "\eb25";
+  content: "\eb19";
 }
 .cf-instar:before {
-  content: "\eb26";
+  content: "\eb1a";
 }
 .cf-insur:before {
-  content: "\eb27";
+  content: "\eb1b";
 }
 .cf-int:before {
-  content: "\eb28";
+  content: "\eb1c";
 }
 .cf-inv:before {
-  content: "\eb29";
+  content: "\eb1d";
 }
 .cf-inxt:before {
-  content: "\eb2a";
+  content: "\eb1e";
 }
 .cf-ioc:before {
-  content: "\eb2b";
+  content: "\eb1f";
 }
 .cf-ion:before {
-  content: "\eb2c";
+  content: "\eb20";
 }
 .cf-iop:before {
-  content: "\eb2d";
+  content: "\eb21";
 }
 .cf-iost:before {
-  content: "\eb2e";
+  content: "\eb22";
 }
 .cf-iota:before {
-  content: "\eb2f";
+  content: "\eb23";
 }
-.cf-iotx .path1:before {
-  content: "\eb30";
-  color: rgb(0, 0, 0);
-  opacity: 0.7;
-}
-.cf-iotx .path2:before {
-  content: "\eb31";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-iotx .path3:before {
-  content: "\eb32";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.7;
-}
-.cf-iotx .path4:before {
-  content: "\eb33";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.7;
-}
-.cf-iotx .path5:before {
-  content: "\eb34";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.7;
-}
-.cf-iotx .path6:before {
-  content: "\eb35";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.7;
-}
-.cf-iotx .path7:before {
-  content: "\eb36";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.7;
-}
-.cf-iotx .path8:before {
-  content: "\eb37";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-iotx .path9:before {
-  content: "\eb38";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-iotx .path10:before {
-  content: "\eb39";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-iotx .path11:before {
-  content: "\eb3a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
+.cf-iotx:before {
+  content: "\eb24";
 }
 .cf-ipl:before {
-  content: "\eb3b";
+  content: "\eb25";
 }
 .cf-iq:before {
-  content: "\eb3c";
+  content: "\eb26";
 }
 .cf-iqt:before {
-  content: "\eb3d";
+  content: "\eb27";
 }
 .cf-iris:before {
-  content: "\eb3e";
+  content: "\eb28";
 }
 .cf-isl:before {
-  content: "\eb3f";
+  content: "\eb29";
 }
 .cf-itc:before {
-  content: "\eb40";
+  content: "\eb2a";
 }
 .cf-itns:before {
-  content: "\eb41";
+  content: "\eb2b";
 }
 .cf-itt:before {
-  content: "\eb42";
+  content: "\eb2c";
 }
 .cf-ivy:before {
-  content: "\eb43";
+  content: "\eb2d";
 }
 .cf-ixc:before {
-  content: "\eb44";
+  content: "\eb2e";
 }
 .cf-ixt:before {
-  content: "\eb45";
+  content: "\eb2f";
 }
 .cf-j8t:before {
-  content: "\eb46";
+  content: "\eb30";
 }
 .cf-jc:before {
-  content: "\eb47";
+  content: "\eb31";
 }
 .cf-jet:before {
-  content: "\eb48";
+  content: "\eb32";
 }
 .cf-jew:before {
-  content: "\eb49";
+  content: "\eb33";
 }
 .cf-jnt:before {
-  content: "\eb4a";
+  content: "\eb34";
 }
 .cf-jrt:before {
-  content: "\eb4b";
+  content: "\eb35";
 }
 .cf-jst:before {
-  content: "\eb4c";
+  content: "\eb36";
 }
 .cf-karma:before {
-  content: "\eb4d";
+  content: "\eb37";
 }
 .cf-kava:before {
-  content: "\eb4e";
+  content: "\eb38";
 }
 .cf-kb3:before {
-  content: "\eb4f";
+  content: "\eb39";
 }
 .cf-kbr:before {
-  content: "\eb50";
+  content: "\eb3a";
 }
 .cf-kcs:before {
-  content: "\eb51";
+  content: "\eb3b";
 }
 .cf-key:before {
-  content: "\eb52";
+  content: "\eb3c";
 }
 .cf-key2:before {
-  content: "\eb53";
+  content: "\eb3d";
 }
 .cf-kick:before {
-  content: "\eb54";
+  content: "\eb3e";
 }
 .cf-kin:before {
-  content: "\eb55";
+  content: "\eb3f";
 }
 .cf-kln:before {
-  content: "\eb56";
+  content: "\eb40";
 }
 .cf-kmd:before {
-  content: "\eb57";
+  content: "\eb41";
 }
 .cf-knc:before {
-  content: "\eb58";
+  content: "\eb42";
 }
 .cf-kobo:before {
-  content: "\eb59";
+  content: "\eb43";
 }
 .cf-kore:before {
-  content: "\eb5a";
+  content: "\eb44";
 }
 .cf-krb:before {
-  content: "\eb5b";
+  content: "\eb45";
 }
 .cf-krm:before {
-  content: "\eb5c";
+  content: "\eb46";
 }
 .cf-krone:before {
-  content: "\eb5d";
+  content: "\eb47";
 }
 .cf-ksm:before {
-  content: "\eb5e";
+  content: "\eb48";
 }
 .cf-kurt:before {
-  content: "\eb5f";
+  content: "\eb49";
 }
 .cf-la:before {
-  content: "\eb60";
+  content: "\eb4a";
 }
 .cf-lala:before {
-  content: "\eb61";
+  content: "\eb4b";
 }
 .cf-lamb:before {
-  content: "\eb62";
+  content: "\eb4c";
 }
 .cf-latx:before {
-  content: "\eb63";
+  content: "\eb4d";
 }
 .cf-lba:before {
-  content: "\eb64";
+  content: "\eb4e";
 }
 .cf-lbc:before {
-  content: "\eb65";
+  content: "\eb4f";
 }
 .cf-lbtc:before {
-  content: "\eb66";
+  content: "\eb50";
 }
 .cf-lcc:before {
-  content: "\eb67";
+  content: "\eb51";
 }
 .cf-ldc:before {
-  content: "\eb68";
+  content: "\eb52";
 }
 .cf-lend:before {
-  content: "\eb69";
+  content: "\eb53";
 }
 .cf-leo:before {
-  content: "\eb6a";
+  content: "\eb54";
 }
 .cf-let:before {
-  content: "\eb6b";
+  content: "\eb55";
 }
 .cf-lev:before {
-  content: "\eb6c";
+  content: "\eb56";
 }
 .cf-lgd:before {
-  content: "\eb6d";
+  content: "\eb57";
 }
 .cf-lgo:before {
-  content: "\eb6e";
+  content: "\eb58";
 }
 .cf-linda:before {
-  content: "\eb6f";
+  content: "\eb59";
 }
 .cf-link:before {
-  content: "\eb70";
+  content: "\eb5a";
 }
 .cf-linx:before {
-  content: "\eb71";
+  content: "\eb5b";
 }
 .cf-live:before {
-  content: "\eb72";
+  content: "\eb5c";
 }
 .cf-lkk:before {
-  content: "\eb73";
+  content: "\eb5d";
 }
 .cf-lky:before {
-  content: "\eb74";
+  content: "\eb5e";
 }
 .cf-lmc:before {
-  content: "\eb75";
+  content: "\eb5f";
 }
 .cf-lnc:before {
-  content: "\eb76";
+  content: "\eb60";
 }
 .cf-lnd:before {
-  content: "\eb77";
+  content: "\eb61";
 }
 .cf-loc:before {
-  content: "\eb78";
+  content: "\eb62";
 }
 .cf-loci:before {
-  content: "\eb79";
+  content: "\eb63";
 }
 .cf-log:before {
-  content: "\eb7a";
+  content: "\eb64";
 }
 .cf-loki:before {
-  content: "\eb7b";
+  content: "\eb65";
 }
 .cf-loom:before {
-  content: "\eb7c";
+  content: "\eb66";
 }
 .cf-lpt:before {
-  content: "\eb7d";
+  content: "\eb67";
 }
 .cf-lqd:before {
-  content: "\eb7e";
+  content: "\eb68";
 }
 .cf-lrc:before {
-  content: "\eb7f";
+  content: "\eb69";
 }
 .cf-lsk:before {
-  content: "\eb80";
+  content: "\eb6a";
 }
 .cf-ltc:before {
-  content: "\eb81";
+  content: "\eb6b";
 }
 .cf-lto:before {
-  content: "\eb82";
+  content: "\eb6c";
 }
 .cf-lun:before {
-  content: "\eb83";
+  content: "\eb6d";
 }
-.cf-luna .path1:before {
-  content: "\eb84";
-  color: rgb(0, 0, 0);
-}
-.cf-luna .path2:before {
-  content: "\eb85";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.5;
-}
-.cf-luna .path3:before {
-  content: "\eb86";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.5;
-}
-.cf-luna .path4:before {
-  content: "\eb87";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-luna .path5:before {
-  content: "\eb88";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-luna .path6:before {
-  content: "\eb89";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
+.cf-luna:before {
+  content: "\eb6e";
 }
 .cf-lux:before {
-  content: "\eb8a";
+  content: "\eb6f";
 }
 .cf-lwf:before {
-  content: "\eb8b";
+  content: "\eb70";
 }
 .cf-lxt:before {
-  content: "\eb8c";
+  content: "\eb71";
 }
 .cf-lyl:before {
-  content: "\eb8d";
+  content: "\eb72";
 }
 .cf-lym:before {
-  content: "\eb8e";
+  content: "\eb73";
 }
 .cf-mag:before {
-  content: "\eb8f";
+  content: "\eb74";
 }
-.cf-maid .path1:before {
-  content: "\eb90";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.cf-maid .path2:before {
-  content: "\eb91";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.7;
-}
-.cf-maid .path3:before {
-  content: "\eb92";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
+.cf-maid:before {
+  content: "\eb75";
 }
 .cf-man:before {
-  content: "\eb93";
+  content: "\eb76";
 }
 .cf-mana-old:before {
-  content: "\eb94";
+  content: "\eb77";
 }
 .cf-mana:before {
-  content: "\eb95";
+  content: "\eb78";
 }
-.cf-matic .path1:before {
-  content: "\eb96";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.cf-matic .path2:before {
-  content: "\eb97";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-matic .path3:before {
-  content: "\eb98";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.7;
-}
-.cf-matic .path4:before {
-  content: "\eb99";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-matic .path5:before {
-  content: "\eb9a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.7;
+.cf-matic:before {
+  content: "\eb79";
 }
 .cf-max:before {
-  content: "\eb9b";
+  content: "\eb7a";
 }
 .cf-mbc:before {
-  content: "\eb9c";
+  content: "\eb7b";
 }
 .cf-mbrs:before {
-  content: "\eb9d";
+  content: "\eb7c";
 }
 .cf-mcap:before {
-  content: "\eb9e";
+  content: "\eb7d";
 }
 .cf-mco:before {
-  content: "\eb9f";
+  content: "\eb7e";
 }
 .cf-mcx:before {
-  content: "\eba0";
+  content: "\eb7f";
 }
 .cf-mda:before {
-  content: "\eba1";
+  content: "\eb80";
 }
 .cf-mdc:before {
-  content: "\eba2";
+  content: "\eb81";
 }
 .cf-mds:before {
-  content: "\eba3";
+  content: "\eb82";
 }
 .cf-mdt:before {
-  content: "\eba4";
+  content: "\eb83";
 }
 .cf-mec:before {
-  content: "\eba5";
+  content: "\eb84";
 }
 .cf-med:before {
-  content: "\eba6";
+  content: "\eb85";
 }
 .cf-medic:before {
-  content: "\eba7";
+  content: "\eb86";
 }
 .cf-medx:before {
-  content: "\eba8";
+  content: "\eb87";
 }
 .cf-meet:before {
-  content: "\eba9";
+  content: "\eb88";
 }
 .cf-mer:before {
-  content: "\ebaa";
+  content: "\eb89";
 }
 .cf-met:before {
-  content: "\ebab";
+  content: "\eb8a";
 }
 .cf-mfg:before {
-  content: "\ebac";
+  content: "\eb8b";
 }
 .cf-mft:before {
-  content: "\ebad";
+  content: "\eb8c";
 }
 .cf-mgo:before {
-  content: "\ebae";
+  content: "\eb8d";
 }
 .cf-minex:before {
-  content: "\ebaf";
+  content: "\eb8e";
 }
 .cf-mint:before {
-  content: "\ebb0";
+  content: "\eb8f";
 }
 .cf-mith:before {
-  content: "\ebb1";
+  content: "\eb90";
 }
 .cf-mitx:before {
-  content: "\ebb2";
+  content: "\eb91";
 }
 .cf-mkr:before {
-  content: "\ebb3";
+  content: "\eb92";
 }
 .cf-mln:before {
-  content: "\ebb4";
+  content: "\eb93";
 }
 .cf-mne:before {
-  content: "\ebb5";
+  content: "\eb94";
 }
 .cf-mntp:before {
-  content: "\ebb6";
+  content: "\eb95";
 }
 .cf-mnx:before {
-  content: "\ebb7";
+  content: "\eb96";
 }
 .cf-mnx2:before {
-  content: "\ebb8";
+  content: "\eb97";
 }
 .cf-moac:before {
-  content: "\ebb9";
+  content: "\eb98";
 }
 .cf-mobi:before {
-  content: "\ebba";
+  content: "\eb99";
 }
 .cf-mod:before {
-  content: "\ebbb";
+  content: "\eb9a";
 }
 .cf-mof:before {
-  content: "\ebbc";
+  content: "\eb9b";
 }
 .cf-moin:before {
-  content: "\ebbd";
+  content: "\eb9c";
 }
 .cf-mojo:before {
-  content: "\ebbe";
+  content: "\eb9d";
 }
 .cf-mona:before {
-  content: "\ebbf";
+  content: "\eb9e";
 }
 .cf-moon:before {
-  content: "\ebc0";
+  content: "\eb9f";
 }
 .cf-morph:before {
-  content: "\ebc1";
+  content: "\eba0";
 }
 .cf-mot:before {
-  content: "\ebc2";
+  content: "\eba1";
 }
 .cf-mrk:before {
-  content: "\ebc3";
+  content: "\eba2";
 }
 .cf-mrq:before {
-  content: "\ebc4";
+  content: "\eba3";
 }
 .cf-mscn:before {
-  content: "\ebc5";
+  content: "\eba4";
 }
 .cf-msp:before {
-  content: "\ebc6";
+  content: "\eba5";
 }
 .cf-msr:before {
-  content: "\ebc7";
+  content: "\eba6";
 }
 .cf-mta:before {
-  content: "\ebc8";
+  content: "\eba7";
 }
 .cf-mtc:before {
-  content: "\ebc9";
+  content: "\eba8";
 }
 .cf-mth:before {
-  content: "\ebca";
+  content: "\eba9";
 }
 .cf-mtl:before {
-  content: "\ebcb";
+  content: "\ebaa";
 }
 .cf-mtn:before {
-  content: "\ebcc";
+  content: "\ebab";
 }
 .cf-mtx:before {
-  content: "\ebcd";
+  content: "\ebac";
 }
 .cf-mue:before {
-  content: "\ebce";
+  content: "\ebad";
 }
 .cf-muse:before {
-  content: "\ebcf";
+  content: "\ebae";
 }
 .cf-music:before {
-  content: "\ebd0";
+  content: "\ebaf";
 }
 .cf-mvc:before {
-  content: "\ebd1";
+  content: "\ebb0";
 }
 .cf-mvp:before {
-  content: "\ebd2";
+  content: "\ebb1";
 }
 .cf-mwat:before {
-  content: "\ebd3";
+  content: "\ebb2";
 }
 .cf-mwc:before {
-  content: "\ebd4";
+  content: "\ebb3";
 }
 .cf-mxm:before {
-  content: "\ebd5";
+  content: "\ebb4";
 }
 .cf-myb:before {
-  content: "\ebd6";
+  content: "\ebb5";
 }
 .cf-myst:before {
-  content: "\ebd7";
+  content: "\ebb6";
 }
 .cf-nanj:before {
-  content: "\ebd8";
+  content: "\ebb7";
 }
 .cf-nano:before {
-  content: "\ebd9";
+  content: "\ebb8";
 }
 .cf-nanox:before {
-  content: "\ebda";
+  content: "\ebb9";
 }
 .cf-nas:before {
-  content: "\ebdb";
+  content: "\ebba";
 }
 .cf-nav:before {
-  content: "\ebdc";
+  content: "\ebbb";
 }
 .cf-navi:before {
-  content: "\ebdd";
+  content: "\ebbc";
 }
 .cf-nbai:before {
-  content: "\ebde";
+  content: "\ebbd";
 }
 .cf-ncash:before {
-  content: "\ebdf";
+  content: "\ebbe";
 }
 .cf-nct:before {
-  content: "\ebe0";
+  content: "\ebbf";
 }
 .cf-near:before {
-  content: "\ebe1";
+  content: "\ebc0";
 }
 .cf-nebl:before {
-  content: "\ebe2";
+  content: "\ebc1";
 }
 .cf-nec:before {
-  content: "\ebe3";
+  content: "\ebc2";
 }
 .cf-neo:before {
-  content: "\ebe4";
+  content: "\ebc3";
 }
 .cf-neos:before {
-  content: "\ebe5";
+  content: "\ebc4";
 }
 .cf-net:before {
-  content: "\ebe6";
+  content: "\ebc5";
 }
 .cf-neu:before {
-  content: "\ebe7";
+  content: "\ebc6";
 }
 .cf-new:before {
-  content: "\ebe8";
+  content: "\ebc7";
 }
 .cf-newb:before {
-  content: "\ebe9";
+  content: "\ebc8";
 }
 .cf-nex:before {
-  content: "\ebea";
+  content: "\ebc9";
 }
 .cf-nexo:before {
-  content: "\ebeb";
+  content: "\ebca";
 }
 .cf-nexxo:before {
-  content: "\ebec";
+  content: "\ebcb";
 }
 .cf-ngc:before {
-  content: "\ebed";
+  content: "\ebcc";
 }
 .cf-nio:before {
-  content: "\ebee";
+  content: "\ebcd";
 }
 .cf-nkn:before {
-  content: "\ebef";
+  content: "\ebce";
 }
 .cf-nlc2:before {
-  content: "\ebf0";
+  content: "\ebcf";
 }
 .cf-nlg:before {
-  content: "\ebf1";
+  content: "\ebd0";
 }
 .cf-nlx:before {
-  content: "\ebf2";
+  content: "\ebd1";
 }
 .cf-nmc:before {
-  content: "\ebf3";
+  content: "\ebd2";
 }
 .cf-nmr:before {
-  content: "\ebf4";
+  content: "\ebd3";
 }
 .cf-nms:before {
-  content: "\ebf5";
+  content: "\ebd4";
 }
 .cf-nobl:before {
-  content: "\ebf6";
+  content: "\ebd5";
 }
 .cf-nper:before {
-  content: "\ebf7";
+  content: "\ebd6";
 }
 .cf-npxs:before {
-  content: "\ebf8";
+  content: "\ebd7";
 }
 .cf-nrg:before {
-  content: "\ebf9";
+  content: "\ebd8";
 }
 .cf-nrve:before {
-  content: "\ebfa";
+  content: "\ebd9";
 }
 .cf-nsr:before {
-  content: "\ebfb";
+  content: "\ebda";
 }
 .cf-ntk:before {
-  content: "\ebfc";
+  content: "\ebdb";
 }
 .cf-ntrn:before {
-  content: "\ebfd";
+  content: "\ebdc";
 }
 .cf-nuko:before {
-  content: "\ebfe";
+  content: "\ebdd";
 }
 .cf-nuls:before {
-  content: "\ebff";
+  content: "\ebde";
 }
 .cf-nvst:before {
-  content: "\ec00";
+  content: "\ebdf";
 }
 .cf-nxs:before {
-  content: "\ec01";
+  content: "\ebe0";
 }
 .cf-nxt:before {
-  content: "\ec02";
+  content: "\ebe1";
 }
 .cf-nyan:before {
-  content: "\ec03";
+  content: "\ebe2";
 }
 .cf-oag:before {
-  content: "\ec04";
+  content: "\ebe3";
 }
 .cf-oax:before {
-  content: "\ec05";
+  content: "\ebe4";
 }
 .cf-obits:before {
-  content: "\ec06";
+  content: "\ebe5";
 }
 .cf-oc:before {
-  content: "\ec07";
+  content: "\ebe6";
 }
 .cf-occ:before {
-  content: "\ec08";
+  content: "\ebe7";
 }
 .cf-ocean:before {
-  content: "\ec09";
+  content: "\ebe8";
 }
 .cf-ocn:before {
-  content: "\ec0a";
+  content: "\ebe9";
 }
 .cf-oct:before {
-  content: "\ec0b";
+  content: "\ebea";
 }
 .cf-ode:before {
-  content: "\ec0c";
+  content: "\ebeb";
 }
 .cf-odn:before {
-  content: "\ec0d";
+  content: "\ebec";
 }
 .cf-ogn:before {
-  content: "\ec0e";
+  content: "\ebed";
 }
 .cf-ok:before {
-  content: "\ec0f";
+  content: "\ebee";
 }
-.cf-okb .path1:before {
-  content: "\ec10";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.cf-okb .path2:before {
-  content: "\ec11";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
-}
-.cf-okb .path3:before {
-  content: "\ec12";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.5;
-}
-.cf-okb .path4:before {
-  content: "\ec13";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.8;
-}
-.cf-okb .path5:before {
-  content: "\ec14";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.7;
-}
-.cf-okb .path6:before {
-  content: "\ec15";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.7;
-}
-.cf-okb .path7:before {
-  content: "\ec16";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-okb .path8:before {
-  content: "\ec17";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
+.cf-okb:before {
+  content: "\ebef";
 }
 .cf-olt:before {
-  content: "\ec18";
+  content: "\ebf0";
 }
 .cf-omg:before {
-  content: "\ec19";
+  content: "\ebf1";
 }
 .cf-omni:before {
-  content: "\ec1a";
+  content: "\ebf2";
 }
 .cf-omx:before {
-  content: "\ec1b";
+  content: "\ebf3";
 }
 .cf-one:before {
-  content: "\ec1c";
+  content: "\ebf4";
 }
 .cf-onion:before {
-  content: "\ec1d";
+  content: "\ebf5";
 }
 .cf-ont:before {
-  content: "\ec1e";
+  content: "\ebf6";
 }
 .cf-onx:before {
-  content: "\ec1f";
+  content: "\ebf7";
 }
 .cf-oot:before {
-  content: "\ec20";
+  content: "\ebf8";
 }
 .cf-opc:before {
-  content: "\ec21";
+  content: "\ebf9";
 }
 .cf-open:before {
-  content: "\ec22";
+  content: "\ebfa";
 }
 .cf-opt:before {
-  content: "\ec23";
+  content: "\ebfb";
 }
-.cf-orbs .path1:before {
-  content: "\ec24";
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path2:before {
-  content: "\ec25";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path3:before {
-  content: "\ec26";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path4:before {
-  content: "\ec27";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path5:before {
-  content: "\ec28";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path6:before {
-  content: "\ec29";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path7:before {
-  content: "\ec2a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path8:before {
-  content: "\ec2b";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path9:before {
-  content: "\ec2c";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path10:before {
-  content: "\ec2d";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.5;
-}
-.cf-orbs .path11:before {
-  content: "\ec2e";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path12:before {
-  content: "\ec2f";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path13:before {
-  content: "\ec30";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path14:before {
-  content: "\ec31";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path15:before {
-  content: "\ec32";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path16:before {
-  content: "\ec33";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path17:before {
-  content: "\ec34";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path18:before {
-  content: "\ec35";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path19:before {
-  content: "\ec36";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path20:before {
-  content: "\ec37";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path21:before {
-  content: "\ec38";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path22:before {
-  content: "\ec39";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path23:before {
-  content: "\ec3a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path24:before {
-  content: "\ec3b";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path25:before {
-  content: "\ec3c";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path26:before {
-  content: "\ec3d";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path27:before {
-  content: "\ec3e";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path28:before {
-  content: "\ec3f";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path29:before {
-  content: "\ec40";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path30:before {
-  content: "\ec41";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path31:before {
-  content: "\ec42";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path32:before {
-  content: "\ec43";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path33:before {
-  content: "\ec44";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-orbs .path34:before {
-  content: "\ec45";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
+.cf-orbs:before {
+  content: "\ebfc";
 }
 .cf-ore:before {
-  content: "\ec46";
+  content: "\ebfd";
 }
 .cf-ori:before {
-  content: "\ec47";
+  content: "\ebfe";
 }
 .cf-orme:before {
-  content: "\ec48";
+  content: "\ebff";
 }
 .cf-ost:before {
-  content: "\ec49";
+  content: "\ec00";
 }
 .cf-otn:before {
-  content: "\ec4a";
+  content: "\ec01";
 }
 .cf-otx:before {
-  content: "\ec4b";
+  content: "\ec02";
 }
 .cf-ovc:before {
-  content: "\ec4c";
+  content: "\ec03";
 }
 .cf-oxt:before {
-  content: "\ec4d";
+  content: "\ec04";
 }
 .cf-oxy:before {
-  content: "\ec4e";
+  content: "\ec05";
 }
 .cf-pac:before {
-  content: "\ec4f";
+  content: "\ec06";
 }
 .cf-pai:before {
-  content: "\ec50";
+  content: "\ec07";
 }
 .cf-pak:before {
-  content: "\ec51";
+  content: "\ec08";
 }
 .cf-pal:before {
-  content: "\ec52";
+  content: "\ec09";
 }
 .cf-pareto:before {
-  content: "\ec53";
+  content: "\ec0a";
 }
 .cf-part:before {
-  content: "\ec54";
+  content: "\ec0b";
 }
 .cf-pasc:before {
-  content: "\ec55";
+  content: "\ec0c";
 }
 .cf-pasl:before {
-  content: "\ec56";
+  content: "\ec0d";
 }
 .cf-pat:before {
-  content: "\ec57";
+  content: "\ec0e";
 }
-.cf-pax .path1:before {
-  content: "\ec58";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.cf-pax .path2:before {
-  content: "\ec59";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
-}
-.cf-pax .path3:before {
-  content: "\ec5a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.cf-pax .path4:before {
-  content: "\ec5b";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.8;
-}
-.cf-pax .path5:before {
-  content: "\ec5c";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.8;
-}
-.cf-pax .path6:before {
-  content: "\ec5d";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
+.cf-pax:before {
+  content: "\ec0f";
 }
 .cf-pay:before {
-  content: "\ec5e";
+  content: "\ec10";
 }
 .cf-payx:before {
-  content: "\ec5f";
+  content: "\ec11";
 }
 .cf-pbl:before {
-  content: "\ec60";
+  content: "\ec12";
 }
 .cf-pbt:before {
-  content: "\ec61";
+  content: "\ec13";
 }
 .cf-pcl:before {
-  content: "\ec62";
+  content: "\ec14";
 }
 .cf-pcn:before {
-  content: "\ec63";
+  content: "\ec15";
 }
 .cf-perl:before {
-  content: "\ec64";
+  content: "\ec16";
 }
 .cf-pfr:before {
-  content: "\ec65";
+  content: "\ec17";
 }
 .cf-pho:before {
-  content: "\ec66";
+  content: "\ec18";
 }
 .cf-phr:before {
-  content: "\ec67";
+  content: "\ec19";
 }
 .cf-phs:before {
-  content: "\ec68";
+  content: "\ec1a";
 }
 .cf-ping:before {
-  content: "\ec69";
+  content: "\ec1b";
 }
 .cf-pink:before {
-  content: "\ec6a";
+  content: "\ec1c";
 }
 .cf-pirl:before {
-  content: "\ec6b";
+  content: "\ec1d";
 }
 .cf-pivx:before {
-  content: "\ec6c";
+  content: "\ec1e";
 }
 .cf-pix:before {
-  content: "\ec6d";
+  content: "\ec1f";
 }
 .cf-pkc:before {
-  content: "\ec6e";
+  content: "\ec20";
 }
 .cf-pkt:before {
-  content: "\ec6f";
+  content: "\ec21";
 }
 .cf-plan:before {
-  content: "\ec70";
+  content: "\ec22";
 }
 .cf-play:before {
-  content: "\ec71";
+  content: "\ec23";
 }
 .cf-plbt:before {
-  content: "\ec72";
+  content: "\ec24";
 }
 .cf-plc:before {
-  content: "\ec73";
+  content: "\ec25";
 }
 .cf-plr:before {
-  content: "\ec74";
+  content: "\ec26";
 }
 .cf-plu:before {
-  content: "\ec75";
+  content: "\ec27";
 }
 .cf-plx:before {
-  content: "\ec76";
+  content: "\ec28";
 }
 .cf-pmnt:before {
-  content: "\ec77";
+  content: "\ec29";
 }
-.cf-pnt .path1:before {
-  content: "\ec78";
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
-}
-.cf-pnt .path2:before {
-  content: "\ec79";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-pnt .path3:before {
-  content: "\ec7a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-pnt .path4:before {
-  content: "\ec7b";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-pnt .path5:before {
-  content: "\ec7c";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-pnt .path6:before {
-  content: "\ec7d";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-pnt .path7:before {
-  content: "\ec7e";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
+.cf-pnt:before {
+  content: "\ec2a";
 }
 .cf-poa:before {
-  content: "\ec7f";
+  content: "\ec2b";
 }
 .cf-poe:before {
-  content: "\ec80";
+  content: "\ec2c";
 }
 .cf-polis:before {
-  content: "\ec81";
+  content: "\ec2d";
 }
 .cf-poll:before {
-  content: "\ec82";
+  content: "\ec2e";
 }
 .cf-poly:before {
-  content: "\ec83";
+  content: "\ec2f";
 }
 .cf-pos:before {
-  content: "\ec84";
+  content: "\ec30";
 }
 .cf-post:before {
-  content: "\ec85";
+  content: "\ec31";
 }
 .cf-posw:before {
-  content: "\ec86";
+  content: "\ec32";
 }
 .cf-pot:before {
-  content: "\ec87";
+  content: "\ec33";
 }
-.cf-powr .path1:before {
-  content: "\ec88";
-  color: rgb(0, 0, 0);
-  opacity: 0.73;
-}
-.cf-powr .path2:before {
-  content: "\ec89";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.43;
-}
-.cf-powr .path3:before {
-  content: "\ec8a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.48;
-}
-.cf-powr .path4:before {
-  content: "\ec8b";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.18;
-}
-.cf-powr .path5:before {
-  content: "\ec8c";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.53;
-}
-.cf-powr .path6:before {
-  content: "\ec8d";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.23;
-}
-.cf-powr .path7:before {
-  content: "\ec8e";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.58;
-}
-.cf-powr .path8:before {
-  content: "\ec8f";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.28;
-}
-.cf-powr .path9:before {
-  content: "\ec90";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.63;
-}
-.cf-powr .path10:before {
-  content: "\ec91";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.33;
-}
-.cf-powr .path11:before {
-  content: "\ec92";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.68;
-}
-.cf-powr .path12:before {
-  content: "\ec93";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.38;
+.cf-powr:before {
+  content: "\ec34";
 }
 .cf-ppc:before {
-  content: "\ec94";
+  content: "\ec35";
 }
 .cf-ppp:before {
-  content: "\ec95";
+  content: "\ec36";
 }
 .cf-ppt:before {
-  content: "\ec96";
+  content: "\ec37";
 }
 .cf-ppy:before {
-  content: "\ec97";
+  content: "\ec38";
 }
 .cf-pra:before {
-  content: "\ec98";
+  content: "\ec39";
 }
 .cf-pre:before {
-  content: "\ec99";
+  content: "\ec3a";
 }
 .cf-prg:before {
-  content: "\ec9a";
+  content: "\ec3b";
 }
 .cf-prl:before {
-  content: "\ec9b";
+  content: "\ec3c";
 }
 .cf-pro:before {
-  content: "\ec9c";
+  content: "\ec3d";
 }
 .cf-proc:before {
-  content: "\ec9d";
+  content: "\ec3e";
 }
 .cf-prq:before {
-  content: "\ec9e";
+  content: "\ec3f";
 }
 .cf-prs:before {
-  content: "\ec9f";
+  content: "\ec40";
 }
 .cf-pst:before {
-  content: "\eca0";
+  content: "\ec41";
 }
 .cf-ptc:before {
-  content: "\eca1";
+  content: "\ec42";
 }
 .cf-ptoy:before {
-  content: "\eca2";
+  content: "\ec43";
 }
 .cf-pura:before {
-  content: "\eca3";
+  content: "\ec44";
 }
 .cf-pure:before {
-  content: "\eca4";
+  content: "\ec45";
 }
 .cf-pwr:before {
-  content: "\eca5";
+  content: "\ec46";
 }
 .cf-pylnt:before {
-  content: "\eca6";
+  content: "\ec47";
 }
 .cf-pzm:before {
-  content: "\eca7";
+  content: "\ec48";
 }
 .cf-qash:before {
-  content: "\eca8";
+  content: "\ec49";
 }
 .cf-qau:before {
-  content: "\eca9";
+  content: "\ec4a";
 }
 .cf-qbic:before {
-  content: "\ecaa";
+  content: "\ec4b";
 }
 .cf-qbit:before {
-  content: "\ecab";
+  content: "\ec4c";
 }
 .cf-qbt:before {
-  content: "\ecac";
+  content: "\ec4d";
 }
 .cf-qkc:before {
-  content: "\ecad";
+  content: "\ec4e";
 }
 .cf-qlc:before {
-  content: "\ecae";
+  content: "\ec4f";
 }
 .cf-qlr:before {
-  content: "\ecaf";
+  content: "\ec50";
 }
-.cf-qnt .path1:before {
-  content: "\ecb0";
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
-}
-.cf-qnt .path2:before {
-  content: "\ecb1";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.5;
-}
-.cf-qnt .path3:before {
-  content: "\ecb2";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.8;
-}
-.cf-qnt .path4:before {
-  content: "\ecb3";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.cf-qnt .path5:before {
-  content: "\ecb4";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
-}
-.cf-qnt .path6:before {
-  content: "\ecb5";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.8;
-}
-.cf-qnt .path7:before {
-  content: "\ecb6";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
+.cf-qnt:before {
+  content: "\ec51";
 }
 .cf-qora:before {
-  content: "\ecb7";
+  content: "\ec52";
 }
 .cf-qrk:before {
-  content: "\ecb8";
+  content: "\ec53";
 }
 .cf-qsp:before {
-  content: "\ecb9";
+  content: "\ec54";
 }
 .cf-qtum:before {
-  content: "\ecba";
+  content: "\ec55";
 }
 .cf-qun:before {
-  content: "\ecbb";
+  content: "\ec56";
 }
 .cf-qvt:before {
-  content: "\ecbc";
+  content: "\ec57";
 }
 .cf-qwark:before {
-  content: "\ecbd";
+  content: "\ec58";
 }
 .cf-r:before {
-  content: "\ecbe";
+  content: "\ec59";
 }
 .cf-rads:before {
-  content: "\ecbf";
+  content: "\ec5a";
 }
 .cf-rae:before {
-  content: "\ecc0";
+  content: "\ec5b";
 }
 .cf-rain:before {
-  content: "\ecc1";
+  content: "\ec5c";
 }
 .cf-rbt:before {
-  content: "\ecc2";
+  content: "\ec5d";
 }
 .cf-rby:before {
-  content: "\ecc3";
+  content: "\ec5e";
 }
 .cf-rcn:before {
-  content: "\ecc4";
+  content: "\ec5f";
 }
 .cf-rdd:before {
-  content: "\ecc5";
+  content: "\ec60";
 }
 .cf-rdn:before {
-  content: "\ecc6";
+  content: "\ec61";
 }
 .cf-real:before {
-  content: "\ecc7";
+  content: "\ec62";
 }
 .cf-rebl:before {
-  content: "\ecc8";
+  content: "\ec63";
 }
 .cf-red:before {
-  content: "\ecc9";
+  content: "\ec64";
 }
 .cf-ree:before {
-  content: "\ecca";
+  content: "\ec65";
 }
 .cf-ref:before {
-  content: "\eccb";
+  content: "\ec66";
 }
 .cf-rem:before {
-  content: "\eccc";
+  content: "\ec67";
 }
 .cf-ren:before {
-  content: "\eccd";
+  content: "\ec68";
 }
 .cf-rep:before {
-  content: "\ecce";
+  content: "\ec69";
 }
 .cf-repo:before {
-  content: "\eccf";
+  content: "\ec6a";
 }
-.cf-req .path1:before {
-  content: "\ecd0";
-  color: rgb(0, 0, 0);
-  opacity: 0.6;
-}
-.cf-req .path2:before {
-  content: "\ecd1";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
+.cf-req:before {
+  content: "\ec6b";
 }
 .cf-rex:before {
-  content: "\ecd2";
+  content: "\ec6c";
 }
 .cf-rfox:before {
-  content: "\ecd3";
+  content: "\ec6d";
 }
 .cf-rfr:before {
-  content: "\ecd4";
+  content: "\ec6e";
 }
 .cf-rhoc:before {
-  content: "\ecd5";
+  content: "\ec6f";
 }
 .cf-ric:before {
-  content: "\ecd6";
+  content: "\ec70";
 }
 .cf-rif:before {
-  content: "\ecd7";
+  content: "\ec71";
 }
 .cf-rise:before {
-  content: "\ecd8";
+  content: "\ec72";
 }
 .cf-rkt:before {
-  content: "\ecd9";
+  content: "\ec73";
 }
 .cf-rlc:before {
-  content: "\ecda";
+  content: "\ec74";
 }
 .cf-rmt:before {
-  content: "\ecdb";
+  content: "\ec75";
 }
 .cf-rnt:before {
-  content: "\ecdc";
+  content: "\ec76";
 }
 .cf-rntb:before {
-  content: "\ecdd";
+  content: "\ec77";
 }
 .cf-rpx:before {
-  content: "\ecde";
+  content: "\ec78";
 }
 .cf-rsr:before {
-  content: "\ecdf";
+  content: "\ec79";
 }
 .cf-ruff:before {
-  content: "\ece0";
+  content: "\ec7a";
 }
 .cf-rune:before {
-  content: "\ece1";
+  content: "\ec7b";
 }
 .cf-rup:before {
-  content: "\ece2";
+  content: "\ec7c";
 }
 .cf-rvn:before {
-  content: "\ece3";
+  content: "\ec7d";
 }
 .cf-rvt:before {
-  content: "\ece4";
+  content: "\ec7e";
 }
 .cf-s:before {
-  content: "\ece5";
+  content: "\ec7f";
 }
 .cf-safex:before {
-  content: "\ece6";
+  content: "\ec80";
 }
 .cf-saga:before {
-  content: "\ece7";
+  content: "\ec81";
 }
 .cf-sai:before {
-  content: "\ece8";
+  content: "\ec82";
 }
 .cf-sal:before {
-  content: "\ece9";
+  content: "\ec83";
 }
 .cf-salt:before {
-  content: "\ecea";
+  content: "\ec84";
 }
 .cf-san:before {
-  content: "\eceb";
+  content: "\ec85";
 }
 .cf-sbtc:before {
-  content: "\ecec";
+  content: "\ec86";
 }
 .cf-scl:before {
-  content: "\eced";
+  content: "\ec87";
 }
 .cf-scrl:before {
-  content: "\ecee";
+  content: "\ec88";
 }
 .cf-scs:before {
-  content: "\ecef";
+  content: "\ec89";
 }
 .cf-sct:before {
-  content: "\ecf0";
+  content: "\ec8a";
 }
 .cf-sdc:before {
-  content: "\ecf1";
+  content: "\ec8b";
 }
 .cf-sdrn:before {
-  content: "\ecf2";
+  content: "\ec8c";
 }
 .cf-seele:before {
-  content: "\ecf3";
+  content: "\ec8d";
 }
 .cf-sem:before {
-  content: "\ecf4";
+  content: "\ec8e";
 }
 .cf-sen:before {
-  content: "\ecf5";
+  content: "\ec8f";
 }
 .cf-senc:before {
-  content: "\ecf6";
+  content: "\ec90";
 }
 .cf-send:before {
-  content: "\ecf7";
+  content: "\ec91";
 }
 .cf-sense:before {
-  content: "\ecf8";
+  content: "\ec92";
 }
 .cf-sent:before {
-  content: "\ecf9";
+  content: "\ec93";
 }
 .cf-seq:before {
-  content: "\ecfa";
+  content: "\ec94";
 }
 .cf-seth:before {
-  content: "\ecfb";
+  content: "\ec95";
 }
 .cf-sexc:before {
-  content: "\ecfc";
+  content: "\ec96";
 }
 .cf-sfc:before {
-  content: "\ecfd";
+  content: "\ec97";
 }
 .cf-sgcc:before {
-  content: "\ecfe";
+  content: "\ec98";
 }
 .cf-sgn:before {
-  content: "\ecff";
+  content: "\ec99";
 }
 .cf-sgr:before {
-  content: "\ed00";
+  content: "\ec9a";
 }
 .cf-shift:before {
-  content: "\ed01";
+  content: "\ec9b";
 }
 .cf-ship:before {
-  content: "\ed02";
+  content: "\ec9c";
 }
 .cf-shl:before {
-  content: "\ed03";
+  content: "\ec9d";
 }
 .cf-shorty:before {
-  content: "\ed04";
+  content: "\ec9e";
 }
 .cf-shp:before {
-  content: "\ed05";
+  content: "\ec9f";
 }
 .cf-shuf:before {
-  content: "\ed06";
+  content: "\eca0";
 }
 .cf-sia:before {
-  content: "\ed07";
+  content: "\eca1";
 }
 .cf-sib:before {
-  content: "\ed08";
+  content: "\eca2";
 }
 .cf-sigt:before {
-  content: "\ed09";
+  content: "\eca3";
 }
 .cf-skb:before {
-  content: "\ed0a";
+  content: "\eca4";
 }
 .cf-skin:before {
-  content: "\ed0b";
+  content: "\eca5";
 }
 .cf-skl:before {
-  content: "\ed0c";
+  content: "\eca6";
 }
 .cf-skm:before {
-  content: "\ed0d";
+  content: "\eca7";
 }
 .cf-sky:before {
-  content: "\ed0e";
+  content: "\eca8";
 }
 .cf-slg:before {
-  content: "\ed0f";
+  content: "\eca9";
 }
 .cf-slr:before {
-  content: "\ed10";
+  content: "\ecaa";
 }
 .cf-sls:before {
-  content: "\ed11";
+  content: "\ecab";
 }
 .cf-slt:before {
-  content: "\ed12";
+  content: "\ecac";
 }
 .cf-smart:before {
-  content: "\ed13";
+  content: "\ecad";
 }
 .cf-smc:before {
-  content: "\ed14";
+  content: "\ecae";
 }
 .cf-sms:before {
-  content: "\ed15";
+  content: "\ecaf";
 }
 .cf-smt:before {
-  content: "\ed16";
+  content: "\ecb0";
 }
 .cf-snc:before {
-  content: "\ed17";
+  content: "\ecb1";
 }
 .cf-sngls:before {
-  content: "\ed18";
+  content: "\ecb2";
 }
 .cf-snm:before {
-  content: "\ed19";
+  content: "\ecb3";
 }
 .cf-snt:before {
-  content: "\ed1a";
+  content: "\ecb4";
 }
 .cf-sntr:before {
-  content: "\ed1b";
+  content: "\ecb5";
 }
 .cf-snx:before {
-  content: "\ed1c";
+  content: "\ecb6";
 }
 .cf-soar:before {
-  content: "\ed1d";
+  content: "\ecb7";
 }
 .cf-soc:before {
-  content: "\ed1e";
+  content: "\ecb8";
 }
 .cf-soil:before {
-  content: "\ed1f";
+  content: "\ecb9";
 }
 .cf-sol:before {
-  content: "\ed20";
+  content: "\ecba";
 }
 .cf-soul:before {
-  content: "\ed21";
+  content: "\ecbb";
 }
 .cf-spank:before {
-  content: "\ed22";
+  content: "\ecbc";
 }
 .cf-spd:before {
-  content: "\ed23";
+  content: "\ecbd";
 }
 .cf-spd2:before {
-  content: "\ed24";
+  content: "\ecbe";
 }
 .cf-spf:before {
-  content: "\ed25";
+  content: "\ecbf";
 }
 .cf-sphtx:before {
-  content: "\ed26";
+  content: "\ecc0";
 }
 .cf-spk:before {
-  content: "\ed27";
+  content: "\ecc1";
 }
 .cf-spn:before {
-  content: "\ed28";
+  content: "\ecc2";
 }
 .cf-spr:before {
-  content: "\ed29";
+  content: "\ecc3";
 }
 .cf-sprts:before {
-  content: "\ed2a";
+  content: "\ecc4";
 }
 .cf-src:before {
-  content: "\ed2b";
+  content: "\ecc5";
 }
 .cf-srcoin:before {
-  content: "\ed2c";
+  content: "\ecc6";
 }
 .cf-srm:before {
-  content: "\ed2d";
+  content: "\ecc7";
 }
 .cf-srn:before {
-  content: "\ed2e";
+  content: "\ecc8";
 }
 .cf-ss:before {
-  content: "\ed2f";
+  content: "\ecc9";
 }
 .cf-ssp:before {
-  content: "\ed30";
+  content: "\ecca";
 }
 .cf-sss:before {
-  content: "\ed31";
+  content: "\eccb";
 }
 .cf-sta:before {
-  content: "\ed32";
+  content: "\eccc";
 }
 .cf-stac:before {
-  content: "\ed33";
+  content: "\eccd";
 }
 .cf-stak:before {
-  content: "\ed34";
+  content: "\ecce";
 }
 .cf-stake:before {
-  content: "\ed35";
+  content: "\eccf";
 }
 .cf-start:before {
-  content: "\ed36";
+  content: "\ecd0";
 }
 .cf-stc:before {
-  content: "\ed37";
+  content: "\ecd1";
 }
 .cf-steem:before {
-  content: "\ed38";
+  content: "\ecd2";
 }
 .cf-stn2:before {
-  content: "\ed39";
+  content: "\ecd3";
 }
 .cf-storj:before {
-  content: "\ed3a";
+  content: "\ecd4";
 }
 .cf-storm:before {
-  content: "\ed3b";
+  content: "\ecd5";
 }
 .cf-stq:before {
-  content: "\ed3c";
+  content: "\ecd6";
 }
 .cf-strat:before {
-  content: "\ed3d";
+  content: "\ecd7";
 }
 .cf-strc:before {
-  content: "\ed3e";
+  content: "\ecd8";
 }
 .cf-stv:before {
-  content: "\ed3f";
+  content: "\ecd9";
 }
 .cf-stx:before {
-  content: "\ed40";
+  content: "\ecda";
 }
 .cf-sub:before {
-  content: "\ed41";
+  content: "\ecdb";
 }
 .cf-sumo:before {
-  content: "\ed42";
+  content: "\ecdc";
 }
 .cf-super:before {
-  content: "\ed43";
+  content: "\ecdd";
 }
 .cf-suqa:before {
-  content: "\ed44";
+  content: "\ecde";
 }
 .cf-sur:before {
-  content: "\ed45";
+  content: "\ecdf";
 }
 .cf-svh:before {
-  content: "\ed46";
+  content: "\ece0";
 }
 .cf-swftc:before {
-  content: "\ed47";
+  content: "\ece1";
 }
 .cf-swift:before {
-  content: "\ed48";
+  content: "\ece2";
 }
 .cf-swm:before {
-  content: "\ed49";
+  content: "\ece3";
 }
 .cf-swt:before {
-  content: "\ed4a";
+  content: "\ece4";
 }
 .cf-swtc:before {
-  content: "\ed4b";
+  content: "\ece5";
 }
 .cf-swth:before {
-  content: "\ed4c";
+  content: "\ece6";
 }
 .cf-sxdt:before {
-  content: "\ed4d";
+  content: "\ece7";
 }
 .cf-sxp:before {
-  content: "\ed4e";
+  content: "\ece8";
 }
 .cf-sys:before {
-  content: "\ed4f";
+  content: "\ece9";
 }
 .cf-taas:before {
-  content: "\ed50";
+  content: "\ecea";
 }
 .cf-tau:before {
-  content: "\ed51";
+  content: "\eceb";
 }
 .cf-tbar:before {
-  content: "\ed52";
+  content: "\ecec";
 }
 .cf-tbx:before {
-  content: "\ed53";
+  content: "\eced";
 }
 .cf-tct:before {
-  content: "\ed54";
+  content: "\ecee";
 }
 .cf-tdx:before {
-  content: "\ed55";
+  content: "\ecef";
 }
 .cf-tel:before {
-  content: "\ed56";
+  content: "\ecf0";
 }
 .cf-ten:before {
-  content: "\ed57";
+  content: "\ecf1";
 }
 .cf-tes:before {
-  content: "\ed58";
+  content: "\ecf2";
 }
 .cf-tfd:before {
-  content: "\ed59";
+  content: "\ecf3";
 }
 .cf-tfuel:before {
-  content: "\ed5a";
+  content: "\ecf4";
 }
 .cf-thc:before {
-  content: "\ed5b";
+  content: "\ecf5";
 }
 .cf-theta:before {
-  content: "\ed5c";
+  content: "\ecf6";
 }
 .cf-thr:before {
-  content: "\ed5d";
+  content: "\ecf7";
 }
 .cf-tie:before {
-  content: "\ed5e";
+  content: "\ecf8";
 }
 .cf-tig:before {
-  content: "\ed5f";
+  content: "\ecf9";
 }
 .cf-time:before {
-  content: "\ed60";
+  content: "\ecfa";
 }
 .cf-tio:before {
-  content: "\ed61";
+  content: "\ecfb";
 }
 .cf-tips:before {
-  content: "\ed62";
+  content: "\ecfc";
 }
 .cf-tit:before {
-  content: "\ed63";
+  content: "\ecfd";
 }
 .cf-tix:before {
-  content: "\ed64";
+  content: "\ecfe";
 }
 .cf-tka:before {
-  content: "\ed65";
+  content: "\ecff";
 }
 .cf-tkn:before {
-  content: "\ed66";
+  content: "\ed00";
 }
 .cf-tkr:before {
-  content: "\ed67";
+  content: "\ed01";
 }
 .cf-tks:before {
-  content: "\ed68";
+  content: "\ed02";
 }
 .cf-tky:before {
-  content: "\ed69";
+  content: "\ed03";
 }
 .cf-tmt:before {
-  content: "\ed6a";
+  content: "\ed04";
 }
 .cf-tnb:before {
-  content: "\ed6b";
+  content: "\ed05";
 }
 .cf-tnc:before {
-  content: "\ed6c";
+  content: "\ed06";
 }
 .cf-tns:before {
-  content: "\ed6d";
+  content: "\ed07";
 }
 .cf-tnt:before {
-  content: "\ed6e";
+  content: "\ed08";
 }
 .cf-tok:before {
-  content: "\ed6f";
+  content: "\ed09";
 }
 .cf-tokc:before {
-  content: "\ed70";
+  content: "\ed0a";
 }
 .cf-tomo:before {
-  content: "\ed71";
+  content: "\ed0b";
 }
 .cf-tpay:before {
-  content: "\ed72";
+  content: "\ed0c";
 }
 .cf-trac:before {
-  content: "\ed73";
+  content: "\ed0d";
 }
 .cf-trak:before {
-  content: "\ed74";
+  content: "\ed0e";
 }
 .cf-trb:before {
-  content: "\ed75";
+  content: "\ed0f";
 }
 .cf-trc:before {
-  content: "\ed76";
+  content: "\ed10";
 }
 .cf-trct:before {
-  content: "\ed77";
+  content: "\ed11";
 }
 .cf-trig:before {
-  content: "\ed78";
+  content: "\ed12";
 }
 .cf-trst:before {
-  content: "\ed79";
+  content: "\ed13";
 }
 .cf-trtl:before {
-  content: "\ed7a";
+  content: "\ed14";
 }
 .cf-true:before {
-  content: "\ed7b";
+  content: "\ed15";
 }
 .cf-trump:before {
-  content: "\ed7c";
+  content: "\ed16";
 }
 .cf-trust:before {
-  content: "\ed7d";
+  content: "\ed17";
 }
 .cf-trx:before {
-  content: "\ed7e";
+  content: "\ed18";
 }
 .cf-tryb:before {
-  content: "\ed7f";
+  content: "\ed19";
 }
 .cf-tsl:before {
-  content: "\ed80";
+  content: "\ed1a";
 }
 .cf-ttc:before {
-  content: "\ed81";
+  content: "\ed1b";
 }
 .cf-ttt:before {
-  content: "\ed82";
+  content: "\ed1c";
 }
 .cf-tube:before {
-  content: "\ed83";
+  content: "\ed1d";
 }
 .cf-turbo:before {
-  content: "\ed84";
+  content: "\ed1e";
 }
 .cf-tusd:before {
-  content: "\ed85";
+  content: "\ed1f";
 }
 .cf-tx:before {
-  content: "\ed86";
+  content: "\ed20";
 }
 .cf-tzc:before {
-  content: "\ed87";
+  content: "\ed21";
 }
 .cf-ubq:before {
-  content: "\ed88";
+  content: "\ed22";
 }
 .cf-ubt:before {
-  content: "\ed89";
+  content: "\ed23";
 }
 .cf-ubtc:before {
-  content: "\ed8a";
+  content: "\ed24";
 }
 .cf-ucash:before {
-  content: "\ed8b";
+  content: "\ed25";
 }
 .cf-ufo:before {
-  content: "\ed8c";
+  content: "\ed26";
 }
 .cf-ufr:before {
-  content: "\ed8d";
+  content: "\ed27";
 }
 .cf-ugc:before {
-  content: "\ed8e";
+  content: "\ed28";
 }
 .cf-uip:before {
-  content: "\ed8f";
+  content: "\ed29";
 }
 .cf-uis:before {
-  content: "\ed90";
+  content: "\ed2a";
 }
 .cf-ukg:before {
-  content: "\ed91";
+  content: "\ed2b";
 }
 .cf-ult:before {
-  content: "\ed92";
+  content: "\ed2c";
 }
 .cf-uma:before {
-  content: "\ed93";
+  content: "\ed2d";
 }
 .cf-unb:before {
-  content: "\ed94";
+  content: "\ed2e";
 }
 .cf-uni:before {
-  content: "\ed95";
+  content: "\ed2f";
 }
 .cf-unify:before {
-  content: "\ed96";
+  content: "\ed30";
 }
 .cf-unit:before {
-  content: "\ed97";
+  content: "\ed31";
 }
 .cf-unity:before {
-  content: "\ed98";
+  content: "\ed32";
 }
 .cf-uno:before {
-  content: "\ed99";
+  content: "\ed33";
 }
 .cf-uos:before {
-  content: "\ed9a";
+  content: "\ed34";
 }
 .cf-up:before {
-  content: "\ed9b";
+  content: "\ed35";
 }
 .cf-upp:before {
-  content: "\ed9c";
+  content: "\ed36";
 }
 .cf-uqc:before {
-  content: "\ed9d";
+  content: "\ed37";
 }
 .cf-usdc:before {
-  content: "\ed9e";
+  content: "\ed38";
 }
 .cf-usds:before {
-  content: "\ed9f";
+  content: "\ed39";
 }
 .cf-usdt:before {
-  content: "\eda0";
+  content: "\ed3a";
 }
 .cf-usnbt:before {
-  content: "\eda1";
+  content: "\ed3b";
 }
 .cf-utc:before {
-  content: "\eda2";
+  content: "\ed3c";
 }
 .cf-utk:before {
-  content: "\eda3";
+  content: "\ed3d";
 }
 .cf-utnp:before {
-  content: "\eda4";
+  content: "\ed3e";
 }
 .cf-uuu:before {
-  content: "\eda5";
+  content: "\ed3f";
 }
 .cf-v:before {
-  content: "\eda6";
+  content: "\ed40";
 }
 .cf-vee:before {
-  content: "\eda7";
+  content: "\ed41";
 }
 .cf-veri:before {
-  content: "\eda8";
+  content: "\ed42";
 }
 .cf-vest:before {
-  content: "\eda9";
+  content: "\ed43";
 }
 .cf-vet:before {
-  content: "\edaa";
+  content: "\ed44";
 }
 .cf-via:before {
-  content: "\edab";
+  content: "\ed45";
 }
 .cf-vib:before {
-  content: "\edac";
+  content: "\ed46";
 }
 .cf-vibe:before {
-  content: "\edad";
+  content: "\ed47";
 }
 .cf-vidt:before {
-  content: "\edae";
+  content: "\ed48";
 }
 .cf-vikky:before {
-  content: "\edaf";
+  content: "\ed49";
 }
 .cf-vin:before {
-  content: "\edb0";
+  content: "\ed4a";
 }
 .cf-vit:before {
-  content: "\edb1";
+  content: "\ed4b";
 }
 .cf-vite:before {
-  content: "\edb2";
+  content: "\ed4c";
 }
 .cf-viu:before {
-  content: "\edb3";
+  content: "\ed4d";
 }
 .cf-vivo:before {
-  content: "\edb4";
+  content: "\ed4e";
 }
 .cf-vme:before {
-  content: "\edb5";
+  content: "\ed4f";
 }
 .cf-voise:before {
-  content: "\edb6";
+  content: "\ed50";
 }
 .cf-vrc:before {
-  content: "\edb7";
+  content: "\ed51";
 }
 .cf-vrm:before {
-  content: "\edb8";
+  content: "\ed52";
 }
 .cf-vrs:before {
-  content: "\edb9";
+  content: "\ed53";
 }
 .cf-vsl:before {
-  content: "\edba";
+  content: "\ed54";
 }
 .cf-vsx:before {
-  content: "\edbb";
+  content: "\ed55";
 }
 .cf-vsys:before {
-  content: "\edbc";
+  content: "\ed56";
 }
 .cf-vtc:before {
-  content: "\edbd";
+  content: "\ed57";
 }
 .cf-vtr:before {
-  content: "\edbe";
+  content: "\ed58";
 }
 .cf-vzt:before {
-  content: "\edbf";
+  content: "\ed59";
 }
 .cf-wabi:before {
-  content: "\edc0";
+  content: "\ed5a";
 }
 .cf-wan:before {
-  content: "\edc1";
+  content: "\ed5b";
 }
 .cf-wand:before {
-  content: "\edc2";
+  content: "\ed5c";
 }
 .cf-warp:before {
-  content: "\edc3";
+  content: "\ed5d";
 }
 .cf-waves:before {
-  content: "\edc4";
+  content: "\ed5e";
 }
 .cf-wax:before {
-  content: "\edc5";
+  content: "\ed5f";
 }
 .cf-wbtc:before {
-  content: "\edc6";
+  content: "\ed60";
 }
 .cf-wct:before {
-  content: "\edc7";
+  content: "\ed61";
 }
 .cf-wdc:before {
-  content: "\edc8";
+  content: "\ed62";
 }
 .cf-wgr:before {
-  content: "\edc9";
+  content: "\ed63";
 }
 .cf-whl:before {
-  content: "\edca";
+  content: "\ed64";
 }
 .cf-wib:before {
-  content: "\edcb";
+  content: "\ed65";
 }
 .cf-wild:before {
-  content: "\edcc";
+  content: "\ed66";
 }
 .cf-wings:before {
-  content: "\edcd";
+  content: "\ed67";
 }
 .cf-wish:before {
-  content: "\edce";
+  content: "\ed68";
 }
 .cf-wpr:before {
-  content: "\edcf";
+  content: "\ed69";
 }
 .cf-wrc:before {
-  content: "\edd0";
+  content: "\ed6a";
 }
 .cf-wrx:before {
-  content: "\edd1";
+  content: "\ed6b";
 }
 .cf-wtc:before {
-  content: "\edd2";
+  content: "\ed6c";
 }
 .cf-wxt:before {
-  content: "\edd3";
+  content: "\ed6d";
 }
 .cf-xas:before {
-  content: "\edd4";
+  content: "\ed6e";
 }
 .cf-xaur:before {
-  content: "\edd5";
+  content: "\ed6f";
 }
 .cf-xbl:before {
-  content: "\edd6";
+  content: "\ed70";
 }
 .cf-xbp:before {
-  content: "\edd7";
+  content: "\ed71";
 }
 .cf-xbts:before {
-  content: "\edd8";
+  content: "\ed72";
 }
 .cf-xby:before {
-  content: "\edd9";
+  content: "\ed73";
 }
 .cf-xchf:before {
-  content: "\edda";
+  content: "\ed74";
 }
 .cf-xcp:before {
-  content: "\eddb";
+  content: "\ed75";
 }
 .cf-xcpo:before {
-  content: "\eddc";
+  content: "\ed76";
 }
 .cf-xct:before {
-  content: "\eddd";
+  content: "\ed77";
 }
 .cf-xcxt:before {
-  content: "\edde";
+  content: "\ed78";
 }
 .cf-xdce:before {
-  content: "\eddf";
+  content: "\ed79";
 }
 .cf-xdn:before {
-  content: "\ede0";
+  content: "\ed7a";
 }
 .cf-xel:before {
-  content: "\ede1";
+  content: "\ed7b";
 }
 .cf-xem:before {
-  content: "\ede2";
+  content: "\ed7c";
 }
 .cf-xes:before {
-  content: "\ede3";
+  content: "\ed7d";
 }
 .cf-xgox:before {
-  content: "\ede4";
+  content: "\ed7e";
 }
 .cf-xhv:before {
-  content: "\ede5";
+  content: "\ed7f";
 }
 .cf-xin:before {
-  content: "\ede6";
+  content: "\ed80";
 }
 .cf-xios:before {
-  content: "\ede7";
+  content: "\ed81";
 }
 .cf-xjo:before {
-  content: "\ede8";
+  content: "\ed82";
 }
 .cf-xlm:before {
-  content: "\ede9";
+  content: "\ed83";
 }
 .cf-xlq:before {
-  content: "\edea";
+  content: "\ed84";
 }
 .cf-xlr:before {
-  content: "\edeb";
+  content: "\ed85";
 }
 .cf-xmcc:before {
-  content: "\edec";
+  content: "\ed86";
 }
 .cf-xmg:before {
-  content: "\eded";
+  content: "\ed87";
 }
 .cf-xmo:before {
-  content: "\edee";
+  content: "\ed88";
 }
 .cf-xmr:before {
-  content: "\edef";
+  content: "\ed89";
 }
 .cf-xmx:before {
-  content: "\edf0";
+  content: "\ed8a";
 }
 .cf-xmy:before {
-  content: "\edf1";
+  content: "\ed8b";
 }
 .cf-xnk:before {
-  content: "\edf2";
+  content: "\ed8c";
 }
 .cf-xnn:before {
-  content: "\edf3";
+  content: "\ed8d";
 }
 .cf-xns:before {
-  content: "\edf4";
+  content: "\ed8e";
 }
 .cf-xp:before {
-  content: "\edf5";
+  content: "\ed8f";
 }
 .cf-xpa:before {
-  content: "\edf6";
+  content: "\ed90";
 }
 .cf-xpd:before {
-  content: "\edf7";
+  content: "\ed91";
 }
 .cf-xpm:before {
-  content: "\edf8";
+  content: "\ed92";
 }
 .cf-xptx:before {
-  content: "\edf9";
+  content: "\ed93";
 }
 .cf-xrh:before {
-  content: "\edfa";
+  content: "\ed94";
 }
 .cf-xrl:before {
-  content: "\edfb";
+  content: "\ed95";
 }
 .cf-xrp:before {
-  content: "\edfc";
+  content: "\ed96";
 }
 .cf-xsh:before {
-  content: "\edfd";
+  content: "\ed97";
 }
 .cf-xsn:before {
-  content: "\edfe";
+  content: "\ed98";
 }
 .cf-xspec:before {
-  content: "\edff";
+  content: "\ed99";
 }
 .cf-xsr:before {
-  content: "\ee00";
+  content: "\ed9a";
 }
 .cf-xst:before {
-  content: "\ee01";
+  content: "\ed9b";
 }
 .cf-xstc:before {
-  content: "\ee02";
+  content: "\ed9c";
 }
 .cf-xtl:before {
-  content: "\ee03";
+  content: "\ed9d";
 }
 .cf-xto:before {
-  content: "\ee04";
+  content: "\ed9e";
 }
 .cf-xtz:before {
-  content: "\ee05";
+  content: "\ed9f";
 }
 .cf-xvg:before {
-  content: "\ee06";
+  content: "\eda0";
 }
 .cf-xyo:before {
-  content: "\ee07";
+  content: "\eda1";
 }
 .cf-xzc:before {
-  content: "\ee08";
+  content: "\eda2";
 }
 .cf-yee:before {
-  content: "\ee09";
+  content: "\eda3";
 }
 .cf-yfi:before {
-  content: "\ee0a";
+  content: "\eda4";
 }
 .cf-yoc:before {
-  content: "\ee0b";
+  content: "\eda5";
 }
 .cf-yoyo:before {
-  content: "\ee0c";
+  content: "\eda6";
 }
 .cf-ytn:before {
-  content: "\ee0d";
+  content: "\eda7";
 }
 .cf-zai:before {
-  content: "\ee0e";
+  content: "\eda8";
 }
 .cf-zap:before {
-  content: "\ee0f";
+  content: "\eda9";
 }
 .cf-zb:before {
-  content: "\ee10";
+  content: "\edaa";
 }
 .cf-zcl:before {
-  content: "\ee11";
+  content: "\edab";
 }
 .cf-zco:before {
-  content: "\ee12";
+  content: "\edac";
 }
 .cf-zec:before {
-  content: "\ee13";
+  content: "\edad";
 }
 .cf-zel:before {
-  content: "\ee14";
+  content: "\edae";
 }
 .cf-zen:before {
-  content: "\ee15";
+  content: "\edaf";
 }
 .cf-zeni:before {
-  content: "\ee16";
+  content: "\edb0";
 }
 .cf-zeph:before {
-  content: "\ee17";
+  content: "\edb1";
 }
 .cf-zer:before {
-  content: "\ee18";
+  content: "\edb2";
 }
 .cf-zet:before {
-  content: "\ee19";
+  content: "\edb3";
 }
 .cf-zil:before {
-  content: "\ee1a";
+  content: "\edb4";
 }
 .cf-zipt:before {
-  content: "\ee1b";
+  content: "\edb5";
 }
 .cf-zla:before {
-  content: "\ee1c";
+  content: "\edb6";
 }
 .cf-zny:before {
-  content: "\ee1d";
+  content: "\edb7";
 }
 .cf-zoi:before {
-  content: "\ee1e";
+  content: "\edb8";
 }
 .cf-zpt:before {
-  content: "\ee1f";
+  content: "\edb9";
 }
 .cf-zrx:before {
-  content: "\ee20";
+  content: "\edba";
 }
 .cf-zsc:before {
-  content: "\ee21";
+  content: "\edbb";
 }
 .cf-zzc:before {
-  content: "\ee22";
+  content: "\edbc";
 }

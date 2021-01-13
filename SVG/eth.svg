@@ -3,13 +3,12 @@
 <svg version="1.1" id="Layer_2_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.8;}
-	.st1{opacity:0.6;}
+	.st0{enable-background:new    ;}
 </style>
-<polygon class="st0" points="250,6.6 398,251.1 250.5,188.1 "/>
-<polygon class="st1" points="102.4,251.1 250,6.6 250.5,188.1 "/>
+<polygon class="st0" points="254,1.6 402,246.1 254.5,183.1 "/>
+<polygon class="st0" points="102.4,246.1 250,1.6 250.5,183.1 "/>
 <polygon class="st0" points="250,341.3 102.4,251.1 250.5,188.1 "/>
-<polygon points="398,251.1 250.5,188.1 250,341.3 "/>
-<polygon class="st0" points="250,372.3 398,284.6 250,493.1 "/>
-<polygon class="st1" points="250,372.3 102.4,284.6 250,493.1 "/>
+<polygon points="402,251.1 254.5,188.1 254,341.3 "/>
+<polygon class="st0" points="254,372.3 402,284.6 254,493.1 "/>
+<polygon class="st0" points="250,372.3 102.4,284.6 250,493.1 "/>
 </svg>
