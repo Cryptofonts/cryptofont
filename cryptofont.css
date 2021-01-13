@@ -25,13 +25,13 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.cf-xbtc:before {
+.cf-0xbtc:before {
   content: "\e900";
 }
-.cf-inch:before {
+.cf-1inch:before {
   content: "\e901";
 }
-.cf-st:before {
+.cf-1st:before {
   content: "\e902";
 }
 .cf-42:before {
