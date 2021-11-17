@@ -1,0 +1,23 @@
+{
+  "name": "cryptofont",
+  "version": "1.3.5",
+  "description": "Cryptocurrency icon webfont and SVG",
+  "main": "index.js",
+  "scripts": {
+    "build": "cssnano cryptofont.css cryptofont.min.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monzanifabio/cryptofont.git"
+  },
+  "author": "Fabio Monzani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monzanifabio/cryptofont/issues"
+  },
+  "homepage": "https://github.com/monzanifabio/cryptofont#readme",
+  "dependencies": {
+    "cssnano-cli": "^1.0.5"
+  }
+}
