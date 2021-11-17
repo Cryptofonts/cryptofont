@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.3.5] - 2021-10-17
+### Added
+- ATA, BNC, FLOW, HNT, KEEP, SAND ,SHIB, TBTC, VAL
+### Updated
+- MANA, MATIC, REP
+
 ## [1.3.0] - 2021-01-14
 ### Added
 - 1INCH, 1ST,AAVE, AKRO, ALEPH, AVAX, BAC, BAL, BTC++, BZRX, CAKE, CELR, CHAI, CREAM, DOT, GRT, HEX, IRIS, KSM, LTO, RFOX, SOL, SPN, SRM, STAKE, SXP, UMA, VITE, YFI
