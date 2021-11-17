@@ -1,16 +1,17 @@
 @font-face {
   font-family: 'cryptofont';
-  src:  url('fonts/cryptofont.eot?ea921x');
-  src:  url('fonts/cryptofont.eot?ea921x#iefix') format('embedded-opentype'),
-    url('fonts/cryptofont.ttf?ea921x') format('truetype'),
-    url('fonts/cryptofont.woff?ea921x') format('woff'),
-    url('fonts/cryptofont.svg?ea921x#cryptofont') format('svg');
+  src:  url('fonts/cryptofont.eot?xavk16');
+  src:  url('fonts/cryptofont.eot?xavk16#iefix') format('embedded-opentype'),
+    url('fonts/cryptofont.ttf?xavk16') format('truetype'),
+    url('fonts/cryptofont.woff?xavk16') format('woff'),
+    url('fonts/cryptofont.svg?xavk16#cryptofont') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
 i {
+  /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'cryptofont';
   speak: never;
   font-style: normal;
@@ -27,6 +28,9 @@ i {
 .cf-0xbtc:before {
   content: "\e900";
 }
+.cf-1337:before {
+  content: "\e905";
+}
 .cf-1inch:before {
   content: "\e901";
 }
@@ -38,9 +42,6 @@ i {
 }
 .cf-888:before {
   content: "\e904";
-}
-.cf-1337:before {
-  content: "\e905";
 }
 .cf-aave:before {
   content: "\e906";
@@ -242,6 +243,9 @@ i {
 }
 .cf-astro:before {
   content: "\e948";
+}
+.cf-ata:before {
+  content: "\eb77";
 }
 .cf-atb:before {
   content: "\e949";
@@ -452,6 +456,9 @@ i {
 }
 .cf-bnb:before {
   content: "\e98e";
+}
+.cf-bnc:before {
+  content: "\eb79";
 }
 .cf-bnk:before {
   content: "\e98f";
@@ -1272,6 +1279,9 @@ i {
 .cf-flo:before {
   content: "\ea9f";
 }
+.cf-flow:before {
+  content: "\ec69";
+}
 .cf-fluz:before {
   content: "\eaa0";
 }
@@ -1515,6 +1525,9 @@ i {
 .cf-hmq:before {
   content: "\eaf0";
 }
+.cf-hnt:before {
+  content: "\edbd";
+}
 .cf-hot:before {
   content: "\eaf1";
 }
@@ -1740,6 +1753,9 @@ i {
 .cf-kcs:before {
   content: "\eb3b";
 }
+.cf-keep:before {
+  content: "\edbe";
+}
 .cf-key:before {
   content: "\eb3c";
 }
@@ -1917,14 +1933,11 @@ i {
 .cf-man:before {
   content: "\eb76";
 }
-.cf-mana-old:before {
-  content: "\eb77";
-}
 .cf-mana:before {
   content: "\eb78";
 }
 .cf-matic:before {
-  content: "\eb79";
+  content: "\edbf";
 }
 .cf-max:before {
   content: "\eb7a";
@@ -2644,7 +2657,7 @@ i {
   content: "\ec68";
 }
 .cf-rep:before {
-  content: "\ec69";
+  content: "\edc0";
 }
 .cf-repo:before {
   content: "\ec6a";
@@ -2730,6 +2743,9 @@ i {
 .cf-san:before {
   content: "\ec85";
 }
+.cf-sand:before {
+  content: "\edc1";
+}
 .cf-sbtc:before {
   content: "\ec86";
 }
@@ -2792,6 +2808,9 @@ i {
 }
 .cf-sgr:before {
   content: "\ec9a";
+}
+.cf-shib:before {
+  content: "\edc2";
 }
 .cf-shift:before {
   content: "\ec9b";
@@ -3038,6 +3057,9 @@ i {
 }
 .cf-tbar:before {
   content: "\ecec";
+}
+.cf-tbtc:before {
+  content: "\edc3";
 }
 .cf-tbx:before {
   content: "\eced";
@@ -3290,6 +3312,9 @@ i {
 }
 .cf-v:before {
   content: "\ed40";
+}
+.cf-val:before {
+  content: "\edc4";
 }
 .cf-vee:before {
   content: "\ed41";
