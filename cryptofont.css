@@ -10,7 +10,7 @@
   font-display: block;
 }
 
-i {
+i.cf {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'cryptofont';
   speak: never;
