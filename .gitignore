@@ -1,4 +1,5 @@
 .DS_Store
+package-lock.json
 cryptofont.json
 selection.json
 node_modules
