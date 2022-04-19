@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.4.0] - 2022-04-19
+### Added
+- APE, APY, AR, AUTO, AXS, BCHA, BIT, BOND, CELO, CRV, CVX, DFI, FEI, FOX, FRAX, GALA, HEART, ICP, KLAY, LOOKS, MIM, MINA, MIR, NFT, OHM, OSMO, QUICK, RARI, RAY, ROOK, RSV, SDT, STETH, SUSHI, TORN, TWT, USDP, XCN, XRD
+### Updated
+- AMP, BNB, DOT, KCS, MANA, OKB, QNT, QTUM, STX, TUSD
+
 ## [1.3.5] - 2021-10-17
 ### Added
 - ATA, BNC, FLOW, HNT, KEEP, SAND ,SHIB, TBTC, VAL
