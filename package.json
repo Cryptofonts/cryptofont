@@ -4,7 +4,7 @@
   "description": "Cryptocurrency icon webfont and SVG",
   "main": "index.js",
   "scripts": {
-    "build": "cssnano cryptofont.css cryptofont.min.css",
+    "build": "csso --output cryptofont.min.css cryptofont.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/monzanifabio/cryptofont#readme",
   "dependencies": {
-    "cssnano-cli": "^1.0.5"
+    "csso-cli": "^4.0.0"
   }
 }
